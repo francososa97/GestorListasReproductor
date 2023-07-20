@@ -9,6 +9,10 @@ namespace GestorListasReproductor
         {
             Console.WriteLine("Hello, World!");
             var ListaReproduccion = CreateListaReproduccion();
+            Console.WriteLine("Ingresaste : " + ListaReproduccion.Count()+ " Videos");
+            Console.WriteLine(ListaReproduccion.Where(x => x.Autor == "BettaTech").Count());
+            Console.WriteLine(ListaReproduccion.Where(x => x.Autor == "hdeleon.net").Count());
+            Console.WriteLine(ListaReproduccion.Where(x => x.Autor == "HolaMundo").Count());
         }
 
         private static List<Video> CreateListaReproduccion()
@@ -30,7 +34,7 @@ namespace GestorListasReproductor
                         ? Int16.Parse(durationArr[0]) * 3600 + Int16.Parse(durationArr[1]) * 60 + Int16.Parse(durationArr[2])
                         : Int16.Parse(durationArr[0]) * 60 + Int16.Parse(durationArr[1]);
 
-                    var video = new Video { Duracion = sec };
+                    var video = new Video { Duracion = sec, Titulo = obj[2], Autor = obj[3] };
                     lista.Add(video);
 
                 }
