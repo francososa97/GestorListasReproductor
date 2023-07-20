@@ -34,18 +34,18 @@ namespace GestorListasReproductor
             GetObtenerVideosMasCortos(ListReproduccionOrder);
         }
 
+        #region Metodos Privados
+
         private static void GetDiferenciaListaReprouduccion(List<Video> listaReproduccion, List<Video> listaReproduccionVieja)
         {
             int secondsListNew = 0;
-            int secondsListOld= 0;
+            int secondsListOld = 0;
             listaReproduccion.ForEach(item => secondsListNew += item.Duracion);
             listaReproduccionVieja.ForEach(item => secondsListOld += item.Duracion);
             Console.WriteLine($"Lista vieja {listaReproduccionVieja.Count()} Tiempo total antiguo {GetTime(secondsListOld)}\n\n");
             Console.WriteLine($"Lista nueva {listaReproduccion.Count()} Tiempo total nuevo {GetTime(secondsListNew)}\n\n");
             Console.WriteLine($"Felicidades viste {listaReproduccionVieja.Count() - listaReproduccion.Count()} videos y descontaste {GetTime(secondsListOld - secondsListNew)}\n\n");
         }
-
-        #region Metodos Privados
         private static void GetObtenerVideosMasCortos(List<Video> listReproduccionOrder)
         {
             var videosOrdenadosDuracion = listReproduccionOrder.OrderBy(x => x.Duracion).ToList();
