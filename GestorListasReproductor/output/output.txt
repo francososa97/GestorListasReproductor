@@ -1,0 +1,165 @@
+Lista de Videos
+
+________________________________________________________________________________
+
+Duracion total: 192:42:39
+
+Te quedan por ver 154 videos
+
+Felicidades ya viste: 351 
+ videos que representan 123:48:57 horas
+ 
+0 0:5:46 Enum Types en GraphQL | 📚 Curso desde cero de GraphQL - Parte 3
+1 0:6:2 📳 Mutation para editar datos en servidor de GraphQL - 📚 Curso desde cero de GraphQL - Parte 4
+2 0:10:34 RUST DESDE CERO ⚙️ PRIMEROS PASOS con el lenguaje de PROGRAMACIÓN
+3 0:14:3 Introducción a GraphQL en español. ¿Qué es? ¿Para qué sirve? Sus ventajas. [Curso express GraphQL]
+4 0:14:33 Búsqueda Binaria en C# [52]#️⃣
+5 0:16:43 Queries y GraphiQL con la API de Rick & Morty [Curso express GraphQL]
+6 0:16:46 Crea tu servidor GraphQL con Apollo Server [Curso express GraphQL]
+7 0:17:9 Aplicaciones en Tiempo Real con SignalR, enviando información desde el backend
+8 0:17:11 Haciendo un Formulario en un Modal con Blazorise al Estilo de Material Design en Blazor
+9 0:17:49 Patrón de Diseño DECORATOR | Explicado 🎨
+10 0:17:51 Conecta una API REST con GraphQL en Apollo Server [Curso express GraphQL]
+11 0:18:0 Cómo usar GraphQL en React ⚛️con Apollo Client [Curso express GraphQL]
+12 0:18:2 Getting Started with PyTorch in VS Code
+13 0:18:18 📚 Curso desde cero de GraphQL - Parte 2: Cambiando datos en el servidor con MUTATIONS
+14 0:21:24 ¿Qué diablos es SignalR? | Aplicaciones en tiempo real en .Net Core
+15 0:22:12 Pruebas unitarias y Test-Driven Development | Ejemplo desde cero
+16 0:22:31 ⭐️ Crea tu propio AUTOCOMPLETE con Tailwind, Next.js y Algolia desde cero y paso a paso
+17 0:22:57 Resuelvo PRUEBA TÉCNICA para PROGRAMADOR JUNIOR
+18 0:23:30 Ejemplo de JavaScript Avanzado (ÚLTIMO VIDEO)
+19 0:23:35 Entiende Bitcoin y Ethereum - Explicación técnica a fondo en español sobre Criptomonedas
+20 0:24:33 Crear Chat con Salas en C# .Net | Aplicaciones en tiempo real con SignalR
+21 0:24:50 🍃 ¡Aprende MongoDB desde cero! + Deploy Base de Datos con Atlas 📡 (Bootcamp FullStack JavaScript)
+22 0:25:10 Adapter | Integra aplicaciones con este patrón de diseño
+23 0:26:25 Observer | Notificando eventos en nuestras aplicaciones
+24 0:28:10 Strategy | Organiza tus algoritmos con este patrón de diseño
+25 0:28:33 ¡CON ESTE RETO APRENDERÁS A AMARTE! 30 DÍAS DE AMOR PROPIO
+26 0:30:44 BATERÍAS: ¿Cómo funcionan y por qué son un GRAN PROBLEMA?
+27 0:31:7 La cruda verdad sobre cómo armar un Data Lake - Hugo Bellomusto - Maximiliano Méndez
+28 0:31:10 La IA que cambió los juegos para siempre... Cómo funciona DLSS
+29 0:31:43 🖥 ¿Cómo ser BACKEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
+30 0:31:49 ¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React
+31 0:32:38 💻 ¿Cómo ser FRONTEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
+32 0:32:57 Curso de SEGURIDAD en Programación GRATIS, OWASP TOP 10
+33 0:34:52 ¿Existe la ARQUITECTURA de SOFTWARE Perfecta? Rafa Gómez de @CodelyTV
+34 0:35:4 Lo que NO te contaron sobre Ray Tracing
+35 0:35:20 200 verbos regulares e irregulares en inglés con pronunciación y significado en español
+36 0:35:59 Enriqueciendo nuestros AB tests con un enfoque bayesiano - Mauro Giormenti Moravec
+37 0:36:14 ❌ MANEJO DE ERRORES en RUST 🦀 (Lenguaje de Programación) | Rust desde cero.
+38 0:36:43 Prueba Este RETO PARA MANIFESTAR DINERO 7 DÍAS Y VERÁS RESULTADOS INCREÍBLES ¡Tu mente es poderosa!
+39 0:37:38 🔑 SESIÓN de USUARIO en REACT y en Local Storage ... y COOKIES 🍪? (Full Stack JavaScript Bootcamp)
+40 0:37:39 Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo
+41 0:37:41 Carlos Azaustre - Aprende JavaScript
+42 0:38:45 Crear el Videojuego Pong en Javascript
+43 0:38:57 Resuelvo el PROBLEMA del VIAJANTE Utilizando Aleatoriedad 🤘
+44 0:39:10 asp.net core - MediatR (CQRS) Tutorial & Tips
+45 0:39:43 CREA Usuarios y AÑADE SEGURIDAD a tus CONTRASEÑAS 🔒 en MongoDB (FullStack JavaScript Bootcamp)
+46 0:42:35 FULLSTACK Developer 👨‍💻¿En qué dirección trabajar para conseguir tus metas? 📈
+47 0:42:50 📚 Curso desde cero de GraphQL - Parte 1: ¿Qué es GraphQL? Creando un servidor desde cero con queries
+48 0:45:28 Integración Continua: qué es y cómo empezar a usarla en tu proyecto
+49 0:46:25 Las palabras más importantes en inglés para principiantes
+50 0:47:37 👨‍🏫 Fragmentos y Suscripciones en GraphQL en una aplicación con React⚛️
+51 0:47:58 🔝DESCUBRE los 50 VERBOS MÁS USADOS en INGLÉS / APRENDE por fin los VERBOS más HABITUALES 🚀(2023)
+52 0:48:16 Crea una APP con PYTHON y CHATGPT desde cero
+53 0:50:8 💻Conceptos Básicos de 👉ALGORITMIA👈 🚀
+54 0:51:53 🇪🇸 #3 - Cómo empezar con AWS? - Virtualización, contenedores, serverless (Podcast AWS en Español)
+55 0:52:9 FUNDAMENTOS de RUST 🦀 (lenguaje de programación) | Aprende Rust desde Cero en español
+56 0:52:57 ¿Cómo comenzar a Programar Frontend?
+57 0:54:24 midulive
+58 0:55:26 JSON Web Tokens 🔐 - Asegura tu Express API fácilmente (Full Stack JavaScript Bootcamp)
+59 0:56:17 Configura el linter ESLint y DEPLOY de tu API con Heroku 🚀 - Bootcamp FullStack JavaScript Gratuito
+60 0:57:23 🔴 TESTING de BACKEND con Express usando JEST y SUPERTEST ~ FullStack Bootcamp JavaScript
+61 0:57:51 Qué es Clean Architecture ? cómo aplicarlo a tu aplicación Front End ?
+62 0:57:52 CodelyTV - Redescubre la programación
+63 0:58:21 EXPRESIONES REGULARES Desde Cero
+64 1:0:25 Arquitectura de Datos, ¿y eso qué es? 📊
+65 1:3:40 Aumenta tu productividad programando ⚡ Probamos plugin asistente con INTELIGENCIA ARTIFICIAL 🤯
+66 1:4:23 KOTLIN Desde Cero: Primeros Pasos en una hora
+67 1:5:5 Las tecnologías más usadas en el 2021 | la función CodelyTV 59
+68 1:5:11 GPT-4, El Futuro de JavaScript, Sueldos en Tech | Raw Radio #3 ft Miguel Ángel Durán (Midudev)
+69 1:5:28 ChatGPT Miente, Despidos en Tech, ¿Qwik Promete?, España, Dominicode | Raw Radio #7 ft Bezael Pérez
+70 1:5:54 La Importancia de la Universidad | Invitada Hanna Oktaba
+71 1:7:25 CodelyTV - Redescubre la programación
+72 1:7:48 Simulacro de prueba técnica de React para Junior y Trainee
+73 1:8:7 El arte de Explicar - Lee Lefever (¿Cómo explicarse mejor?) !!RESUMEN¡¡(APOYO A EMPRENDEDORES)
+74 1:8:21 hdeleon.net
+75 1:9:1 Carlos Azaustre - Aprende JavaScript
+76 1:10:13 DART Desde Cero: Primeros Pasos en una hora
+77 1:10:13 Crea Aplicaciones de Escritorio con JavaScript y Electron
+78 1:10:17 Programamos una app con REMIX | #laFunción 7x12
+79 1:10:33 Revisión de proyectos de programación, noticias de tecnología y más #NullPointerExceptionLive
+80 1:10:49 Crea una WEB usando solo PYTHON
+81 1:11:10 GOLANG (GO) Desde Cero: Primeros Pasos
+82 1:11:59 ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design
+83 1:12:20 Mi primera vez con RUST | la función CodelyTV 71
+84 1:12:31 Solid.js Desde Cero ¿El sucesor de React? ⚛️
+85 1:12:38 ¿GPT-4 Remplazará Programadores?, Ser Freelance, Hate en Redes, Batman | Raw Radio #6 ft Brais Moure
+86 1:12:56 Webinar de Liderazgo | EducaciónBIZ
+87 1:13:3 BACKEND AVANZADO, The Commit Show, Auto-GPT, ¿Realidad Simulada? | Raw Radio #10 ft BettaTech
+88 1:14:59 SWIFT Desde Cero: Primeros Pasos en una hora
+89 1:15:22 ERES NEURODIVERSO y MULTIPOTENCIAL | 🎙Podcast Hablando.js con @paolatech
+90 1:16:7 2021 es el año de TypeScript y otras sorpresas del estado del desarrollo | la función CodelyTV 67
+91 1:16:58 Claves estoicas para superar las adversidades de la vida | Conferencia presencial | Borja Vilaseca
+92 1:17:7 ⚡ CÓMO DISEÑAR la Arquitectura de un Sistema | Pre-Lanzamiento de mi NUEVO CURSO
+93 1:17:46 8 patrones de diseño que deberías conocer, charla con Manuel Zapata
+94 1:18:30 Introducción al TESTING con PYTHON desde cero
+95 1:18:58 Stackoverflow ha sido comprado, noticias de tecnología #NullPointerExceptionLive
+96 1:19:1 Entrevista a Programadores de PcComponentes | la función CodelyTV 43
+97 1:19:2 ¿Comenzar por JavaScript o por React?, Minecraft, Burnout, GPT-4 | Raw Radio #9 ft Carlos Azaustre
+98 1:20:46 Paradigmas de programación | Invitado Nicolás Schürmann de @HolaMundoDev
+99 1:21:34 Nerdearla
+100 1:21:50 Webinar de Liderazgo | EducaciónBIZ
+101 1:25:45 🔴Preguntas y respuestas de Programación en VIVO #21, Mis primeras impresiones del lenguaje GO
+102 1:25:53 Arquitectura de MICROSERVICIOS | Conceptos | Ejemplo con Java y AWS
+103 1:25:54 Cambios de opinion durante mi carrera como desarrollador de software
+104 1:25:57 Microservicios en plataformas híbridas, modelo de devops y operación
+105 1:25:58 CodelyTV, SOLID, GPT-4, Lenguajes de Programación, Arq. de Software | Raw Radio #4 ft Javier Ferrer
+106 1:26:44 Hagamos una web 3D con Three.js y React Three Fiber
+107 1:26:45 midudev
+108 1:28:48 🔴 ¿Existe el Programador FULL STACK? | Preguntas y respuestas de Programación en VIVO #25
+109 1:29:16 😲 DOMINA EL INGLÉS con 250 Frases de los 125 VERBOS IRREGULARES en INGLÉS / Habla INGLÉS en 90 min.
+110 1:29:26 Aprende Docker ahora! curso completo gratis desde cero!
+111 1:30:43 Clase 4: Combinatoria
+112 1:30:53 Clase 2: Inducción Completa
+113 1:30:58 APRENDE a usar GRAPHQL en tu APP de REACT con APOLLO CLIENT 🚀
+114 1:31:13 Clase 3: Combinatoria
+115 1:32:11 Clase 5: Combinatoria
+116 1:32:54 🖥️ Supercomputadoras🚀 todo lo que siempre quisiste saber 🚄
+117 1:33:1 Clase 6: Combinatoria
+118 1:33:13 Clase 1: Inducción Completa
+119 1:33:40 El Futuro del Frontend, Creación de Contenido, Vivir en Canadá | Raw Radio #2 ft Fernando Herrera
+120 1:34:59 Vivir en Nueva Zelanda, Cancelaciones en Internet | Raw Radio #1 ft Nicolás Schürmann
+121 1:35:0 The Commit Show #3 ft @s4vitar | ¿Qué significa ser Hacker? ¿Cómo aprender Ciberseguridad?
+122 1:38:9 Reven
+123 1:38:19 🔌 Conecta MongoDB con GraphQL paso a paso
+124 1:39:34 Microsoft Visual Studio
+125 1:41:18 CONOCER TODO Sobre ti usando tu ADN, Biotecnología, Neurodiversidad | Raw Radio #24 ft Paola Garcia
+126 1:42:8 Aprendiendo NextJS, el framework de React con Server Side Rendering
+127 1:46:22 The Commit Show #5 ft @MatesMike | ¿P vs NP? ¿Matemáticas en la Informática?
+128 1:48:56 Webinar de Storytelling | EducaciónBIZ
+129 1:49:36 Webinar de Project Management | EducaciónBIZ
+130 1:49:49 No todo es programar | ¿Un poco de gaming? 👾
+131 1:54:59 Clean Architecture 👉Todo lo que necesitas saber
+132 1:55:21 midulive
+133 1:56:23 #1 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
+134 1:56:27 midudev
+135 1:59:7 midulive
+136 2:0:57 FLUTTER vs KOTLIN/SWIFT ¿Cuál es mejor para crear Aplicaciones?
+137 2:1:36 TRABAJA como PROGRAMADOR en el EXTRANJERO | Con @HolaMundoDev 🔴 HackerLIVE#15
+138 2:2:19 GitHub es el Instagram de los Programadores + Probando Stable Diffusion
+139 2:3:57 NO Necesitas Kubernetes, sólo te estás complicando la vida
+140 2:5:51 The Commit Show #1 ft @midudev | ¿Qué significa ser senior? ¿Despidos masivos en Tech? ¿GPT-4?
+141 2:17:11 🔴 Hablemos de .NET 6 y MAUI | Latino .NET Online
+142 2:21:57 4tomik
+143 2:22:53 Seminario de Inteligencia Emocional
+144 2:33:26 DEV WARS: Episodio I ✨ 8 Programadores, 2 Equipos, 5 Pruebas y mucha diversión
+145 2:38:9 Introducción a Entity Framework Core 7 - CURSO GRATUITO
+146 3:5:56 ¿Qué nos depara el nuevo año? Analizamos 2021 y planeamos 2022
+147 3:12:40 Cómo Empezar Una Agencia De Marketing Digital SMMA (Paso a Paso)
+148 3:14:48 #3 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
+149 3:17:8 TRABAJAR desde CASA 🏠 COMO ser FREELANCE y TELETRABAJAR | 🔴 HackerLIVE#7
+150 3:44:59 CURSO de Marketing Digital Completo (2024)
+151 3:58:1 AWS Certified Cloud Practitioner Training 2020 - Full Course
+152 6:24:40 Curso de Introducción a Algoritmia
+153 6:28:42 Curso GRATIS de Patrones de Arquitectura (Capas, microservicios y más) 💥
