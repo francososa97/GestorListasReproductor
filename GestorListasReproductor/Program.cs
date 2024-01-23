@@ -20,14 +20,13 @@ namespace GestorListasReproductor
 
 
 
-            var listaReproduccionNueva = BuildAndlogListReproduccion(listaReproduccionNuevaString);
+            var listaReproduccionNueva = BuildAndlogListReproduccion(listaReproduccionNuevaString.TrimStart('\r', '\n'));
             ExportToPdf(listaReproduccionNueva);
         }
 
         #region Metodos Privados
         private static string GetProjectDirectory()
         {
-            // Sube varios niveles desde el directorio actual para llegar al directorio del proyecto
             string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
             for (int i = 0; i < 4; i++) // Ajusta el número según la ubicación del proyecto en tu estructura de carpetas
             {
@@ -48,15 +47,38 @@ namespace GestorListasReproductor
                 writer.WriteLine("\n________________________________________________________________________________\n");
                 writer.WriteLine($"Duracion total: {duracionTotalListaReproduccion}\n");
                 writer.WriteLine($"Te quedan por ver {listaReproduccionNueva.Count} videos\n");
-                int index = 0;
+
+                BuildListaPorTiempo(listaReproduccionNueva, writer,0, 1800);
+                BuildListaPorTiempo(listaReproduccionNueva, writer, 1800, 3600);
+                BuildListaPorTiempo(listaReproduccionNueva, writer, 3600);
+
+                writer.WriteLine("\n________________________________________________________________________________\n");
+                int index = 1;
                 foreach (var video in listaReproduccionNueva)
                 {
                     // Escribe información de video en el archivo de texto
                     writer.WriteLine($"{index} {GetTime(video.Duracion)} {video.Titulo}");
                     index++;
                 }
+                writer.WriteLine("\n________________________________________________________________________________\n");
+
             }
             Console.WriteLine($"Archivo de texto creado exitosamente en: {outputPath}");
+        }
+
+        private static void BuildListaPorTiempo(List<Video> listaReproduccionNueva, StreamWriter writer, int secondsStart, int secondEnd = 0)
+        {
+            int index = 1;
+            writer.WriteLine("\n________________________________________________________________________________\n");
+            var videosMenores = new List<Video>();
+            if (secondEnd > 0)
+                videosMenores = listaReproduccionNueva.Where(x => x.Duracion >= secondsStart && x.Duracion < secondEnd).ToList();
+            else
+                videosMenores = listaReproduccionNueva.Where(x => x.Duracion >= secondsStart).ToList();
+
+            writer.WriteLine($"Tenemos {videosMenores.Count()} " +
+            $"{(secondEnd > 0 ? $"videos mayores a {secondsStart / 60} minutos y menores a {secondEnd / 60} minutos" : "Videos mayores a una hora")}");
+            videosMenores.ForEach(x => writer.WriteLine($"{index} {GetTime(x.Duracion)} {x.Titulo}"));
         }
 
         private static string GetDifTiempo(List<Video> listaReproduccionNueva, List<Video> listaReproduccionOriginal)
@@ -121,12 +143,12 @@ namespace GestorListasReproductor
             if (secondInit > 0)
             {;
                 var cantVideosEnRango = videos.Where(x => x.Duracion <= secondEnd).Count();
-                Console.WriteLine($"tenemos videos {cantVideosEnRango} mas cortos que {secondEnd / 60} minutos");
+                //Console.WriteLine($"tenemos videos {cantVideosEnRango} mas cortos que {secondEnd / 60} minutos");
             }
             else
             {
                 var cantVideosEnRango = videos.Where(x => x.Duracion <= secondEnd && x.Duracion > secondInit).Count();
-                Console.WriteLine($"tenemos videos {cantVideosEnRango} mas cortos que {secondEnd / 60} minutos");
+                //Console.WriteLine($"tenemos videos {cantVideosEnRango} mas cortos que {secondEnd / 60} minutos");
             }
         }
 
@@ -147,8 +169,8 @@ namespace GestorListasReproductor
             if (!modResume)
             {
                 var listaOrdenadaCantidad = autores.OrderByDescending(x => x.Cantidad).ToList();
-                listaOrdenadaCantidad.ForEach(autor => Console.WriteLine($"El autor {autor.Autor} tiene {ListReproduccionOrder.Where(x => x.Autor == autor.Autor).Count()}"));
-                Console.WriteLine("----------------------------------------------------------------------");
+                //listaOrdenadaCantidad.ForEach(autor => Console.WriteLine($"El autor {autor.Autor} tiene {ListReproduccionOrder.Where(x => x.Autor == autor.Autor).Count()}"));
+                //Console.WriteLine("----------------------------------------------------------------------");
             }
 
             return ListReproduccionOrder;
@@ -160,16 +182,16 @@ namespace GestorListasReproductor
             int secondsListOld = 0;
             listaReproduccion.ForEach(item => secondsListNew += item.Duracion);
             listaReproduccionVieja.ForEach(item => secondsListOld += item.Duracion);
-            Console.WriteLine($"Lista vieja {listaReproduccionVieja.Count()} Tiempo total antiguo {GetTime(secondsListOld)}");
-            Console.WriteLine($"Lista nueva {listaReproduccion.Count()} Tiempo total nuevo {GetTime(secondsListNew)}");
-            Console.WriteLine($"Felicidades viste {listaReproduccionVieja.Count() - listaReproduccion.Count()} videos y descontaste {GetTime(secondsListOld - secondsListNew)}\n\n");
+            //Console.WriteLine($"Lista vieja {listaReproduccionVieja.Count()} Tiempo total antiguo {GetTime(secondsListOld)}");
+            //Console.WriteLine($"Lista nueva {listaReproduccion.Count()} Tiempo total nuevo {GetTime(secondsListNew)}");
+            //Console.WriteLine($"Felicidades viste {listaReproduccionVieja.Count() - listaReproduccion.Count()} videos y descontaste {GetTime(secondsListOld - secondsListNew)}\n\n");
         }
         private static List<Video> GetObtenerVideosMasCortos(List<Video> listReproduccionOrder)
         {
             var videosOrdenadosDuracion = listReproduccionOrder.OrderBy(x => x.Duracion).ToList();
             int idVideo = 0;
             videosOrdenadosDuracion.ForEach(x => {
-                Console.WriteLine($"{idVideo} {GetTime(x.Duracion)}.{x.Titulo}");
+                //Console.WriteLine($"{idVideo} {GetTime(x.Duracion)}.{x.Titulo}");
                 idVideo++;
             });
             return videosOrdenadosDuracion;
