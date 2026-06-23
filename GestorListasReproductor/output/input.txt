@@ -1,1040 +1,3384 @@
 
-23:30
-REPRODUCIENDO
-Ejemplo de JavaScript Avanzado (ÚLTIMO VIDEO)
-hdeleon.net
+11:22
+Reproduciendo
+¿Por Qué Exploramos el Espacio y No la Tierra? (Javier Santaolalla)
+Uri Sabat
 •
-17 K visualizaciones • hace 2 años
+64 K visualizaciones • hace 4 meses
 
 
-32:38
-REPRODUCIENDO
-💻 ¿Cómo ser FRONTEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
-Carlos Azaustre - Aprende JavaScript
+20:23
+Reproduciendo
+Cómo se Fabrica un Bit Cuántico | Átomos Artificiales
+QuantumFracture
 •
-46 K visualizaciones • hace 3 años
+1,4 M de visualizaciones • hace 2 años
 
 
-31:43
-REPRODUCIENDO
-🖥 ¿Cómo ser BACKEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
-Carlos Azaustre - Aprende JavaScript
+32:32
+Reproduciendo
+AUDIOLIBRO EXPRESS: Los secretos de la mente millonaria (Resumen extendido)
+Audiolibros Express
 •
-38 K visualizaciones • hace 3 años
+5,1 K visualizaciones • hace 7 meses
 
 
-22:57
-REPRODUCIENDO
-Resuelvo PRUEBA TÉCNICA para PROGRAMADOR JUNIOR
-hdeleon.net
+28:20
+Reproduciendo
+AUDIOLIBRO EXPRESS: Las Meditaciones de Marco Aurelio (Resumen extendido)
+Audiolibros Express
 •
-271 K visualizaciones • hace 1 año
+150 visualizaciones • hace 7 meses
 
 
-37:39
-REPRODUCIENDO
-Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo
-CodelyTV - Redescubre la programación
+35:21
+Reproduciendo
+AUDIOLIBRO EXPRESS: El hombre más rico de Babilonia (Resumen extendido)
+Audiolibros Express
 •
-10 K visualizaciones • hace 7 años
+210 visualizaciones • hace 7 meses
 
 
-31:49
-REPRODUCIENDO
-¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React
-CodelyTV - Redescubre la programación
+26:44
+Reproduciendo
+AUDIOLIBRO EXPRESS: Hábitos atómicos de James Clear (Resumen extendido)
+Audiolibros Express
 •
-8,2 K visualizaciones • hace 2 años
+80 visualizaciones • hace 7 meses
 
 
-39:10
-REPRODUCIENDO
-asp.net core - MediatR (CQRS) Tutorial & Tips
-Raw Coding
+36:33
+Reproduciendo
+AUDIOLIBRO EXPRESS: La ley de la atracción de William Walker Atkinson (Resumen extendido)
+Audiolibros Express
 •
-64 K visualizaciones • hace 3 años
+201 visualizaciones • hace 7 meses
 
 
-31:07
-REPRODUCIENDO
-La cruda verdad sobre cómo armar un Data Lake - Hugo Bellomusto - Maximiliano Méndez
-Nerdearla
-•
-15 K visualizaciones • hace 6 años
-
-
-35:59
-REPRODUCIENDO
-Enriqueciendo nuestros AB tests con un enfoque bayesiano - Mauro Giormenti Moravec
-Nerdearla
-•
-1,7 K visualizaciones • hace 1 año
-
-
-38:45
-REPRODUCIENDO
-Crear el Videojuego Pong en Javascript
-hdeleon.net
-•
-14 K visualizaciones • hace 3 años
-
-
-55:26
-REPRODUCIENDO
-JSON Web Tokens 🔐 - Asegura tu Express API fácilmente (Full Stack JavaScript Bootcamp)
-midudev
-•
-55 K visualizaciones • hace 2 años
-
-
-1:08:07
-REPRODUCIENDO
-El arte de Explicar - Lee Lefever (¿Cómo explicarse mejor?) !!RESUMEN¡¡(APOYO A EMPRENDEDORES)
-Desafío ser millonario - Negocios&AutoDesarrollo  
-•
-5,2 K visualizaciones • hace 3 años
-
-
-36:43
-REPRODUCIENDO
-Prueba Este RETO PARA MANIFESTAR DINERO 7 DÍAS Y VERÁS RESULTADOS INCREÍBLES ¡Tu mente es poderosa!
-Lain Garcia Calvo
-•
-2,7 M de visualizaciones • hace 2 años
-
-
-1:29:26
-REPRODUCIENDO
-Aprende Docker ahora! curso completo gratis desde cero!
-HolaMundo
-•
-574 K visualizaciones • hace 1 año
-
-
-57:51
-REPRODUCIENDO
-Qué es Clean Architecture ? cómo aplicarlo a tu aplicación Front End ?
-Gentleman Programming
-•
-31 K visualizaciones • hace 2 años
-
-
-1:16:58
-REPRODUCIENDO
-Claves estoicas para superar las adversidades de la vida | Conferencia presencial | Borja Vilaseca
-Borja Vilaseca
-•
-633 K visualizaciones • hace 5 años
-
-
-54:24
-RESUELVO una PRUEBA TÉCNICA de un EMPLEO de $140K al AÑO 🤑 . ¿LO CONSIGO?
-midulive
-•
-333 K visualizaciones • hace 1 año
-Descargado
-
-
-1:07:25
-Cómo está hecho #n8n, descubrimos #noCode con uno de sus programadores | #laFunción 7x22
-CodelyTV - Redescubre la programación
-•
-6,6 K visualizaciones • Emitido hace 1 año
-Descargado
-
-
-1:54:59
-REPRODUCIENDO
-Clean Architecture 👉Todo lo que necesitas saber
-DevExpert - Programación Android y Kotlin
-•
-25 K visualizaciones • Emitido hace 3 años
-
-
-1:11:59
-REPRODUCIENDO
-ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design
-IT konekt
-•
-229 K visualizaciones • hace 4 años
-
-
-1:08:21
-Consejos para ganar dinero programando tu propio software | Héctor de León
-hdeleon.net
-•
-15 K visualizaciones • Emitido hace 3 años
-Descargado
-
-
-2:17:11
-REPRODUCIENDO
-🔴 Hablemos de .NET 6 y MAUI | Latino .NET Online
-ConoSurTech
-•
-665 visualizaciones • Emitido hace 2 años
-
-
-1:05:05
-REPRODUCIENDO
-Las tecnologías más usadas en el 2021 | la función CodelyTV 59
-CodelyTV - Redescubre la programación
-•
-15 K visualizaciones • Emitido hace 2 años
-
-
-1:03:40
-REPRODUCIENDO
-Aumenta tu productividad programando ⚡ Probamos plugin asistente con INTELIGENCIA ARTIFICIAL 🤯
-CodelyTV - Redescubre la programación
-•
-10 K visualizaciones • Emitido hace 2 años
-
-
-1:15:22
-REPRODUCIENDO
-ERES NEURODIVERSO y MULTIPOTENCIAL | 🎙Podcast Hablando.js con @paolatech
-Carlos Azaustre - Aprende JavaScript
-•
-3,7 K visualizaciones • hace 2 años
-
-
-1:20:46
-REPRODUCIENDO
-Paradigmas de programación | Invitado Nicolás Schürmann de @HolaMundoDev
-hdeleon.net
-•
-9,1 K visualizaciones • Emitido hace 3 años
-
-
-1:32:54
-REPRODUCIENDO
-🖥️ Supercomputadoras🚀 todo lo que siempre quisiste saber 🚄
-sysarmy
+46:22
+Reproduciendo
+T4 Leyendo con Norita: Girando la Rueda - #jimcollins
+Nora Beltrán Ph.D - Alto Rendimiento
 •
 1,3 K visualizaciones • Emitido hace 2 años
 
 
-1:21:34
-✅Arquitectura Hexagonal: Una perspectiva en NodeJS
-Nerdearla
+1:58:53
+Reproduciendo
+¿Es la ciencia contraria a la fe? ¿Puede existir un dios según la ciencia? | Por el amor de Higgs #1
+Por el amor de Higgs
 •
-5 K visualizaciones • Emitido hace 1 año
-Descargado
+430 K visualizaciones • hace 6 meses
 
 
-1:26:44
-REPRODUCIENDO
-Hagamos una web 3D con Three.js y React Three Fiber
-Nerdearla
+27:18
+Reproduciendo
+si querés hacer millones de USD, tenés que ser genuino
+Ramiro Cubria
 •
-5,4 K visualizaciones • Emitido hace 1 año
+2,5 K visualizaciones • hace 4 meses
 
 
-1:25:57
-REPRODUCIENDO
-Microservicios en plataformas híbridas, modelo de devops y operación
-Nerdearla
+1:35:25
+Reproduciendo
+V. Completa. ¿Cómo podemos alcanzar nuestro mayor potencial? Mario Alonso Puig, cirujano y escritor
+Aprendemos Juntos 2030
 •
-4,1 K visualizaciones • Emitido hace 1 año
+5,6 M de visualizaciones • hace 10 meses
 
 
-31:10
-REPRODUCIENDO
-La IA que cambió los juegos para siempre... Cómo funciona DLSS
+41:26
+Reproduciendo
+MEJORO mi EMPRESA usando IA: Chatbots, LLM, RAG y mucho más!
 Nate Gentile
 •
-804 K visualizaciones • hace 5 meses
+450 K visualizaciones • hace 4 meses
 
 
-51:53
-REPRODUCIENDO
-🇪🇸 #3 - Cómo empezar con AWS? - Virtualización, contenedores, serverless (Podcast AWS en Español)
-FooBar Serverless
-•
-8,6 K visualizaciones • hace 3 años
-
-
-1:16:07
-REPRODUCIENDO
-2021 es el año de TypeScript y otras sorpresas del estado del desarrollo | la función CodelyTV 67
-CodelyTV - Redescubre la programación
-•
-14 K visualizaciones • Emitido hace 2 años
-
-
-1:38:09
-¿Qué es la tecnología Blockchain? | Cryptos para Noobs #1
-Reven
-•
-83 K visualizaciones • hace 2 años
-Descargado
-
-
-1:19:01
-REPRODUCIENDO
-Entrevista a Programadores de PcComponentes | la función CodelyTV 43
-CodelyTV - Redescubre la programación
-•
-87 K visualizaciones • Emitido hace 3 años
-
-
-2:01:36
-REPRODUCIENDO
-TRABAJA como PROGRAMADOR en el EXTRANJERO | Con @HolaMundoDev 🔴 HackerLIVE#15
-MoureDev by Brais Moure
-•
-41 K visualizaciones • hace 2 años
-
-
-30:44
-REPRODUCIENDO
-BATERÍAS: ¿Cómo funcionan y por qué son un GRAN PROBLEMA?
-Nate Gentile
-•
-629 K visualizaciones • hace 1 año
-
-
-35:04
-REPRODUCIENDO
-Lo que NO te contaron sobre Ray Tracing
-Nate Gentile
-•
-1,5 M de visualizaciones • hace 4 años
-
-
-1:56:27
-NextJS: Login en GitHub con Firebase y más Styled JSX
-midudev
-•
-49 K visualizaciones • Emitido hace 3 años
-Descargado
-
-
-52:57
-REPRODUCIENDO
-¿Cómo comenzar a Programar Frontend?
-hdeleon.net
-•
-18 K visualizaciones • hace 2 años
-
-
-1:10:17
-REPRODUCIENDO
-Programamos una app con REMIX | #laFunción 7x12
-CodelyTV - Redescubre la programación
-•
-9 K visualizaciones • Emitido hace 2 años
-
-
-1:10:13
-REPRODUCIENDO
-Crea Aplicaciones de Escritorio con JavaScript y Electron
+2:00:08
+Reproduciendo
+Curso de AWS Desde Cero | Amazon Web Services 💻
 midulive
 •
-59 K visualizaciones • hace 10 meses
+429 K visualizaciones • hace 11 meses
 
 
-38:57
-REPRODUCIENDO
-Resuelvo el PROBLEMA del VIAJANTE Utilizando Aleatoriedad 🤘
+1:02:29
+Reproduciendo
+Dónde están los límites de ChatGPT | #laFunción 9x27
+CodelyTV - Redescubre la programación
+•
+14 K visualizaciones • Emitido hace 7 meses
+
+
+46:51
+Reproduciendo
+ESTE es el ÚNICO camino a tu PROPÓSITO de VIDA y solo 5% lo consiguen
+Daniel R. Chapán
+•
+48 K visualizaciones • Emitido hace 4 meses
+
+
+27:09
+Reproduciendo
+LEVIATÁN: El terrible MONSTRUO bíblico que peleará con el MESÍAS
+Daniel R. Chapán
+•
+113 K visualizaciones • hace 6 meses
+
+
+29:04
+Reproduciendo
+Las Dos Enseñanzas del ZOHAR para elevar tu ALMA y alcanzar la ILUMINACIÓN
+Daniel R. Chapán
+•
+112 K visualizaciones • hace 6 meses
+
+
+14:36
+Reproduciendo
+No CAIGAS en la Trampa de la Serpiente del Siglo 21
+Daniel R. Chapán
+•
+111 K visualizaciones • hace 1 año
+
+
+18:35
+Reproduciendo
+Simon Sinek: Cómo los grandes líderes inspiran la acción
+TED
+•
+20 M de visualizaciones • hace 14 años
+
+
+19:06
+Reproduciendo
+Y el mercado en maximo historico... Análisis Semanal.
+Joven Inversor
+•
+51 K visualizaciones • hace 3 meses
+
+
+9:14
+Reproduciendo
+Las Mejores OFERTAS del Prime Day de Amazon 2024!!!
+dBeta
+•
+7,6 K visualizaciones • hace 2 meses
+
+
+1:10:49
+Reproduciendo
+Como Suprimir las Preocupaciones y Disfrutar de la Vida Parte 1
+Pablo Romo
+•
+296 visualizaciones • hace 3 meses
+
+
+19:58
+Reproduciendo
+Físico de partículas explica que el Big Bang NO ES EXACTAMENTE COMO PENSABAS
+The Wild Project
+•
+702 K visualizaciones • hace 3 años
+
+
+21:12
+Reproduciendo
+Científico explica claramente la REALIDAD DEL FENTANILO, sin mentiras ni exageraciones
+The Wild Project
+•
+3,9 M de visualizaciones • hace 10 meses
+
+
+11:11
+Reproduciendo
+¿Cómo evitar perder plata? Lo que no te enseñaron en el colegio sobre las finanzas personales
+Santiago Bilinkis
+•
+440 K visualizaciones • hace 5 meses
+
+
+40:48
+Reproduciendo
+La dramática predicción de Ludovica Squirru para Javier Milei en el 2025: “Un disruptor”
+Radio Mitre
+•
+945 K visualizaciones • hace 2 meses
+
+
+11:21
+Reproduciendo
+RESUMEN del libro STEVE JOBS LECCIONES DE LIDERAZGO
+Felipe Delgado
+•
+7 K visualizaciones • hace 2 años
+
+
+5:41
+Reproduciendo
+CRUZAR LA NOCHE, ALICIA BARBERIS | EL AROMA DE LOS LIBROS
+El aroma de los libros.
+•
+7,3 K visualizaciones • hace 5 años
+
+
+13:54
+Reproduciendo
+🧠 LOS 7 HÁBITOS DE LA GENTE ALTAMENTE EFECTIVA 💪🏻- Stephen R. Covey. 🖋️
+Leer para Crecer 🧠📖
+•
+7,5 K visualizaciones • hace 2 años
+
+
+7:58
+Reproduciendo
+✅ PALABRAS QUE VENDEN 💰 de Phil M Jones [RESUMEN] ¡MIRALO!
+Nico Grupe
+•
+25 K visualizaciones • hace 4 años
+
+
+8:01
+Reproduciendo
+MI OPINIÓN SOBRE EL LIBRO Los secretos de la mente millonaria
+Valentino Mossucca
+•
+1,7 K visualizaciones • hace 4 años
+
+
+11:36
+Reproduciendo
+Reseña del Libro - Véndele a la Mente Y No a la Gente
+Salvador Mingo
+•
+3 K visualizaciones • hace 7 años
+
+
+16:32
+Reproduciendo
+Resumen del libro TUS ZONAS ERRÓNEAS 😈 [de WAYNE DYER]
+Nico Grupe
+•
+356 K visualizaciones • hace 3 años
+
+
+11:05
+Reproduciendo
+Internet del Dinero-Andreas Antonopoulos
+UN POCO MEJOR
+•
+74 K visualizaciones • hace 4 años
+
+
+6:06
+Reproduciendo
+EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO
+LibrosAnimados
+•
+1,1 M de visualizaciones • hace 8 años
+
+
+8:01
+Reproduciendo
+EL ALEPH RESUMEN 📖 | Análisis y personajes de el aleph
+Joakoby21
+•
+34 K visualizaciones • hace 3 años
+
+
+13:58
+Reproduciendo
+CRACKING THE CODING INTERVIEW ¿SIRVE PARA UNA ENTREVISTA?
+Vida MRR - Programacion web
+•
+6,3 K visualizaciones • hace 4 años
+
+
+6:44
+Reproduciendo
+El atomic design⚛️ - ¿Qué es y porque deberías saberlo si eres desarrollador Frontend?💻🚀
+weincode
+•
+9,4 K visualizaciones • hace 4 años
+
+
+14:33
+Reproduciendo
+Propiedad extrema por Jocko Willink y Leif Babin Resumen en 15min
+AudioLibros en 15 minutos
+•
+490 visualizaciones • hace 1 año
+
+
+9:56
+Reproduciendo
+DESPERTANDO AL GIGANTE INTERIOR-ANTHONY ROBBINS-RESUMEN ANIMADO
+Caminos de Éxito
+•
+606 K visualizaciones • hace 8 años
+
+
+19:59
+Reproduciendo
+Algorithms To Live By. Resumen del libro Algoritmos para vivir bien.
+DESTILANDO LIBROS
+•
+1,4 K visualizaciones • hace 8 años
+
+
+12:30
+Reproduciendo
+El Programador Pragmático - Introducción
+El Camino del Programador
+•
+4,2 K visualizaciones • hace 5 años
+
+
+9:12
+Reproduciendo
+La programación está por despegar el 2025
+HolaMundo
+•
+92 K visualizaciones • hace 2 meses
+
+
+14:24
+Reproduciendo
+Armando mi Jubilación con 200 dólares por mes #5
+Joven Inversor
+•
+68 K visualizaciones • hace 3 meses
+
+
+23:47
+Reproduciendo
+El poder de las RELACIONES S3XU4LES según la Cabalá
+Daniel R. Chapán
+•
+180 K visualizaciones • hace 1 año
+
+
+4:18:55
+Reproduciendo
+25 grandes personajes de la Historia
+Academia Play
+•
+384 K visualizaciones • hace 1 año
+
+
+4:57
+Reproduciendo
+16. Generar APK y Tareas - Curso REACT NATIVE
+Rodrigo Méndez
+•
+5,4 K visualizaciones • hace 1 año
+
+
+16:43
+Reproduciendo
+Armando Mi Jubilación: Mis pobres CEDEARs...
+Joven Inversor
+•
+71 K visualizaciones • hace 5 meses
+
+
+15:30
+Reproduciendo
+Cómo comprar en AMAZON desde Argentina con ENVÍO GRATIS! | GUÍA COMPLETA
+Sara's Tech
+•
+140 K visualizaciones • hace 3 meses
+
+
+13:39
+Reproduciendo
+Comprar en AMAZON desde ARGENTINA con Envío GRATIS: Respondo TUS DUDAS
+Sara's Tech
+•
+11 K visualizaciones • hace 3 meses
+
+
+32:46
+Reproduciendo
+GANE 30.000€ en 1 HORA BUSCANDO PRODUCTOS para MI tienda en AMAZON FBA / "MIS 4 MEJORES COMPRAS"
+Yassin HBT
+•
+2,6 K visualizaciones • hace 5 meses
+
+
+34:24
+Reproduciendo
+¡ANALIZANDO un VIRUS por dentro! 🔎🦠
+Nate Live
+•
+533 K visualizaciones • hace 1 año
+
+
+10:44
+Reproduciendo
+Aprovechando la API de ChatGPT: Creando un Lector de archivos Interactivo con Flowise y ApiChatGPT
+Dev Yesica Chui Chalco
+•
+930 visualizaciones • hace 1 año
+
+
+9:39
+Reproduciendo
+DDD Agregados vs Entidades: Explicación en Detalle
+CodelyTV - Redescubre la programación
+•
+20 K visualizaciones • hace 1 año
+
+
+1:16:36
+Reproduciendo
+CURSO DE C# .NET GRATIS (Intensivo)
 hdeleon.net
 •
-20 K visualizaciones • hace 2 años
+119 K visualizaciones • hace 1 año
 
 
-1:41:18
-REPRODUCIENDO
-CONOCER TODO Sobre ti usando tu ADN, Biotecnología, Neurodiversidad | Raw Radio #24 ft Paola Garcia
+30:37
+Reproduciendo
+Lo bueno y lo feo de los MONITORES OLED
+Nate Gentile
+•
+1,1 M de visualizaciones • hace 1 año
+
+
+20:31
+Reproduciendo
+NO UTILIZO NEXT JS
+midulive
+•
+60 K visualizaciones • hace 1 año
+
+
+35:02
+Reproduciendo
+Seguridad en APIs y el nuevo Top 10 - Maximiliano Soler
+Nerdearla
+•
+1,4 K visualizaciones • hace 1 año
+
+
+1:33:13
+Reproduciendo
+RESUELVO PRUEBA TÉCNICA de €55K AL AÑO en Europa | React + TypeScript
+midulive
+•
+101 K visualizaciones • hace 1 año
+
+
+26:27
+Reproduciendo
+LUNES NEGRO... Y al final no pasó nada
+Joven Inversor
+•
+48 K visualizaciones • hace 4 meses
+
+
+11:31
+Reproduciendo
+Tu casa Domótica: MIS RECOMENDACIONES
+Topes de Gama
+•
+332 K visualizaciones • hace 3 años
+
+
+1:49:49
+Reproduciendo
+No todo es programar | ¿Un poco de gaming? 👾
+BettaTech
+•
+3,1 K visualizaciones • Emitido hace 3 años
+
+
+2:05:51
+Reproduciendo
+The Commit Show #1 ft @midudev | ¿Qué significa ser senior? ¿Despidos masivos en Tech? ¿GPT-4?
+BettaTech
+•
+205 K visualizaciones • hace 1 año
+
+
+22:03
+Reproduciendo
+LA GUERRA A LOS FRAMEWORKS
+midulive
+•
+80 K visualizaciones • hace 4 meses
+
+
+43:05
+Reproduciendo
+Curso GRATIS AMAZON ARBITRAJE ONLINE 2025 - Vender en Amazon FBA España (PASO A PASO PRINCIPIANTES)
+Yassin HBT
+•
+4,7 K visualizaciones • hace 3 meses
+
+
+15:32
+Reproduciendo
+Ningun GAMER está aprovechando esto...
+Dalto Emprende
+•
+14 K visualizaciones • hace 5 meses
+
+
+27:33
+Reproduciendo
+La caída del Imperio romano
+Academia Play
+•
+965 K visualizaciones • hace 9 meses
+
+
+8:26
+Reproduciendo
+💥 5 PUEBLOS de TURISMO GASTRONOMICO ✅️ BUENOS AIRES
+Conociendo Lugares
+•
+6,2 K visualizaciones • hace 3 meses
+
+
+10:23
+Reproduciendo
+💥5 PUEBLOS para VISITAR ✅️ ESCAPADAS de FIN de SEMANA | BUENOS AIRES
+Conociendo Lugares
+•
+6,5 K visualizaciones • hace 3 meses
+
+
+10:10
+Reproduciendo
+✅️ ARGENTINA SOÑADA 4K | 7 Destinos que Debes Conocer
+Conociendo Lugares
+•
+3,8 K visualizaciones • hace 4 meses
+
+
+9:15
+Reproduciendo
+Programa Software que se EJECUTE SOLO
 hdeleon.net
 •
-4,2 K visualizaciones • hace 4 meses
+9,7 K visualizaciones • hace 4 meses
 
 
-1:42:08
-REPRODUCIENDO
-Aprendiendo NextJS, el framework de React con Server Side Rendering
-midudev
+4:39
+Reproduciendo
+¡Truco con GitHub Copilot! Ya NO IMPORTAN los Lenguajes de Programación
+hdeleon.net
 •
-220 K visualizaciones • Emitido hace 3 años
+16 K visualizaciones • hace 7 meses
 
 
-1:49:36
-REPRODUCIENDO
-Webinar de Project Management | EducaciónBIZ
-EducaciónBIZ
+9:35
+Reproduciendo
+Si no haces esto, NO los llames BAGELS
+Paulina Cocina
 •
-603 visualizaciones • Emitido hace 1 año
+33 K visualizaciones • hace 3 meses
+
+
+16:30
+Reproduciendo
+¿Qué es una CAPA en Arquitectura de Software? Explicación con código
+hdeleon.net
+•
+16 K visualizaciones • hace 10 meses
+
+
+56:37
+Reproduciendo
+integración de Mercado Pago con Javascript - Checkout Pro - ACTUALIZADO 2024
+on the code
+•
+13 K visualizaciones • hace 1 año
+
+
+26:24
+Reproduciendo
+¿Cómo salir de las malas rachas? - Ep #03 - NIMP🎙️✅
+RonaldNazar
+•
+138 visualizaciones • hace 8 meses
+
+
+10:04
+Reproduciendo
+¡Caos Mundial por Error en Windows!
+hdeleon.net
+•
+61 K visualizaciones • hace 5 meses
+
+
+28:09
+Reproduciendo
+Entrevista con Midudev
+Nerdearla
+•
+924 visualizaciones • hace 1 año
+
+
+51:27
+Reproduciendo
+La "IA" lo cambia TODO | Lo que deberías saber sobre la Inteligencia Artificial
+Nate Gentile
+•
+1,6 M de visualizaciones • hace 8 meses
 
 
 1:12:56
-REPRODUCIENDO
+Reproduciendo
 Webinar de Liderazgo | EducaciónBIZ
 EducaciónBIZ
 •
-730 visualizaciones • Emitido hace 2 años
+751 visualizaciones • Emitido hace 3 años
 
 
 1:48:56
-REPRODUCIENDO
+Reproduciendo
 Webinar de Storytelling | EducaciónBIZ
 EducaciónBIZ
 •
-1,2 K visualizaciones • Emitido hace 2 años
+1,2 K visualizaciones • Emitido hace 3 años
+
+
+11:47
+Reproduciendo
+MISTERIOS Ocultos en el CEMENTERIO de la RECOLETA - BUENOS AIRES
+Conociendo Lugares
+•
+3,2 K visualizaciones • hace 3 meses
+
+
+22:39
+Reproduciendo
+✅ ARGENTINA MARAVILLOSA 4K | 11 Lugares que debes conocer del País del Tango y el Mate
+Conociendo Lugares
+•
+17 K visualizaciones • hace 4 meses
 
 
 1:21:50
-REPRODUCIENDO
+Reproduciendo
 Webinar de Liderazgo | EducaciónBIZ
 EducaciónBIZ
 •
-2 K visualizaciones • Emitido hace 2 años
+2 K visualizaciones • Emitido hace 3 años
 
 
-56:17
-REPRODUCIENDO
-Configura el linter ESLint y DEPLOY de tu API con Heroku 🚀 - Bootcamp FullStack JavaScript Gratuito
-midudev
+6:47
+Reproduciendo
+Este es el PEOR ERROR FINANCIERO que podes hacer
+Agustin Romeo
 •
-35 K visualizaciones • hace 2 años
+3,2 K visualizaciones • hace 2 años
 
 
-57:23
-REPRODUCIENDO
-🔴 TESTING de BACKEND con Express usando JEST y SUPERTEST ~ FullStack Bootcamp JavaScript
-midudev
+4:46
+Reproduciendo
+¿Comprar una parrilla o comer afuera?
+Agustin Romeo
 •
-51 K visualizaciones • hace 2 años
+128 visualizaciones • hace 8 meses
 
 
-37:38
-REPRODUCIENDO
-🔑 SESIÓN de USUARIO en REACT y en Local Storage ... y COOKIES 🍪? (Full Stack JavaScript Bootcamp)
-midudev
+6:17
+Reproduciendo
+Como Lograr más en UNA SEMANA que en todo un Año
+Agustin Romeo
 •
-71 K visualizaciones • hace 2 años
+400 visualizaciones • hace 1 año
 
 
-39:43
-REPRODUCIENDO
-CREA Usuarios y AÑADE SEGURIDAD a tus CONTRASEÑAS 🔒 en MongoDB (FullStack JavaScript Bootcamp)
-midudev
+1:42:39
+Reproduciendo
+Lo mejor y lo peor de 2023 - Serie Completa
+Tri-line
 •
-22 K visualizaciones • hace 2 años
+1,5 M de visualizaciones • hace 9 meses
 
 
-1:26:45
-🦦 Aprende Mongoose + conexión con Express + uso de Sentry 👮‍♂️ (Bootcamp FullStack JavaScript)
-midudev
+10:19
+Reproduciendo
+PRIMER COMPRA DEL AÑO 🛒
+Elcanaldejoaco
 •
-43 K visualizaciones • hace 2 años
-Descargado
+187 K visualizaciones • hace 3 días
 
 
-2:38:09
-REPRODUCIENDO
-Introducción a Entity Framework Core 7 - CURSO GRATUITO
-gavilanch2
+11:18
+Reproduciendo
+Cómo comer saludable y que no sea un asco
+Paulina Cocina
+•
+126 K visualizaciones • hace 2 meses
+
+
+19:55
+Reproduciendo
+ME FUI A PERÚ CON UNA LISTA
+Paulina Cocina
+•
+409 K visualizaciones • hace 9 meses
+
+
+9:09
+Reproduciendo
+Por qué los PRETZELS tienen ese sabor extraño y adictivo
+Paulina Cocina
+•
+54 K visualizaciones • hace 4 meses
+
+
+19:18
+Reproduciendo
+Zohar clase 98 Teruma
+Kabbalah, Zohar
+•
+422 visualizaciones • hace 3 meses
+
+
+24:54
+Reproduciendo
+Sin salida
+Tri-line
+•
+1,7 M de visualizaciones • hace 3 meses
+
+
+19:52
+Reproduciendo
+¡WhatsApp ya tiene Inteligencia Artificial: Meta AI #96
+Noticias Tech y ya!
+•
+997 visualizaciones • hace 5 meses
+
+
+32:14
+Reproduciendo
+SETUP para YOUTUBE, CREAR CONTENIDO Educativo Y STREAMING de Programación
+Carlos Azaustre - Aprende JavaScript
+•
+2,3 K visualizaciones • hace 10 meses
+
+
+12:37
+Reproduciendo
+La claves del diseño UX
+MoureDev by Brais Moure
+•
+4,3 K visualizaciones • hace 7 meses
+
+
+15:01
+Reproduciendo
+Estas Afirmaciones mejorarán tu vida ✨ ¡Cada día será una bendición!🙏🏻
+TiendaMistica
+•
+2,8 K visualizaciones • hace 4 meses
+
+
+19:14
+Reproduciendo
+Historia y mito del rey Arturo. ¿Quién fue? ¿Existió de verdad?
+Academia Play
+•
+187 K visualizaciones • hace 3 meses
+
+
+10:27
+Reproduciendo
+💥¿Cómo pudieron explotar tantos dispositivos a la vez? (Israel vs. Hezbolá)
+Academia Play
+•
+291 K visualizaciones • hace 3 meses
+
+
+19:33
+Reproduciendo
+La historia del Muro de Berlín (un mundo dividido)
+Academia Play
+•
+277 K visualizaciones • hace 3 meses
+
+
+21:16
+Reproduciendo
+La claustrofobia en un submarino de la Segunda Guerra Mundial
+Academia Play
+•
+144 K visualizaciones • hace 4 meses
+
+
+4:22:51
+Reproduciendo
+Geopolítica del Siglo XXI (bloques, conflictos, estrategias, guerras, poder...)
+Academia Play
+•
+121 K visualizaciones • hace 5 meses
+
+
+12:58
+Reproduciendo
+El trágico final de María Antonieta
+Academia Play
+•
+107 K visualizaciones • hace 5 meses
+
+
+49:39
+Reproduciendo
+Historia del Renacimiento
+Academia Play
+•
+101 K visualizaciones • hace 5 meses
+
+
+41:20
+Reproduciendo
+¿Cómo inicia y termina STAR? | Te Explico La Historia -origen magia, reinas y fraude butterfly-
+FinnHDA
+•
+2,3 M de visualizaciones • hace 2 años
+
+
+3:24:33
+Reproduciendo
+¿Cómo inicia y termina Gravity Falls? | Te Explico La Historia (serie completa, diarios y comics)
+FinnHDA
+•
+7,5 M de visualizaciones • hace 1 año
+
+
+23:04
+Reproduciendo
+UN DÍA SIENDO CHEF DE MI AMIGO 👨‍🍳
+Elcanaldejoaco
+•
+260 K visualizaciones • hace 1 mes
+
+
+21:23
+Reproduciendo
+💰 Las 3 MEJORES CAMPAÑAS en Facebook Ads para VENDER (2025)
+Felipe Vergara
+•
+50 K visualizaciones • hace 3 meses
+
+
+36:26
+Reproduciendo
+🏠 FACEBOOK ADS para NEGOCIOS LOCALES (2025) ► El ÚNICO TUTORIAL que NECESITAS VER
+Felipe Vergara
+•
+22 K visualizaciones • hace 2 meses
+
+
+9:17
+Reproduciendo
+Así Cambiará el Marketing Digital este 2024 | 10 Estrategias Prácticas
+Emprende Aprendiendo
+•
+433 K visualizaciones • hace 1 año
+
+
+24:45
+Reproduciendo
+2000 personas compiten por cinco millones de dólares
+MrBeast
+•
+137 M de visualizaciones • hace 2 semanas
+
+
+30:54
+Reproduciendo
+COMO HACER ANUNCIOS EN FACEBOOK ADS 2025 💰
+Susan Gorbina
+•
+56 K visualizaciones • hace 2 meses
+
+
+4:58
+Reproduciendo
+¿Qué es Google Ads y Cómo Funciona? (Explicado En 5 MINUTOS ⏰)
+Alan Valdez
+•
+314 K visualizaciones • hace 1 año
+
+
+1:15:12
+Reproduciendo
+Tutorial Completo De Google Ads Para Principiantes (2025)
+Adrián Sáenz
+•
+113 K visualizaciones • hace 4 meses
+
+
+20:20
+Reproduciendo
+Cómo hacer Publicidad en TikTok Ads 2025 ✅ Guía Paso a Paso para principiantes
+Pol Corominas
+•
+79 K visualizaciones • hace 7 meses
+
+
+23:38
+Reproduciendo
+Cómo hacer ANUNCIOS en TikTok Ads 2024 | Tutorial Paso a Paso TikTok Ads 💰
+Aprendamos Marketing
+•
+19 K visualizaciones • hace 3 meses
+
+
+1:56:46
+Reproduciendo
+Tutorial Completo De TikTok Ads Para Principiantes (2025)
+Adrián Sáenz
+•
+83 K visualizaciones • hace 4 meses
+
+
+30:23
+Reproduciendo
+SOLO PUEDO USAR LAS COSAS DE MI HERMANA *por un dia*
+Sofi Agnone
+•
+256 K visualizaciones • hace 4 días
+
+
+11:41
+Reproduciendo
+ALEX PELAO Y LA PEOR ENTREVISTA DE SU VIDA - ENTRE DOS SUCULENTAS #5
+Matias Bottero
+•
+579 K visualizaciones • hace 2 meses
+
+
+6:43
+Reproduciendo
+¿Por qué sentís que estás atrasado? (Financieramente)
+Agustin Romeo
+•
+238 visualizaciones • hace 9 meses
+
+
+8:20
+Reproduciendo
+Para los que no saben como invertir.
+Agustin Romeo
+•
+499 visualizaciones • hace 4 meses
+
+
+1:05:45
+Reproduciendo
+paseo tranquilo por la montaña con axo y pol
+Auron
+•
+2 M de visualizaciones • hace 6 meses
+
+
+11:26
+Reproduciendo
+Se confirma LO MEJOR para los salarios de Empleados!!
+midulive
+•
+56 K visualizaciones • hace 3 meses
+
+
+26:35
+Reproduciendo
+Tutorial React Native | Minimalistic To Do App | Publishing to Appstore
+Code with Beto en Español
+•
+2,8 K visualizaciones • hace 1 año
+
+
+7:09
+Reproduciendo
+Una TRABAJADORA SOCIAL revela los SECRETOS de su profesión | PROFESIONES
+TABÚ
+•
+3,4 K visualizaciones • hace 3 meses
+
+
+1:28:46
+Reproduciendo
+"Todo Regresará a Dios" - El Poder de la Teshuvá en la Cabalá
+TIKUN OLAM - Isaac Lev
+•
+2,6 K visualizaciones • Emitido hace 3 meses
+
+
+5:40
+Reproduciendo
+GUERRA en OpenAI
+SupraNews
+•
+10 K visualizaciones • hace 1 año
+
+
+25:07
+Reproduciendo
+Recibe MILLONES del banco | ¿Cómo funciona el crédito en USA?
+Mauro Stendel
+•
+5,3 K visualizaciones • hace 3 meses
+
+
+8:46
+Reproduciendo
+ENDEUDARSE para ser RICO... ¿Bueno o Malo? | Mauro Stendel
+Mauro Stendel
+•
+9,7 K visualizaciones • hace 4 meses
+
+
+1:01:41
+Reproduciendo
+¿Cómo HACERTE MILLONARIO? Clase GRATIS | Mauro Stendel
+Mauro Stendel
+•
+77 K visualizaciones • hace 4 meses
+
+
+15:11
+Reproduciendo
+¡Así se ven MILLONES de DOLARES en propiedades! Real estate
+Mauro Stendel
+•
+52 K visualizaciones • hace 5 meses
+
+
+19:57
+Reproduciendo
+6 años después visité Israel | Mauro Stendel
+Mauro Stendel
+•
+28 K visualizaciones • hace 6 meses
+
+
+17:00
+Reproduciendo
+ASÍ SE ROBAN 300.000 USD DE CLUBES ARGENTINOS
+Mauro Stendel
+•
+39 K visualizaciones • hace 7 meses
+
+
+2:15:34
+Reproduciendo
+Curso de HOSTING desde CERO (Completo)
+Soy Dalto
+•
+87 K visualizaciones • hace 1 año
+
+
+14:14
+Reproduciendo
+Creé MI PROPIO CHAT-GPT (mejorado) en minutos
+Soy Dalto
 •
 48 K visualizaciones • hace 1 año
 
 
-3:44:59
-REPRODUCIENDO
-CURSO de Marketing Digital Completo (2024)
-Cyberclick • Marketing Digital
+17:33
+Reproduciendo
+PROGRAMACIÓN AVANZADA: Introducción a REFLECTION, la herramienta MÁS POLÉMICA de la programación
+The Coder Cave esp
 •
-874 K visualizaciones • hace 1 año
+2,7 K visualizaciones • hace 9 meses
 
 
-3:12:40
-REPRODUCIENDO
-Cómo Empezar Una Agencia De Marketing Digital SMMA (Paso a Paso)
-Adrián Sáenz
+13:33
+Reproduciendo
+Bard vs ChatGPT: Cual es mejor para PROGRAMAR?
+The Coder Cave esp
 •
-272 K visualizaciones • hace 10 meses
+3,6 K visualizaciones • hace 1 año
 
 
-3:17:08
-REPRODUCIENDO
-TRABAJAR desde CASA 🏠 COMO ser FREELANCE y TELETRABAJAR | 🔴 HackerLIVE#7
-MoureDev by Brais Moure
+17:25
+Reproduciendo
+⚡️Historia de la energía y transición energética (todo lo que tienes que saber en 17 minutos)
+Academia Play
 •
-218 K visualizaciones • Emitido hace 3 años
+47 K visualizaciones • hace 3 meses
 
 
-3:58:01
-REPRODUCIENDO
-AWS Certified Cloud Practitioner Training 2020 - Full Course
-freeCodeCamp.org
+22:35
+Reproduciendo
+El Sacro Imperio Romano Germánico
+Academia Play
 •
-4 M de visualizaciones • hace 4 años
+545 K visualizaciones • hace 5 meses
 
 
-6:24:40
-REPRODUCIENDO
-Curso de Introducción a Algoritmia
-Make it Real
+9:36
+Reproduciendo
+Conquistadores: héroes y villanos
+Academia Play
 •
-2,3 K visualizaciones • hace 1 año
+46 K visualizaciones • hace 6 meses
 
 
-2:22:53
-REPRODUCIENDO
-Seminario de Inteligencia Emocional
-EducaciónBIZ
+27:07
+Reproduciendo
+Sube todo, las Criptomonedas también - Análisis Semanal
+Joven Inversor
 •
-7 K visualizaciones • Emitido hace 3 años
+53 K visualizaciones • hace 3 meses
 
 
-2:21:57
-JS para gente que ya sabe programar
-4tomik
+9:01
+Reproduciendo
+😱¿COMO analizar ACCIONES DESDE CERO?😱 [BASICO] ► Plataforma ► Temporalidades ► Bolsa ► JovenInversor
+Joven Inversor
 •
-144 K visualizaciones • hace 2 años
-Descargado
+202 K visualizaciones • hace 4 años
 
 
-10:34
-REPRODUCIENDO
-RUST DESDE CERO ⚙️ PRIMEROS PASOS con el lenguaje de PROGRAMACIÓN
-Carlos Azaustre - Aprende JavaScript
+23:04
+Reproduciendo
+INCREIBLE: ALUMNO FACTURA 15.000€ en UN MES haciendo AMAZON ARBITRAJE Y MARCA PRIVADA
+Yassin HBT
 •
-34 K visualizaciones • hace 2 años
+2 K visualizaciones • hace 11 meses
 
 
-36:14
-REPRODUCIENDO
-❌ MANEJO DE ERRORES en RUST 🦀 (Lenguaje de Programación) | Rust desde cero.
-Carlos Azaustre - Aprende JavaScript
+24:44
+Reproduciendo
+¿ Cuanto DINERO Necesitas para Empezar en AMAZON ARBITRAJE? / Revelo todo lo que NECESITAS
+Yassin HBT
 •
-2,1 K visualizaciones • hace 2 años
+8,8 K visualizaciones • hace 11 meses
 
 
-3:14:48
-REPRODUCIENDO
-#3 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
+14:30
+Reproduciendo
+EL SOMBRERO ES NUEVO!
+SupraPixel
+•
+141 K visualizaciones • hace 3 meses
+
+
+40:13
+Reproduciendo
+Armo una PC para mi editor (y se la ENVIDIO)
+SupraPixel
+•
+184 K visualizaciones • hace 6 meses
+
+
+18:22
+Reproduciendo
+Nunca voy a superar esto
+SupraPixel
+•
+216 K visualizaciones • hace 6 meses
+
+
+33:31
+Reproduciendo
+VoidZero puede terminar mal
+midulive
+•
+40 K visualizaciones • hace 3 meses
+
+
+15:41
+Reproduciendo
+Elon Musk se salta la ley en Brasil con Cloudflare
+midulive
+•
+73 K visualizaciones • hace 3 meses
+
+
+1:20
+Reproduciendo
+Motivación para entrenar!! #cardio #fitnessmotivation #turbosteps #piernas
+Fausto Murillo
+•
+12 K visualizaciones • hace 7 meses
+
+
+13:58
+Reproduciendo
+Notion VS Obsidian (3 años después)
+Productividad con Ruben Loan
+•
+60 K visualizaciones • hace 10 meses
+
+
+18:43
+Reproduciendo
+DIEGO TOPA: Tarta de coco y dulce de leche - Paulina Sessions #11
+Paulina Cocina
+•
+72 K visualizaciones • hace 3 meses
+
+
+8:10
+Reproduciendo
+EL MARAVILLOSO MUNDO DE LAS RABAS / 6 formas diferentes: aprendelo TODO 😱
+Paulina Cocina
+•
+67 K visualizaciones • hace 3 meses
+
+
+48:06
+Reproduciendo
+EL RETO DE MRBEAST #7 | JORDI WILD
+Ibai
+•
+4,3 M de visualizaciones • hace 3 meses
+
+
+9:36
+Reproduciendo
+15 TRUCOS AVANZADOS para Alexa (en 2023) que te ASEGURO te van a SERVIR MUCHÍSIMO
+ElPanitaJosue
+•
+49 K visualizaciones • hace 1 año
+
+
+5:22
+Reproduciendo
+🔔 ENVÍA NOTIFICACIONES a ALEXA desde NOTION con INTEGROMAT (Curso de la API de Notion desde Cero)
+Productividad con Ruben Loan
+•
+4,2 K visualizaciones • hace 3 años
+
+
+8:42
+Reproduciendo
+Como integrar Chat GPT en Alexa 🤯 (TUTORIAL)
+VidaDomotica
+•
+185 K visualizaciones • hace 1 año
+
+
+16:10
+Reproduciendo
+21 Trucos De Cocina Que Aprendí En Restaurantes Michelin
+Alfredo Vozmediano
+•
+942 K visualizaciones • hace 5 meses
+
+
+45:46
+Reproduciendo
+La DESAPARICIÓN de Loan
+dinosaur vlogs
+•
+445 K visualizaciones • hace 2 meses
+
+
+9:23
+Reproduciendo
+Como TESTEAR pagos en MERCADO PAGO de manera efectiva
+on the code
+•
+749 visualizaciones • hace 2 meses
+
+
+17:59
+Reproduciendo
+ASI se invierte el AGUINALDO de diciembre 2024!
+Joven Inversor
+•
+102 K visualizaciones • hace 2 semanas
+
+
+3:02
+Reproduciendo
+Imagine Dragons - Wake Up (Official Music Video)
+ImagineDragons
+•
+8,9 M de visualizaciones • hace 6 meses
+
+
+14:52
+Reproduciendo
+La TRAMPA LEGAL más INGENIOSA (y turbia) de Japón
+Friki Delcarajo
+•
+21 K visualizaciones • hace 2 semanas
+
+
+26:52
+Reproduciendo
+24 HORAS EN UN HOTEL DE LUJO 🏨⭐
+Elcanaldejoaco
+•
+197 K visualizaciones • hace 1 mes
+
+
+25:37
+Reproduciendo
+UN DIA COMIENDO SOLO PRODUCTOS CONGELADOS
+Sofi Agnone
+•
+515 K visualizaciones • hace 7 meses
+
+
+23:54
+Reproduciendo
+Cómo ser disciplinado para aprender a programar y alcanzar tus objetivos
+HolaMundo
+•
+98 K visualizaciones • hace 1 mes
+
+
+17:52
+Reproduciendo
+PELIGRO EN RAMOS MEJIA
+GabinoSilva
+•
+320 K visualizaciones • hace 1 mes
+
+
+7:46
+Reproduciendo
+5 Hábitos Que Me Ahorran +20 Horas a la Semana
+Miguel Fernández - Productividad para potenciarte
+•
+261 K visualizaciones • hace 2 meses
+
+
+18:33
+Reproduciendo
+Cómo Empezar a Volar DRONES FPV en 2024 🚀
+DRONIC FPV
+•
+95 K visualizaciones • hace 9 meses
+
+
+11:52
+Reproduciendo
+Frascos Naranja X ¿Buena inversión?
+Joven Inversor
+•
+58 K visualizaciones • hace 1 mes
+
+
+19:28
+Reproduciendo
+AL FIN ALGO NUEVO
+SupraPixel
+•
+115 K visualizaciones • hace 1 mes
+
+
+16:14
+Reproduciendo
+Cómo engañar a todo el mundo
+Tri-line
+•
+1,2 M de visualizaciones • hace 1 mes
+
+
+10:06
+Reproduciendo
+Bitcoin hace nuevo maximo historico🎉
+Joven Inversor
+•
+34 K visualizaciones • hace 2 meses
+
+
+6:23
+Reproduciendo
+Amazon acaba con el trabajo remoto - trabajo presencial 100%
+HolaMundo
+•
+89 K visualizaciones • hace 3 meses
+
+
+2:40:16
+Reproduciendo
+The Wild Project #185 ft El Bananero | Alcohol y sustancias, Harry el Sucio Potter, Su depresión
+The Wild Project
+•
+5,2 M de visualizaciones • hace 1 año
+
+
+26:16
+Reproduciendo
+Han salido las Apple Vision Pro #86
+Noticias Tech y ya!
+•
+604 visualizaciones • hace 11 meses
+
+
+3:07
+Reproduciendo
+EL PROBLEMA DE INSTALAR FRAMEWORKS Y BIBLIOTECAS
+Hdeleon Clips
+•
+2,3 K visualizaciones • hace 4 meses
+
+
+32:51
+Reproduciendo
+Análisis NO VERBAL TRUMP vs KAMALA HARRIS
+Franco Pisso
+•
+222 K visualizaciones • hace 3 meses
+
+
+25:25
+Reproduciendo
+ANÁLISIS NO VERBAL MARLEY
+Franco Pisso
+•
+315 K visualizaciones • hace 3 meses
+
+
+17:48
+Reproduciendo
+🚨CUIDADO - NICOLAS MADURO HACE GESTOS DE GUERRA!
+Franco Pisso
+•
+835 K visualizaciones • hace 5 meses
+
+
+30:56
+Reproduciendo
+🚨 URGENTE ¿NICOLAS MADURO ESTÁ FINGIENDO? - ANÁLISIS NO VERBAL
+Franco Pisso
+•
+969 K visualizaciones • hace 5 meses
+
+
+25:40
+Reproduciendo
+💥¿MADURO MIENTE? ANÁLISIS NO VERBAL
+Franco Pisso
+•
+368 K visualizaciones • hace 5 meses
+
+
+24:09
+Reproduciendo
+¿RoRo NOS MIENTE? Análisis NO VERBAL
+Franco Pisso
+•
+277 K visualizaciones • hace 5 meses
+
+
+24:28
+Reproduciendo
+CASO LOAN - ANÁLISIS NO VERBAL
+Franco Pisso
+•
+615 K visualizaciones • hace 6 meses
+
+
+13:11
+Reproduciendo
+HAY AMOR entre MILEI y MELONI? Análisis NO VERBAL
+Franco Pisso
+•
+334 K visualizaciones • hace 6 meses
+
+
+16:37
+Reproduciendo
+Me intentó estafar y... (se fue estafado)
+Dalto Emprende
+•
+9,7 K visualizaciones • hace 4 meses
+
+
+12:08
+Reproduciendo
+Pude SER MILLONARIO pero... (en serio)
+Dalto Emprende
+•
+25 K visualizaciones • hace 10 meses
+
+
+32:51
+Reproduciendo
+NO COMPRES DÓLARES EN ARGENTINA SIN VER ESTE VIDEO
+Dalto Emprende
+•
+5,8 K visualizaciones • hace 1 año
+
+
+19:23
+Reproduciendo
+ASÍ SE HACE UN ANALISIS DE MERCADO REAL
+Dalto Emprende
+•
+59 K visualizaciones • hace 3 años
+
+
+13:28
+Reproduciendo
+COMO DEMOSTRAR QUE SOS LA MEJOR OPCIÓN
+Dalto Emprende
+•
+11 K visualizaciones • hace 3 años
+
+
+13:05
+Reproduciendo
+ANTES de CREAR un ECOMMERCE…
+Dalto Emprende
+•
+20 K visualizaciones • hace 1 año
+
+
+13:40
+Reproduciendo
+¿Que C*ARAJO hago con MI SUELDO de PROGRAMADOR?
+Soy Dalto
+•
+33 K visualizaciones • hace 3 meses
+
+
+14:13
+Reproduciendo
+Esta IA programa más rápido que yo 💀
+Soy Dalto
+•
+28 K visualizaciones • hace 3 meses
+
+
+24:44
+Reproduciendo
+Por esto NO terminas los CURSOS...
+Soy Dalto
+•
+50 K visualizaciones • hace 5 meses
+
+
+22:27
+Reproduciendo
+ASI HACKEARON AL GOBIERNO
+Soy Dalto
+•
+154 K visualizaciones • hace 10 meses
+
+
+11:22
+Reproduciendo
+Que es Markdown y porque apenderlo: Aprende Markdown DESDE CERO y en 10 minutos
+The Coder Cave esp
+•
+3 K visualizaciones • hace 10 meses
+
+
+15:50
+Reproduciendo
+Llegó el fin para los programadores? Es Devin el futuro?
+HolaMundo
+•
+200 K visualizaciones • hace 9 meses
+
+
+2:39
+Reproduciendo
+Por qué no están contratando a los nuevos desarrolladores?
+HolaMundo
+•
+69 K visualizaciones • hace 9 meses
+
+
+2:01
+Reproduciendo
+Los nuevos desarrolladores no califican como devs
+HolaMundo
+•
+39 K visualizaciones • hace 9 meses
+
+
+8:14
+Reproduciendo
+Ruta de aprendizaje para Desarrollador Backend - Cómo empezar desarrollo este 2024?
+HolaMundo
+•
+102 K visualizaciones • hace 11 meses
+
+
+8:30
+Reproduciendo
+Ruta de aprendizaje para Desarrollador frontend - Cómo empezar desarrollo este 2024?
+HolaMundo
+•
+54 K visualizaciones • hace 11 meses
+
+
+19:25
+Reproduciendo
+El Imperio británico, el imperio colonial más extenso de la historia
+Academia Play
+•
+336 K visualizaciones • hace 6 meses
+
+
+12:14
+Reproduciendo
+Los SUMERIOS, la primera civilización de la historia
+Academia Play
+•
+411 K visualizaciones • hace 6 meses
+
+
+38:44
+Reproduciendo
+Contra la Revolución francesa (con Fernando Díaz Villanueva y Alberto Garín)
+Academia Play
+•
+53 K visualizaciones • hace 6 meses
+
+
+21:01
+Reproduciendo
+Historia y Geopolítica de ALEMANIA 🇩🇪
+Academia Play
+•
+76 K visualizaciones • hace 6 meses
+
+
+15:59
+Reproduciendo
+El ascenso de Hitler al poder en Alemania
+Academia Play
+•
+328 K visualizaciones • hace 7 meses
+
+
+12:58
+Reproduciendo
+Luchas de poder en Irán. ¿Qué ocurre tras la muerte del Presidente? ¿Y la sucesión del Ayatolá?
+Academia Play
+•
+131 K visualizaciones • hace 7 meses
+
+
+1:39
+Reproduciendo
+La MITOLOGÍA GRIEGA como nunca antes te la habían contado
+Academia Play
+•
+39 K visualizaciones • hace 7 meses
+
+
+16:32
+Reproduciendo
+El Imperio austrohúngaro
+Academia Play
+•
+336 K visualizaciones • hace 7 meses
+
+
+27:17
+Reproduciendo
+1492: Reconquista y Descubrimiento de América
+Academia Play
+•
+176 K visualizaciones • hace 8 meses
+
+
+15:07
+Reproduciendo
+IRÁN contra ISRAEL (el conflicto en 15 minutos)
+Academia Play
+•
+578 K visualizaciones • hace 8 meses
+
+
+17:14
+Reproduciendo
+El conflicto entre CHINA y TAIWÁN
+Academia Play
+•
+216 K visualizaciones • hace 8 meses
+
+
+23:39
+Reproduciendo
+Las invasiones bárbaras
+Academia Play
+•
+177 K visualizaciones • hace 9 meses
+
+
+28:42
+Reproduciendo
+El Jesús histórico y el Jesús de la Biblia
+Academia Play
+•
+290 K visualizaciones • hace 9 meses
+
+
+12:52
+Reproduciendo
+La Cheka: la temible agencia soviética
+Academia Play
+•
+77 K visualizaciones • hace 9 meses
+
+
+13:36
+Reproduciendo
+La creación de la Unión Europea
+Academia Play
+•
+141 K visualizaciones • hace 10 meses
+
+
+6:50:38
+Reproduciendo
+La Leyenda Negra española explicada (en 7 horas)
+Academia Play
+•
+83 K visualizaciones • hace 11 meses
+
+
+19:30
+Reproduciendo
+¿Por qué IRÁN y ARABIA SAUDÍ se odian?
+Academia Play
+•
+1,5 M de visualizaciones • hace 11 meses
+
+
+23:29
+Reproduciendo
+La Venezuela de Hugo Chávez
+Academia Play
+•
+1,2 M de visualizaciones • hace 1 año
+
+
+19:17
+Reproduciendo
+Los Kennedy
+Academia Play
+•
+242 K visualizaciones • hace 1 año
+
+
+1:21
+Reproduciendo
+España contra su Leyenda Negra. Mitos, agravios y discursos.
+Academia Play
+•
+27 K visualizaciones • hace 1 año
+
+
+21:13
+Reproduciendo
+Felipe II, ¿ángel o demonio? La Leyenda Negra asociada al monarca español
+Academia Play
+•
+189 K visualizaciones • hace 1 año
+
+
+29:53
+Reproduciendo
+MIS INGRESOS PASIVOS 2021✅COMO CONSEGUIR 100USD MENSUALES - [Joven Inversor]
+Joven Inversor
+•
+665 K visualizaciones • hace 3 años
+
+
+24:27
+Reproduciendo
+Se EXTIENDE el BLANQUEO, EMPEZO el BULLRUN CRIPTO? - Análisis Semanal
+Joven Inversor
+•
+46 K visualizaciones • hace 3 meses
+
+
+30:17
+Reproduciendo
+¿Se terminó la fiesta? - Análisis Semanal
+Joven Inversor
+•
+70 K visualizaciones • hace 3 meses
+
+
+20:05
+Reproduciendo
+SUPERAVIT EN MAYO, NVIDIA ES LA REINA, SP500 NUEVO MAXIMO - Análisis Semanal
+Joven Inversor
+•
+46 K visualizaciones • hace 6 meses
+
+
+26:17
+Reproduciendo
+Aprende a Orar con estos 5 pasos y consigue la oración perfecta
+Daniel R. Chapán
+•
+81 K visualizaciones • hace 3 meses
+
+
+17:45
+Reproduciendo
+Te están intentando IMPLANTAR esto y solo ASÍ te librarás de ellos
+Daniel R. Chapán
+•
+120 K visualizaciones • hace 3 meses
+
+
+25:31
+Reproduciendo
+¿Qué es el Amor? De dónde viene y porque no te ha funcionado
+Daniel R. Chapán
+•
+78 K visualizaciones • hace 3 meses
+
+
+15:58
+Reproduciendo
+Las 3 Palabras Hebreas más poderosas para PROTECCIÓN ¡Activa milagros inexplicables! EIN OD MILVADO
+Daniel R. Chapán
+•
+125 K visualizaciones • hace 4 meses
+
+
+16:32
+Reproduciendo
+¡El Momento más poderoso de todo el día! (Todos duermen en él y lo desaprovechan)
+Daniel R. Chapán
+•
+89 K visualizaciones • hace 4 meses
+
+
+16:52
+Reproduciendo
+¡Este es el mes en que tu vida puede cambiar! Descubre POR QUÉ
+Daniel R. Chapán
+•
+157 K visualizaciones • hace 4 meses
+
+
+20:20
+Reproduciendo
+Decir esto es hacer un PACTO con SATAN (Muchos lo hacen sin saberlo)
+Daniel R. Chapán
+•
+251 K visualizaciones • hace 4 meses
+
+
+22:44
+Reproduciendo
+La Práctica Espiritual más antigua de la historia ¡Puede cambiar tu vida!
+Daniel R. Chapán
+•
+69 K visualizaciones • hace 5 meses
+
+
+1:19:52
+Reproduciendo
+5 Secretos de la RIQUEZA JUDÍA ¡Aplícalos HOY mismo!
+Daniel R. Chapán
+•
+113 K visualizaciones • hace 4 meses
+
+
+20:55
+Reproduciendo
+URGENTE: Se viene un DILUVIO al mundo y solo ASÍ podrás salvarte
+Daniel R. Chapán
+•
+82 K visualizaciones • hace 5 meses
+
+
+22:29
+Reproduciendo
+Di esta Oración Hebrea de 5 palabras sobre el agua y dásela a un enfermo. | #kabalah #kabbalah
+Daniel R. Chapán
+•
+1,3 M de visualizaciones • hace 5 meses
+
+
+13:03
+Reproduciendo
+4 mejores técnicas de la Ley de la Atracción - "El Secreto" miente
+Daniel R. Chapán
+•
+120 K visualizaciones • hace 9 meses
+
+
+11:56
+Reproduciendo
+Haz estas 3 cosas con la SAL y líbrate de toda maldición | #kabalah #kabbalah #cabala
+Daniel R. Chapán
+•
+1,1 M de visualizaciones • hace 10 meses
+
+
+26:07
+Reproduciendo
+7 pasos para MANIFESTAR tus Sueños según la Cabalá
+Daniel R. Chapán
+•
+291 K visualizaciones • hace 10 meses
+
+
+17:09
+Reproduciendo
+¡3 cosas que nunca debes hacer con tus uñas! Atrae MALDICIÓN
+Daniel R. Chapán
+•
+473 K visualizaciones • hace 10 meses
+
+
+13:23
+Reproduciendo
+Hacer ESTO en la mañana puede arruinar tu día! CUIDADO!
+Daniel R. Chapán
+•
+154 K visualizaciones • hace 11 meses
+
+
+19:13
+Reproduciendo
+SATANÁS: ¿Enemigo o Siervo de Dios? Descubre lo que dice la Cabalá
+Daniel R. Chapán
+•
+113 K visualizaciones • hace 1 año
+
+
+23:36
+Reproduciendo
+Las 8 Claves del Éxito del Rey David [Misterios del SALMO 27]
+Daniel R. Chapán
+•
+220 K visualizaciones • hace 1 año
+
+
+28:12
+Reproduciendo
+[MAL DE OJO] Cómo librarte de él con esta Guía Definitiva - SEGULA Definitiva
+Daniel R. Chapán
+•
+462 K visualizaciones • hace 1 año
+
+
+20:22
+Reproduciendo
+El Mesías NO viene hasta que ocurra ESTO
+Daniel R. Chapán
+•
+93 K visualizaciones • hace 1 año
+
+
+21:22
+Reproduciendo
+#LILITH: La Primera Mujer de ADAN - Así te Librarás de su Influencia
+Daniel R. Chapán
+•
+615 K visualizaciones • hace 1 año
+
+
+11:56
+Reproduciendo
+4 Cosas que no sabías pero ahora gracias a mí sabrás
+Tri-line
+•
+1,2 M de visualizaciones • hace 4 meses
+
+
+15:44
+Reproduciendo
+Todas las reseñas son falsas
+Tri-line
+•
+1,1 M de visualizaciones • hace 5 meses
+
+
+11:48
+Reproduciendo
+6 Cosas que no sabías porque tampoco puedes saberlo todo
+Tri-line
+•
+1,6 M de visualizaciones • hace 6 meses
+
+
+11:30
+Reproduciendo
+No pasa una hora sin una mentira (3)
+Tri-line
+•
+1 M de visualizaciones • hace 7 meses
+
+
+7:22
+Reproduciendo
+Cómo Cumplir la NORMATIVA DE AMAZON FBA en la UE para Evitar BLOQUEOS En Tus Productos en Amazon🚫
+Yassin HBT
+•
+2,5 K visualizaciones • hace 3 meses
+
+
+14:59
+Reproduciendo
+La Forma Más Fácil De GANAR 10.000€ Al Mes En Amazon FBA
+Yassin HBT
+•
+2,2 K visualizaciones • hace 4 meses
+
+
+51:50
+Reproduciendo
+➤ TUTORIAL KEEPA COMPLETO (2025) | Como Analizar Productos Para Vender en Amazon FBA
+Yassin HBT
+•
+6,6 K visualizaciones • hace 5 meses
+
+
+35:23
+Reproduciendo
+➤ Como Usar SellerAmp SAS | GUÍA COMPLETA PARA PRINCIPIANTES 2025 (PASO A PASO)
+Yassin HBT
+•
+3,5 K visualizaciones • hace 6 meses
+
+
+29:58
+Reproduciendo
+La CRUDA VERDAD Sobre Vender en Amazon FBA | "Lo Que Nadie Te Cuenta" - Marca Privada en Amazon FBA
+Yassin HBT
+•
+5,3 K visualizaciones • hace 6 meses
+
+
+9:10
+Reproduciendo
+5974€ en su PRIMER MES VENDIENDO con AMAZON ARBITRAJE - Cifra Record de ALBERTO
+Yassin HBT
+•
+2 K visualizaciones • hace 7 meses
+
+
+23:25
+Reproduciendo
+INVIERTO 292€ Haciendo ARBITRAGE... 3 meses después ESTOS SON LOS RESULTADOS!!!
+Yassin HBT
+•
+3,2 K visualizaciones • hace 7 meses
+
+
+27:40
+Reproduciendo
+CURSO GRATUITO ONLINE ARBITRAJE EN AMAZON | Domina ACTORIO
+Yassin HBT
+•
+5 K visualizaciones • hace 9 meses
+
+
+16:39
+Reproduciendo
+INVIERTO 612,49€ haciendo ARBITRAJE en AMAZON con estos productos.
+Yassin HBT
+•
+5 K visualizaciones • hace 10 meses
+
+
+16:54
+Reproduciendo
+Por Esto FRACASARÁS en AMAZON FBA en 2024 / NO HAGAS MARCA PRIVADA en AMAZON
+Yassin HBT
+•
+2,2 K visualizaciones • hace 1 año
+
+
+17:57
+Reproduciendo
+INVIERTO 352€ Haciendo ARBITRAGE en AMAZON Con Estos Productos Para Mi Tienda en AMAZON FBA
+Yassin HBT
+•
+4,9 K visualizaciones • hace 1 año
+
+
+1:55:43
+Reproduciendo
+Son peores cuando sí le GUSTAS - LIVE - Martes de Modo Guerra
+EL TEMACH
+•
+379 K visualizaciones • Emitido hace 5 meses
+
+
+1:45:49
+Reproduciendo
+BASURA PARA EL CUERPO - Jueves de Compas
+EL TEMACH
+•
+119 K visualizaciones • Emitido hace 3 meses
+
+
+2:28:35
+Reproduciendo
+TODOS fracasamos en el AMOR - LIVE - Martes de Modo Guerra
+EL TEMACH
+•
+194 K visualizaciones • Emitido hace 3 meses
+
+
+1:45:06
+Reproduciendo
+¿Por qué la MUJER MODERNA es confrontativa? - Jueves de Compas
+EL TEMACH
+•
+147 K visualizaciones • Emitido hace 3 meses
+
+
+1:40:08
+Reproduciendo
+ROGANDO LE ABURRES MÁS - LIVE FACEBOOK
+EL TEMACH
+•
+552 K visualizaciones • hace 9 meses
+
+
+16:45
+Reproduciendo
+Amazon elimina el trabajo en remoto
+midulive
+•
+103 K visualizaciones • hace 3 meses
+
+
+8:32
+Reproduciendo
+El NUEVO editor de código de SuperMaven será una LOCURA
+midulive
+•
+73 K visualizaciones • hace 3 meses
+
+
+9:53
+Reproduciendo
+Estofado de cerdo, ¿mejor que el de carne? Receta completa | Locos X el Asado
+Locos X el Asado
+•
+178 K visualizaciones • hace 3 meses
+
+
+14:21
+Reproduciendo
+Festejo mi cumple: Futbol, patadas, asado y aplausos - Puedo morir tranquilo
+Locos X el Asado
+•
+274 K visualizaciones • hace 3 meses
+
+
+10:51
+Reproduciendo
+El mejor Sandwich de Bondiola que probé: Receta paso a paso | Locos X el Asado
+Locos X el Asado
+•
+146 K visualizaciones • hace 3 meses
+
+
+21:38
+Reproduciendo
+Provoleta Argentina: La receta perfecta | Locos X el Asado
+Locos X el Asado
+•
+319 K visualizaciones • hace 3 meses
+
+
+16:07
+Reproduciendo
+El Choripan mas Caro del Mundo: ¿Vale la pena? | Locos X el Asado
+Locos X el Asado
+•
+208 K visualizaciones • hace 4 meses
+
+
+8:37
+Reproduciendo
+Trucha al Asador | Patagonia Viva
+Tastemade Español
+•
+82 K visualizaciones • hace 8 años
+
+
+8:00
+Reproduciendo
+Jabalí Asado | Patagonia Viva
+Tastemade Español
+•
+453 K visualizaciones • hace 8 años
+
+
+8:37
+Reproduciendo
+Cordero al Asador | Patagonia Viva
+Tastemade Español
+•
+222 K visualizaciones • hace 8 años
+
+
+1:58:10
+Reproduciendo
+Reunión Navideña de Frikis del Notion
+Productividad con Ruben Loan
+•
+2,5 K visualizaciones • Emitido hace 1 año
+
+
+12:09
+Reproduciendo
+Las cosas van a cambiar...
+Productividad con Ruben Loan
+•
+8,6 K visualizaciones • hace 8 meses
+
+
+10:54
+Reproduciendo
+7 Casos en los que NO Deberías Usar Notion
+Productividad con Ruben Loan
+•
+14 K visualizaciones • hace 10 meses
+
+
+12:31
+Reproduciendo
+Cómo superar un Bloqueo Emocional
+Productividad con Ruben Loan
+•
+43 K visualizaciones • hace 3 años
+
+
+38:15
+Reproduciendo
+VIVIR DE RENTAS - Con cuánta plata sos millonario en Argentina
+Santiago Magnin
+•
+153 K visualizaciones • hace 1 año
+
+
+9:48
+Reproduciendo
+UN DÍA EN MI VIDA INMOBILIARIA: Embudos de conversión, fuentes de ingreso y más!
+Santiago Magnin
+•
+10 K visualizaciones • hace 8 meses
+
+
+31:00
+Reproduciendo
+¿Cuál es el verdadero PREMIO de EMPRENDER? 🎯 La cruda realidad del EXITO
+Santiago Magnin
+•
+9,9 K visualizaciones • hace 3 meses
+
+
+1:29:19
+Reproduciendo
+Cómo generar ingresos pasivos en forma rápida, segura y eficiente | Jonatan Kon Oppel, Santi Magnin
+Santiago Magnin
+•
+33 K visualizaciones • Emitido hace 11 meses
+
+
+53:30
+Reproduciendo
+La verdad de la milanesa sobre los Créditos Hipotecarios UVA 2024
+Santiago Magnin
+•
+39 K visualizaciones • hace 5 meses
+
+
+38:32
+Reproduciendo
+CAMINO ÓPTIMO para ahorrar e invertir
+Santiago Magnin
+•
+18 K visualizaciones • hace 1 año
+
+
+1:39:59
+Reproduciendo
+SER RICO POSTA: ¿Qué es? ¿Cuánto hay que ganar? ¿Cuánto dinero hay que tener? En Argentina y en EEUU
+Santiago Magnin
+•
+19 K visualizaciones • hace 1 año
+
+
+11:19
+Reproduciendo
+4 RAZONES por las que estás DESTRUYENDO tu CARRERA
 BettaTech
 •
-5,3 K visualizaciones • Emitido hace 1 año
+22 K visualizaciones • hace 1 año
 
 
-1:56:23
-REPRODUCIENDO
-#1 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
+11:37
+Reproduciendo
+5 COSAS que QUERRÍA haber APRENDIDO
 BettaTech
 •
-6,1 K visualizaciones • Emitido hace 1 año
+24 K visualizaciones • hace 1 año
 
 
-52:09
-REPRODUCIENDO
-FUNDAMENTOS de RUST 🦀 (lenguaje de programación) | Aprende Rust desde Cero en español
-Carlos Azaustre - Aprende JavaScript
+11:15
+Reproduciendo
+4 CARACTERÍSTICAS que te ayudarán a MEJORAR como DESARROLLADOR
+BettaTech
 •
-11 K visualizaciones • hace 2 años
+23 K visualizaciones • hace 1 año
 
 
-1:12:20
-REPRODUCIENDO
-Mi primera vez con RUST | la función CodelyTV 71
-CodelyTV - Redescubre la programación
+12:53
+Reproduciendo
+Así YOUTUBE experimenta CONTIGO
+BettaTech
 •
-14 K visualizaciones • Emitido hace 2 años
+9,4 K visualizaciones • hace 8 meses
 
 
-2:33:26
-REPRODUCIENDO
-DEV WARS: Episodio I ✨ 8 Programadores, 2 Equipos, 5 Pruebas y mucha diversión
-MoureDev by Brais Moure
+8:02
+Reproduciendo
+Prueba Técnica de ENTREVISTA para JUNIOR... ¡sin IF's ni BUCLES!
+BettaTech
 •
-7,7 K visualizaciones • hace 5 meses
+19 K visualizaciones • hace 1 año
 
 
-48:16
-REPRODUCIENDO
-Crea una APP con PYTHON y CHATGPT desde cero
-MoureDev by Brais Moure
+26:15
+Reproduciendo
+¿Clases de HARVARD GRATIS? Analizando CS50
+BettaTech
 •
-291 K visualizaciones • hace 9 meses
+48 K visualizaciones • hace 1 año
 
 
-2:00:57
-REPRODUCIENDO
-FLUTTER vs KOTLIN/SWIFT ¿Cuál es mejor para crear Aplicaciones?
-MoureDev by Brais Moure
+25:22
+Reproduciendo
+Cómo y por qué he cambiado mi FÍSICO, mi VIDA y mis HÁBITOS
+Nate Gentile
 •
-23 K visualizaciones • hace 9 meses
+1,4 M de visualizaciones • hace 3 meses
 
 
-1:18:30
-REPRODUCIENDO
-Introducción al TESTING con PYTHON desde cero
-MoureDev by Brais Moure
+24:19
+Reproduciendo
+¡El PC de FINAL FANTASY XVI! (+260 horas de trabajo artesanal)
+Nate Gentile
 •
-28 K visualizaciones • hace 9 meses
+331 K visualizaciones • hace 3 meses
 
 
-1:10:13
-REPRODUCIENDO
-DART Desde Cero: Primeros Pasos en una hora
-MoureDev by Brais Moure
+29:10
+Reproduciendo
+¿TE ESCUCHA TU MÓVIL?
+Nate Gentile
 •
-30 K visualizaciones • hace 9 meses
+779 K visualizaciones • hace 6 meses
 
 
-1:11:10
-REPRODUCIENDO
-GOLANG (GO) Desde Cero: Primeros Pasos
-MoureDev by Brais Moure
+35:37
+Reproduciendo
+¡El MEJOR Mac Pro vs el MEJOR PC GAMING!
+Nate Gentile
 •
-27 K visualizaciones • hace 6 meses
+2,2 M de visualizaciones • hace 10 meses
 
 
-1:25:45
-REPRODUCIENDO
-🔴Preguntas y respuestas de Programación en VIVO #21, Mis primeras impresiones del lenguaje GO
+21:37
+Reproduciendo
+La cara oculta de la informática... Dentro de un DATACENTER
+Nate Gentile
+•
+1,1 M de visualizaciones • hace 1 año
+
+
+38:10
+Reproduciendo
+Cómo Steve Jobs ARRUINÓ su vida (Y suplicó para volver a Apple)
+Nate Gentile
+•
+1,7 M de visualizaciones • hace 1 año
+
+
+15:35
+Reproduciendo
+Dragon Ball Sparking! Zero es el Budokai Tenkaichi que llevas 17 años esperando
+Eurogamerspain
+•
+44 K visualizaciones • hace 2 meses
+
+
+12:33
+Reproduciendo
+Estilos Arquitectónicos de API (SOAP, REST, GraphQL y más)
+Manuel Zapata
+•
+6,5 K visualizaciones • hace 7 meses
+
+
+6:49
+Reproduciendo
+Por qué es importante la arquitectura de software
+Manuel Zapata
+•
+4,6 K visualizaciones • hace 1 año
+
+
+9:48
+Reproduciendo
+Esto va a Salvar tu Trabajo como Programador
 hdeleon.net
 •
-2,2 K visualizaciones • Emitido hace 2 años
+21 K visualizaciones • hace 2 meses
 
 
-1:14:59
-REPRODUCIENDO
-SWIFT Desde Cero: Primeros Pasos en una hora
-MoureDev by Brais Moure
+8:34
+Reproduciendo
+No entraba en la bandeja!: Costillas de Cerdo a la Riojana // Recetas de Bodegón #01
+Paulina Cocina
+•
+140 K visualizaciones • hace 8 meses
+
+
+8:04
+Reproduciendo
+La MEJOR receta de calabaza que probé en el AÑO
+Paulina Cocina
+•
+200 K visualizaciones • hace 1 año
+
+
+12:20
+Reproduciendo
+Así hago el Pollo al Ajillo con papas en 20 minutos (muy fácil)
+Paulina Cocina
+•
+281 K visualizaciones • hace 1 año
+
+
+1:41
+Reproduciendo
+¡Atención programadores! No uses este código de YouTube
+midudev
+•
+25 K visualizaciones • hace 4 meses
+
+
+11:17
+Reproduciendo
+Por qué los Elegidos No pueden estar Rodeados de Mucha Gente
+Urmah TV
+•
+55 K visualizaciones • hace 5 meses
+
+
+10:47
+Reproduciendo
+Base Alienígena en Utah - Inexplicables Sucesos Paranormales en Rancho Skinwalker
+Urmah TV
 •
 21 K visualizaciones • hace 7 meses
 
 
-1:04:23
-REPRODUCIENDO
-KOTLIN Desde Cero: Primeros Pasos en una hora
-MoureDev by Brais Moure
+21:50
+Reproduciendo
+El Bananero Se Pone Como Lokita Después de Probar la Salsa Más Picante del Mundo
+Terapia Picante
 •
-38 K visualizaciones • hace 7 meses
+2,1 M de visualizaciones • hace 3 meses
 
 
-58:21
-REPRODUCIENDO
-EXPRESIONES REGULARES Desde Cero
-MoureDev by Brais Moure
+15:03
+Reproduciendo
+¡¿Trabajo y Estudio?! TIPS usando PSICOLOGÍA + storytime
+Nenani 
 •
-28 K visualizaciones • hace 7 meses
+12 K visualizaciones • hace 2 meses
 
 
-1:10:49
-REPRODUCIENDO
-Crea una WEB usando solo PYTHON
-MoureDev by Brais Moure
+35:29
+Reproduciendo
+MARIA BECERRA INCOMODO MOMENTO con ADAM SANDLER - ME QUIEREN FUNAR OTRA VEZ - ALFREDO CASERO
+Martina tu bella amiga
 •
-174 K visualizaciones • hace 4 meses
+279 K visualizaciones • hace 2 meses
 
 
-1:33:13
-REPRODUCIENDO
-Clase 1: Inducción Completa
-OpenFING
+1:43:32
+Reproduciendo
+6 modelos de negocio explicados por sus expertos millonarios
+Adrià Solà Pastor
 •
-32 K visualizaciones • Emitido hace 2 años
+433 K visualizaciones • hace 1 año
 
 
-1:30:53
-REPRODUCIENDO
-Clase 2: Inducción Completa
-OpenFING
+9:17
+Reproduciendo
+La HAMBURGUESA más jugosa que vas a probar EN TU VIDA
+Paulina Cocina
 •
-6,6 K visualizaciones • Emitido hace 2 años
+56 K visualizaciones • hace 3 meses
 
 
-1:31:13
-REPRODUCIENDO
-Clase 3: Combinatoria
-OpenFING
+9:24
+Reproduciendo
+Por qué los HUEVOS BENEDICTINOS son mis huevos favoritos
+Paulina Cocina
 •
-6 K visualizaciones • Emitido hace 2 años
+124 K visualizaciones • hace 4 meses
 
 
-1:30:43
-REPRODUCIENDO
-Clase 4: Combinatoria
-OpenFING
+9:48
+Reproduciendo
+Ahora hago así la focaccia (la más fácil del mundo)
+Paulina Cocina
 •
-4 K visualizaciones • Emitido hace 2 años
+357 K visualizaciones • hace 4 meses
 
 
-1:32:11
-REPRODUCIENDO
-Clase 5: Combinatoria
-OpenFING
+24:48
+Reproduciendo
+JUAN INGARAMO: Lomito cordobés - Paulina Session #10
+Paulina Cocina
 •
-4 K visualizaciones • Emitido hace 2 años
+58 K visualizaciones • hace 4 meses
 
 
-1:33:01
-REPRODUCIENDO
-Clase 6: Combinatoria
-OpenFING
+9:43
+Reproduciendo
+SANGUCHE DE MILANESA TUCUMANO (COMPLETO) ¿EL MEJOR SANGUCHE DEL MUNDO?
+Paulina Cocina
 •
-3,4 K visualizaciones • Emitido hace 2 años
+71 K visualizaciones • hace 9 meses
 
 
-1:28:48
-REPRODUCIENDO
-🔴 ¿Existe el Programador FULL STACK? | Preguntas y respuestas de Programación en VIVO #25
-hdeleon.net
+9:19
+Reproduciendo
+NO VAS A CREER LO QUE LLEVA ESTA RECETA DE POLLO
+Paulina Cocina
 •
-4,7 K visualizaciones • Emitido hace 2 años
+58 K visualizaciones • hace 9 meses
 
 
-1:34:59
-REPRODUCIENDO
-Vivir en Nueva Zelanda, Cancelaciones en Internet | Raw Radio #1 ft Nicolás Schürmann
-hdeleon.net
+8:20
+Reproduciendo
+LO HAGO UNA VEZ Y ME DURA TODA LA SEMANA
+Paulina Cocina
 •
-36 K visualizaciones • hace 10 meses
+146 K visualizaciones • hace 9 meses
 
 
-1:33:40
-REPRODUCIENDO
-El Futuro del Frontend, Creación de Contenido, Vivir en Canadá | Raw Radio #2 ft Fernando Herrera
-hdeleon.net
+20:33
+Reproduciendo
+VISITO EL MEJOR RESTAURANTE DEL MUNDO (LITERAL, EL MEJOR): Esta es mi experiencia
+Paulina Cocina
 •
-57 K visualizaciones • hace 10 meses
+454 K visualizaciones • hace 9 meses
 
 
-1:05:11
-REPRODUCIENDO
-GPT-4, El Futuro de JavaScript, Sueldos en Tech | Raw Radio #3 ft Miguel Ángel Durán (Midudev)
-hdeleon.net
+13:11
+Reproduciendo
+ÑOQUIS DE CALABAZA RELLENOS PASO A PASO
+Paulina Cocina
 •
-65 K visualizaciones • hace 10 meses
+102 K visualizaciones • hace 10 meses
 
 
-1:05:28
-REPRODUCIENDO
-ChatGPT Miente, Despidos en Tech, ¿Qwik Promete?, España, Dominicode | Raw Radio #7 ft Bezael Pérez
-hdeleon.net
+12:48
+Reproduciendo
+CUANDO YA NO SABES QUÉ COCINAR
+Paulina Cocina
 •
-7,2 K visualizaciones • hace 9 meses
+113 K visualizaciones • hace 9 meses
 
 
-1:25:58
-REPRODUCIENDO
-CodelyTV, SOLID, GPT-4, Lenguajes de Programación, Arq. de Software | Raw Radio #4 ft Javier Ferrer
-hdeleon.net
+9:16
+Reproduciendo
+No hago más el FALAFEL con garbanzos de lata: ASÍ ES LA RECETA ORIGINAL DEL FALAFEL
+Paulina Cocina
 •
-17 K visualizaciones • hace 10 meses
+339 K visualizaciones • hace 8 meses
 
 
-1:19:02
-REPRODUCIENDO
-¿Comenzar por JavaScript o por React?, Minecraft, Burnout, GPT-4 | Raw Radio #9 ft Carlos Azaustre
-hdeleon.net
+11:47
+Reproduciendo
+Paté casero: receta súper económica y fácil para llevar a la casa de tu cuñada
+Paulina Cocina
 •
-8,6 K visualizaciones • hace 9 meses
+496 K visualizaciones • hace 1 año
 
 
-1:13:03
-REPRODUCIENDO
-BACKEND AVANZADO, The Commit Show, Auto-GPT, ¿Realidad Simulada? | Raw Radio #10 ft BettaTech
-hdeleon.net
+8:39
+Reproduciendo
+Las hago con Lentejas: muy fácil y completo (ensalada de Lentejas)
+Paulina Cocina
 •
-12 K visualizaciones • hace 8 meses
+738 K visualizaciones • hace 1 año
 
 
-1:12:38
-REPRODUCIENDO
-¿GPT-4 Remplazará Programadores?, Ser Freelance, Hate en Redes, Batman | Raw Radio #6 ft Brais Moure
-hdeleon.net
+8:19
+Reproduciendo
+10 recetas de Tarta: sencillo, rápido y fácil
+Paulina Cocina
 •
-24 K visualizaciones • hace 9 meses
+328 K visualizaciones • hace 1 año
 
 
-1:10:33
-REPRODUCIENDO
-Revisión de proyectos de programación, noticias de tecnología y más #NullPointerExceptionLive
-hdeleon.net
+13:00
+Reproduciendo
+Tiene 7 años y cocina Arroz Chaufa - Cocinen Ustedes #6
+Paulina Cocina
 •
-3,6 K visualizaciones • Emitido hace 2 años
+49 K visualizaciones • hace 1 año
 
 
-1:46:22
-REPRODUCIENDO
-The Commit Show #5 ft @MatesMike | ¿P vs NP? ¿Matemáticas en la Informática?
-BettaTech
+12:20
+Reproduciendo
+Así hago el Pollo al Ajillo con papas en 20 minutos (muy fácil)
+Paulina Cocina
 •
-20 K visualizaciones • hace 5 meses
+281 K visualizaciones • hace 1 año
 
 
-2:05:51
-REPRODUCIENDO
-The Commit Show #1 ft @midudev | ¿Qué significa ser senior? ¿Despidos masivos en Tech? ¿GPT-4?
-BettaTech
+14:17
+Reproduciendo
+Mi receta de Arroz con Pollo paso a paso
+Paulina Cocina
 •
-151 K visualizaciones • hace 9 meses
+477 K visualizaciones • hace 1 año
 
 
-14:03
-REPRODUCIENDO
-Introducción a GraphQL en español. ¿Qué es? ¿Para qué sirve? Sus ventajas. [Curso express GraphQL]
+10:37
+Reproduciendo
+Por qué deberías hacer ASÍ tus milanesas de berenjenas (y milanesa de berenjena rellenas)
+Paulina Cocina
+•
+431 K visualizaciones • hace 1 año
+
+
+10:47
+Reproduciendo
+Masterclass del Pollo al Horno: hasta la pechuga queda húmeda
+Paulina Cocina
+•
+224 K visualizaciones • hace 1 año
+
+
+20:11
+Reproduciendo
+🔴TASHLIJ: Ritual Judío para abrir caminos, buena suerte, gracia divina, alejar enfermedades y muerte
+Yoel Benhabib
+•
+6,9 K visualizaciones • hace 2 meses
+
+
+8:13
+Reproduciendo
+🔥 Antiguo Demonio de más de 2000 años | El Exorcismo de Rabí Akiva | Cómo operan los Demonios
+Yoel Benhabib
+•
+2,4 K visualizaciones • hace 3 meses
+
+
+12:16
+Reproduciendo
+🔥 Poderosísimo amuleto cabalístico de Protección para alejar todo lo malo, brujería, enemigos etc...
+Yoel Benhabib
+•
+37 K visualizaciones • hace 3 meses
+
+
+29:58
+Reproduciendo
+La disfunción del lenguaje en el Arbol de la Vida y la activación de lo simbólico como expresión
+Yoel Benhabib
+•
+3,9 K visualizaciones • hace 3 meses
+
+
+32:07
+Reproduciendo
+Místicos Judíos: Los Esenios de Qumrán, Prácticas, Rituales y Creencias | Dr. Adolfo Roitman
+Yoel Benhabib
+•
+5,7 K visualizaciones • hace 3 meses
+
+
+14:56
+Reproduciendo
+🔥 Las fases de la Luna para atraer el dinero, abundancia, salud, y alejar los enemigos y problemas
+Yoel Benhabib
+•
+11 K visualizaciones • hace 3 meses
+
+
+22:07
+Reproduciendo
+Clase #5 Exorcismo Judío | Postración en la tumbas: Cómo despertar a los muertos - Kabbalah Secreta
+Yoel Benhabib
+•
+6,1 K visualizaciones • hace 3 meses
+
+
+2:41
+Reproduciendo
+¿Cómo se produce una posesión demoníaca? Evita que un espíritu entre dentro de ti | Exorcismo Judío
+Yoel Benhabib
+•
+2,1 K visualizaciones • hace 3 meses
+
+
+12:09
+Reproduciendo
+🔥 Los últimos libros secretos de Kabbalah que he adquirido en mi viaje por Europa
+Yoel Benhabib
+•
+4,4 K visualizaciones • hace 4 meses
+
+
+9:13
+Reproduciendo
+🔥 La Sombra en la Esquina: Los Espíritus que viven en tu casa ¿Cómo te afectan? ¿Quiénes son?
+Yoel Benhabib
+•
+5,7 K visualizaciones • hace 7 meses
+
+
+11:23
+Reproduciendo
+🔥DEMONIOS que encarnan en la Tierra como seres humanos y están acabando con el mundo
+Yoel Benhabib
+•
+8,7 K visualizaciones • hace 7 meses
+
+
+11:26
+Reproduciendo
+Mi tarta de jamón y queso es RE PRO (+ masa para tarta)
+Paulina Cocina
+•
+376 K visualizaciones • hace 1 año
+
+
+11:24
+Reproduciendo
+Si te sobran verduras sueltas prepara estas brochetas sencillas: las salsas lo hacen todo
+Paulina Cocina
+•
+55 K visualizaciones • hace 1 año
+
+
+8:12
+Reproduciendo
+TREMENDO LO QUE HACE LELE CRISTOBAL CON ALMENDRAS - 1 chef 1 ingrediente
+Paulina Cocina
+•
+83 K visualizaciones • hace 1 año
+
+
+3:58
+Reproduciendo
+Todos me preguntan QUÉ LE PUSE: Mi NUEVA receta de chimichurri casero
+Paulina Cocina
+•
+70 K visualizaciones • hace 1 año
+
+
+8:04
+Reproduciendo
+SÓLO CON UNA PAPA: 14 Sencillas Recetas de Papas que Querrás Aprender
+Paulina Cocina
+•
+158 K visualizaciones • hace 1 año
+
+
+9:58
+Reproduciendo
+Encuentro la SALSA DEL NONO y Termino Haciendo Un OSOBUCO AL DISCO Increíble
+Paulina Cocina
+•
+69 K visualizaciones • hace 1 año
+
+
+16:40
+Reproduciendo
+SÓLO 1 Ingrediente + Agua: 6 Tortillas ASOMBROSAS que Deberías Aprender a Hacer
+Paulina Cocina
+•
+428 K visualizaciones • hace 1 año
+
+
+9:06
+Reproduciendo
+Dillom: Tacos - Paulina Session #01
+Paulina Cocina
+•
+750 K visualizaciones • hace 1 año
+
+
+1:06
+Reproduciendo
+Crea un mapa mental de un documento en 1 minuto
 midudev
 •
-30 K visualizaciones • hace 4 años
+65 K visualizaciones • hace 7 meses
 
 
-16:43
-REPRODUCIENDO
-Queries y GraphiQL con la API de Rick & Morty [Curso express GraphQL]
+6:42
+Reproduciendo
+¿Dónde aprender Programación sin pagar nada y conseguir una guía de estudio?
 midudev
 •
-18 K visualizaciones • hace 4 años
+90 K visualizaciones • hace 1 año
 
 
-18:00
-REPRODUCIENDO
-Cómo usar GraphQL en React ⚛️con Apollo Client [Curso express GraphQL]
-midudev
+10:00
+Reproduciendo
+Este Templo Antiguo de 1800 años se Transforma en una Máquina - Arqueología Prohibida
+Urmah TV
 •
-27 K visualizaciones • hace 4 años
+49 K visualizaciones • hace 3 meses
 
 
-16:46
-REPRODUCIENDO
-Crea tu servidor GraphQL con Apollo Server [Curso express GraphQL]
-midudev
+12:58
+Reproduciendo
+5 Encuentros más Inquietantes con Extraterrestres y los Verdaderos Hombres de Negro
+Urmah TV
 •
-11 K visualizaciones • hace 4 años
+17 K visualizaciones • hace 3 meses
 
 
-17:51
-REPRODUCIENDO
-Conecta una API REST con GraphQL en Apollo Server [Curso express GraphQL]
-midudev
+10:05
+Reproduciendo
+Vida Después de la Muerte ¿Qué hay en el más allá?
+Urmah TV
 •
-9,9 K visualizaciones • hace 4 años
+10 K visualizaciones • hace 3 meses
 
 
-42:50
-REPRODUCIENDO
-📚 Curso desde cero de GraphQL - Parte 1: ¿Qué es GraphQL? Creando un servidor desde cero con queries
-midudev
+10:27
+Reproduciendo
+Lo que Ocurrió en Japón en 1803 Te Dejará sin Palabras ¿Qué era y quién estaba dentro?
+Urmah TV
 •
-82 K visualizaciones • hace 2 años
+34 K visualizaciones • hace 3 meses
 
 
-18:18
-REPRODUCIENDO
-📚 Curso desde cero de GraphQL - Parte 2: Cambiando datos en el servidor con MUTATIONS
-midudev
+15:11
+Reproduciendo
+Existió Otra Especie Avanzada en la Tierra Antes de los Humanos - Hipótesis Siluriana
+Urmah TV
 •
-23 K visualizaciones • hace 2 años
+36 K visualizaciones • hace 4 meses
 
 
-5:46
-REPRODUCIENDO
-Enum Types en GraphQL | 📚 Curso desde cero de GraphQL - Parte 3
-midudev
+21:38
+Reproduciendo
+Cómo Controlar Mentalmente el Campo Energético - Conocimiento Oculto
+Urmah TV
 •
-8,7 K visualizaciones • hace 2 años
+31 K visualizaciones • hace 4 meses
 
 
-1:12:31
-REPRODUCIENDO
-Solid.js Desde Cero ¿El sucesor de React? ⚛️
+8:01
+Reproduciendo
+El Abandono Cósmico ¿Qué es la Amnesia Espiritual?
+Urmah TV
+•
+17 K visualizaciones • hace 5 meses
+
+
+13:26
+Reproduciendo
+¿Son Obras de Antiguas Civilizaciones Avanzadas o Huellas de Visitas Extraterrestres?
+Urmah TV
+•
+37 K visualizaciones • hace 6 meses
+
+
+11:17
+Reproduciendo
+LOS MAYORES ENCUBRIMIENTOS ARQUEOLÓGICOS DE LA HISTORIA
+Urmah TV
+•
+44 K visualizaciones • hace 6 meses
+
+
+15:05
+Reproduciendo
+Lo que No te Dijeron Jamás Sobre el Universo y Nuestro Poder de Creación
+Urmah TV
+•
+26 K visualizaciones • hace 7 meses
+
+
+15:49
+Reproduciendo
+El Extraterrestre que Vivía entre los Hombres
+Urmah TV
+•
+87 K visualizaciones • hace 8 meses
+
+
+10:47
+Reproduciendo
+Base Alienígena en Utah - Inexplicables Sucesos Paranormales en Rancho Skinwalker
+Urmah TV
+•
+21 K visualizaciones • hace 7 meses
+
+
+10:02
+Reproduciendo
+Jack Parsons, el Ingeniero Espacial que Fusionó Ciencia y Ocultismo
+Urmah TV
+•
+24 K visualizaciones • hace 6 meses
+
+
+16:28
+Reproduciendo
+Descubren un Sarcófago de 800 Millones de Años en Siberia - NO ES HUMANA
+Urmah TV
+•
+49 K visualizaciones • hace 7 meses
+
+
+10:02
+Reproduciendo
+El Lugar más Sagrado del Mundo - Conocimiento Antiguo Oculto
+Urmah TV
+•
+50 K visualizaciones • hace 8 meses
+
+
+6:01
+Reproduciendo
+¿Estás considerando abandonar la programación?
 midulive
 •
-34 K visualizaciones • hace 2 años
+95 K visualizaciones • hace 2 meses
 
 
-6:02
-REPRODUCIENDO
-📳 Mutation para editar datos en servidor de GraphQL - 📚 Curso desde cero de GraphQL - Parte 4
-midudev
+46:13
+Reproduciendo
+un poco de reddit para compensar el si te ríes pierdes del otro día
+Auron
 •
-9 K visualizaciones • hace 2 años
+1,4 M de visualizaciones • hace 2 meses
 
 
-1:30:58
-REPRODUCIENDO
-APRENDE a usar GRAPHQL en tu APP de REACT con APOLLO CLIENT 🚀
-midudev
+15:43
+Reproduciendo
+Historiador detalla cómo fue el IMPERIO ROMANO realmente, sin mentiras ni exageraciones
+The Wild Project
 •
-39 K visualizaciones • hace 2 años
+842 K visualizaciones • hace 7 meses
 
 
-1:38:19
-REPRODUCIENDO
-🔌 Conecta MongoDB con GraphQL paso a paso
-midudev
+24:46
+Reproduciendo
+"La Universidad NO ENSEÑA a Programar". La opinión de estudiantes.
+midulive
 •
-16 K visualizaciones • hace 2 años
+132 K visualizaciones • hace 2 meses
 
 
-47:37
-REPRODUCIENDO
-👨‍🏫 Fragmentos y Suscripciones en GraphQL en una aplicación con React⚛️
-midudev
+36:57
+Reproduciendo
+21 Trabajos Online Para Ganar Dinero Desde Casa
+Adrián Sáenz
 •
-9,9 K visualizaciones • hace 1 año
+161 K visualizaciones • hace 2 meses
 
 
-25:10
-REPRODUCIENDO
-Adapter | Integra aplicaciones con este patrón de diseño
-Manuel Zapata
+28:52
+Reproduciendo
+El Discurso MÁS IMPORTANTE de STEVE JOBS | Documental
+Dieck Docs
 •
-3,7 K visualizaciones • hace 9 meses
+3,1 M de visualizaciones • hace 3 meses
 
 
-45:28
-REPRODUCIENDO
-Integración Continua: qué es y cómo empezar a usarla en tu proyecto
-Manuel Zapata
+24:56
+Reproduciendo
+hoy pablo me ha pedido que juegue a TERRORO
+Auron
 •
-5,3 K visualizaciones • hace 8 meses
+1,7 M de visualizaciones • hace 2 meses
 
 
-1:25:53
-REPRODUCIENDO
-Arquitectura de MICROSERVICIOS | Conceptos | Ejemplo con Java y AWS
-Manuel Zapata
+9:12
+Reproduciendo
+La programación está por despegar el 2025
+HolaMundo
 •
-9,1 K visualizaciones • hace 11 meses
+92 K visualizaciones • hace 2 meses
 
 
-28:10
-REPRODUCIENDO
-Strategy | Organiza tus algoritmos con este patrón de diseño
-Manuel Zapata
+8:52
+Reproduciendo
+De adicta a la ropa a cuponmaniática | Cuponmanía | TLC Latinoamérica
+TLC Latinoamérica
 •
-3,8 K visualizaciones • hace 8 meses
+535 K visualizaciones • hace 2 años
 
 
-26:25
-REPRODUCIENDO
-Observer | Notificando eventos en nuestras aplicaciones
-Manuel Zapata
+9:45
+Reproduciendo
+20 TRUCOS AVANZADOS si tienes ALEXA (con Echo dot en 2022)
+TuAppleMundo - iPhone, iPad y iOS
 •
-2,9 K visualizaciones • hace 5 meses
+1,2 M de visualizaciones • hace 2 años
 
 
-6:28:42
-REPRODUCIENDO
-Curso GRATIS de Patrones de Arquitectura (Capas, microservicios y más) 💥
-Manuel Zapata
+16:05
+Reproduciendo
+17 TRUCOS PARA ALEXA - ¡Domina tu AMAZON ECHO AL 100%!
+Xataka
 •
-45 K visualizaciones • hace 1 año
+718 K visualizaciones • hace 3 años
 
 
-17:49
-REPRODUCIENDO
-Patrón de Diseño DECORATOR | Explicado 🎨
-Manuel Zapata
+11:31
+Reproduciendo
+Cambiar de vida: pasito a pasito
+En Pocas Palabras – Kurzgesagt
 •
-6,6 K visualizaciones • hace 2 años
+653 K visualizaciones • hace 2 meses
 
 
-22:12
-REPRODUCIENDO
-Pruebas unitarias y Test-Driven Development | Ejemplo desde cero
-Manuel Zapata
+8:35
+Reproduciendo
+🤯🔫 Llega NOTION a INTEGROMAT y Me Destruye la Vida (Curso de la API de Notion desde Cero)
+Productividad con Ruben Loan
 •
-47 K visualizaciones • hace 3 años
+12 K visualizaciones • hace 3 años
 
 
-1:17:07
-REPRODUCIENDO
-⚡ CÓMO DISEÑAR la Arquitectura de un Sistema | Pre-Lanzamiento de mi NUEVO CURSO
-Manuel Zapata
+1:47:21
+Reproduciendo
+15 Hábitos para Tener una Salud Mental del 1% (Borja Vilaseca)
+Tengo un Plan
 •
-19 K visualizaciones • Emitido hace 2 años
+1,1 M de visualizaciones • hace 9 meses
 
 
-1:17:46
-REPRODUCIENDO
-8 patrones de diseño que deberías conocer, charla con Manuel Zapata
-hdeleon.net
+20:40
+Reproduciendo
+Planifica tu Menú Saludable para Toda la Semana | Ahorra Tiempo, Dinero y Pierde Grasa
+The Saiyan Kiwi
 •
-29 K visualizaciones • Emitido hace 3 años
+306 K visualizaciones • hace 2 meses
 
 
-1:00:25
-REPRODUCIENDO
-Arquitectura de Datos, ¿y eso qué es? 📊
-Manuel Zapata
+9:17
+Reproduciendo
+Compré los Objetos Más ABSURDOS de TikTok
+Ibai
 •
-14 K visualizaciones • Emitido hace 2 años
+2,9 M de visualizaciones • hace 9 meses
 
 
-1:18:58
-REPRODUCIENDO
-Stackoverflow ha sido comprado, noticias de tecnología #NullPointerExceptionLive
-hdeleon.net
+8:25
+Reproduciendo
+El DRAMA de GLOBANT
+midulive
 •
-4,3 K visualizaciones • Emitido hace 2 años
+99 K visualizaciones • hace 1 mes
 
 
-2:02:19
-REPRODUCIENDO
-GitHub es el Instagram de los Programadores + Probando Stable Diffusion
-BettaTech
+17:19
+Reproduciendo
+Cómo conectar con tu propósito y levantarte cada mañana con ilusión | Sebastián Lora | TEDxArxiduc
+TEDx Talks
 •
-3,5 K visualizaciones • Emitido hace 1 año
+1,4 M de visualizaciones • hace 3 años
 
 
-2:03:57
-REPRODUCIENDO
-NO Necesitas Kubernetes, sólo te estás complicando la vida
-BettaTech
+17:44
+Reproduciendo
+PASÉ 24H HACIENDO LA DIETA MILITAR
+Ibai
 •
-7,6 K visualizaciones • Emitido hace 5 meses
+2 M de visualizaciones • hace 1 mes
 
 
-3:05:56
-REPRODUCIENDO
-¿Qué nos depara el nuevo año? Analizamos 2021 y planeamos 2022
-BettaTech
+12:42
+Reproduciendo
+SUPERMERCADO MÁS BARATO vs MÁS CARO DEL MUNDO
+Ibai
 •
-2 K visualizaciones • Emitido hace 2 años
+3,9 M de visualizaciones • hace 1 mes
 
 
-1:49:49
-REPRODUCIENDO
-No todo es programar | ¿Un poco de gaming? 👾
-BettaTech
+34:32
+Reproduciendo
+Libra ESTO SE PONDRÁ INCREÍBLE! ADIÓS A UN "MAL", 10 DE OROS Y COPAS VAS A VIVIR, CAMBIO CON HECHOS
+Tarot de Tallulah 
 •
-3,1 K visualizaciones • Emitido hace 2 años
+26 K visualizaciones • hace 1 mes
 
 
-46:25
-REPRODUCIENDO
-Las palabras más importantes en inglés para principiantes
-Kale Anders
+7:03
+Reproduciendo
+EL JUEGO mas AMBICIOSO de AVATAR ESTA POR LLEGAR 🥵 | Avatar: La leyenda de Aang Juego Triple A
+Appa Comics
 •
-9,5 M de visualizaciones • hace 4 años
+120 K visualizaciones • hace 3 meses
 
 
-1:29:16
-REPRODUCIENDO
-😲 DOMINA EL INGLÉS con 250 Frases de los 125 VERBOS IRREGULARES en INGLÉS / Habla INGLÉS en 90 min.
-YouTalk TV
+8:28
+Reproduciendo
+El vitel toné ORIGINAL de Italia
+Paulina Cocina
 •
-408 K visualizaciones • hace 2 años
+91 K visualizaciones • hace 3 semanas
 
 
-35:20
-REPRODUCIENDO
-200 verbos regulares e irregulares en inglés con pronunciación y significado en español
-Yes en Inglés
+40:24
+Reproduciendo
+ALQUILÉ UN BOLICHE PARA MI CUMPLEAÑOS Y PASÓ LO PEOR...
+Brunenger Streams
 •
-1,9 M de visualizaciones • hace 4 años
+219 K visualizaciones • hace 3 meses
 
 
-47:58
-REPRODUCIENDO
-🔝DESCUBRE los 50 VERBOS MÁS USADOS en INGLÉS / APRENDE por fin los VERBOS más HABITUALES 🚀(2023)
-YouTalk TV
+44:03
+Reproduciendo
+SORPRENDO a mis PASAJEROS de UBER con mi MUSTANG
+Brunenger Streams
 •
-31 K visualizaciones • hace 7 meses
+253 K visualizaciones • hace 7 meses
+
+
+31:22
+Reproduciendo
+Libra SE CUMPLIRÁ TU GRAN DESEO! VIENE JUSTICIA Y TODO SE ACLARA, TU LE GUSTAS A ESTA PERSONA
+Tarot de Tallulah 
+•
+23 K visualizaciones • hace 2 días
+
+
+9:17
+Reproduciendo
+La HAMBURGUESA más jugosa que vas a probar EN TU VIDA
+Paulina Cocina
+•
+56 K visualizaciones • hace 3 meses
+
+
+9:24
+Reproduciendo
+Por qué los HUEVOS BENEDICTINOS son mis huevos favoritos
+Paulina Cocina
+•
+124 K visualizaciones • hace 4 meses
+
+
+18:59
+Reproduciendo
+ZOE GOTUSSO: las milanesas de su abuela - Paulina Session #06
+Paulina Cocina
+•
+143 K visualizaciones • hace 8 meses
+
+
+8:50
+Reproduciendo
+Arroz con calamares DESDE CERO y con la parte más ECONÓMICA del calamar
+Paulina Cocina
+•
+95 K visualizaciones • hace 9 meses
+
+
+13:12
+Reproduciendo
+LAS RIBS DE KANSAS
+Bajoneando por hay
+•
+193 K visualizaciones • hace 4 meses
+
+
+14:08
+Reproduciendo
+10 juegazos que no sabías que ya están en móviles
+Eurogamerspain
+•
+240 K visualizaciones • hace 5 meses
+
+
+6:00
+Reproduciendo
+MEJORES AURICULARES GAMER CALIDAD/PRECIO 2024 😱 CORSAIR VOID
+TechnoReviews
+•
+10 K visualizaciones • hace 2 meses
+
+
+6:11
+Reproduciendo
+¿TABLET Y NOTEBOOK GAMER AL MISMO TIEMPO? 😱 TAB A11 PRO
+TechnoReviews
+•
+5,8 K visualizaciones • hace 3 meses
+
+
+5:40
+Reproduciendo
+ARMAMOS LA NUEVA PC GAMER DE @soydairi ¿VALE LA PENA?
+TechnoReviews
+•
+13 K visualizaciones • hace 3 meses
+
+
+6:54
+Reproduciendo
+ESTE ES EL GABINETE MAS CARO DE ASUS 🤑 ROG HYPERION
+TechnoReviews
+•
+11 K visualizaciones • hace 3 meses
+
+
+18:06
+Reproduciendo
+UBISOFT SIN SALIDA
+Edu Camps
+•
+29 K visualizaciones • hace 2 meses
+
+
+27:35
+Reproduciendo
+CRISIS DE MEMORIA en las RTX 5080: QUÉ está PASANDO?
+Edu Camps
+•
+29 K visualizaciones • hace 3 meses
+
+
+28:00
+Reproduciendo
+GeForce RTX 5090 y RTX 5080 FILTRADAS 🔥 32 GB GDDR7 y 600W
+Edu Camps
+•
+41 K visualizaciones • hace 3 meses
+
+
+51:20
+Reproduciendo
+¿Cómo prepararse para el mundo post Inteligencia Artificial? (Crescitec - Puno 2024)
+EDteam
+•
+155 K visualizaciones • hace 3 meses
+
+
+16:00
+Reproduciendo
+Todo sobre OpenAI o1: ¿Realmente puede razonar?
+EDteam
+•
+45 K visualizaciones • hace 3 meses
+
+
+27:13
+Reproduciendo
+¿Cómo crear una nube privada desde casa? (Synology NAS)
+EDteam
+•
+96 K visualizaciones • hace 3 meses
+
+
+13:12
+Reproduciendo
+Los secretos del Event Sourcing, ¿por qué debes usarlo? | Julián Velandia | EDcamp Bogotá 2023
+EDteam
+•
+3,6 K visualizaciones • hace 4 meses
+
+
+28:53
+Reproduciendo
+Los inventos tecnológicos más importantes de la historia | Parte 2
+EDteam
+•
+23 K visualizaciones • hace 4 meses
+
+
+26:46
+Reproduciendo
+¿Los programadores le temen a la IA? (encuesta StackOverflow 2024)
+EDteam
+•
+12 K visualizaciones • hace 4 meses
+
+
+7:24
+Reproduciendo
+¿México en BRICS? | Embajador de Rusia en México.
+Diego Ruzzarin
+•
+148 K visualizaciones • hace 2 meses
+
+
+7:02
+Reproduciendo
+Embajador de Rusia ADVIERTE sobre ataques a larga distancia.
+Diego Ruzzarin
+•
+23 K visualizaciones • hace 3 meses
+
+
+3:38
+Reproduciendo
+Segundo atentado de Trump (Nadie habla de eso)
+Diego Ruzzarin
+•
+41 K visualizaciones • hace 3 meses
+
+
+18:26
+Reproduciendo
+SACÁ LOS ÑOQUIS DE AHI AMIGO 😂
+Pimpeano
+•
+216 K visualizaciones • hace 3 meses
+
+
+35:04
+Reproduciendo
+7 UBICACIONES SECRETAS DE GOOGLE MAPS REACCIÓN DE AURONPLAY. (VIDEO VIEJO COMO TÚ) 👴👴
+ArplayClips
+•
+411 K visualizaciones • hace 4 meses
+
+
+13:49
+Reproduciendo
+LLUVIA Y PASTAS en ALACENA
+Bajoneando por hay
+•
+110 K visualizaciones • hace 2 meses
+
+
+1:04:04
+Reproduciendo
+MasterClass: 7 Habilidades para transitar la vida con tranquilidad, armonía y calma
+PILAR SORDO TV
+•
+140 K visualizaciones • hace 1 año
+
+
+8:47
+Reproduciendo
+NUNCA había probado hacer MATAMBRE así
+Paulina Cocina
+•
+90 K visualizaciones • hace 4 meses
 

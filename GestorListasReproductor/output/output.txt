@@ -1,286 +1,426 @@
 Lista de Videos
-
 ________________________________________________________________________________
-
-Duracion total: 172:56:34
-
-Te quedan por ver 130 videos
-
-
+Duracion total: 185:53:29
+Te quedan por ver 2 videos
 ________________________________________________________________________________
-
-Tenemos 16 videos mayores a 0 minutos y menores a 30 minutos
-1 0:5:46 Enum Types en GraphQL | 📚 Curso desde cero de GraphQL - Parte 3
-1 0:6:2 📳 Mutation para editar datos en servidor de GraphQL - 📚 Curso desde cero de GraphQL - Parte 4
-1 0:10:34 RUST DESDE CERO ⚙️ PRIMEROS PASOS con el lenguaje de PROGRAMACIÓN
-1 0:14:3 Introducción a GraphQL en español. ¿Qué es? ¿Para qué sirve? Sus ventajas. [Curso express GraphQL]
-1 0:16:43 Queries y GraphiQL con la API de Rick & Morty [Curso express GraphQL]
-1 0:16:46 Crea tu servidor GraphQL con Apollo Server [Curso express GraphQL]
-1 0:17:49 Patrón de Diseño DECORATOR | Explicado 🎨
-1 0:17:51 Conecta una API REST con GraphQL en Apollo Server [Curso express GraphQL]
-1 0:18:0 Cómo usar GraphQL en React ⚛️con Apollo Client [Curso express GraphQL]
-1 0:18:18 📚 Curso desde cero de GraphQL - Parte 2: Cambiando datos en el servidor con MUTATIONS
-1 0:22:12 Pruebas unitarias y Test-Driven Development | Ejemplo desde cero
-1 0:22:57 Resuelvo PRUEBA TÉCNICA para PROGRAMADOR JUNIOR
-1 0:23:30 Ejemplo de JavaScript Avanzado (ÚLTIMO VIDEO)
-1 0:25:10 Adapter | Integra aplicaciones con este patrón de diseño
-1 0:26:25 Observer | Notificando eventos en nuestras aplicaciones
-1 0:28:10 Strategy | Organiza tus algoritmos con este patrón de diseño
-
+1 0:11:22 ¿Por Qué Exploramos el Espacio y No la Tierra? (Javier Santaolalla)
+2 0:20:23 Cómo se Fabrica un Bit Cuántico | Átomos Artificiales
+3 0:32:32 AUDIOLIBRO EXPRESS: Los secretos de la mente millonaria (Resumen extendido)
+4 0:28:20 AUDIOLIBRO EXPRESS: Las Meditaciones de Marco Aurelio (Resumen extendido)
+5 0:35:21 AUDIOLIBRO EXPRESS: El hombre más rico de Babilonia (Resumen extendido)
+6 0:26:44 AUDIOLIBRO EXPRESS: Hábitos atómicos de James Clear (Resumen extendido)
+7 0:36:33 AUDIOLIBRO EXPRESS: La ley de la atracción de William Walker Atkinson (Resumen extendido)
+8 0:46:22 T4 Leyendo con Norita: Girando la Rueda - #jimcollins
+9 1:58:53 ¿Es la ciencia contraria a la fe? ¿Puede existir un dios según la ciencia? | Por el amor de Higgs #1
+10 0:27:18 si querés hacer millones de USD, tenés que ser genuino
+11 1:35:25 V. Completa. ¿Cómo podemos alcanzar nuestro mayor potencial? Mario Alonso Puig, cirujano y escritor
+12 0:41:26 MEJORO mi EMPRESA usando IA: Chatbots, LLM, RAG y mucho más!
+13 2:0:8 Curso de AWS Desde Cero | Amazon Web Services 💻
+14 1:2:29 Dónde están los límites de ChatGPT | #laFunción 9x27
+15 0:46:51 ESTE es el ÚNICO camino a tu PROPÓSITO de VIDA y solo 5% lo consiguen
+16 0:27:9 LEVIATÁN: El terrible MONSTRUO bíblico que peleará con el MESÍAS
+17 0:29:4 Las Dos Enseñanzas del ZOHAR para elevar tu ALMA y alcanzar la ILUMINACIÓN
+18 0:14:36 No CAIGAS en la Trampa de la Serpiente del Siglo 21
+19 0:18:35 Simon Sinek: Cómo los grandes líderes inspiran la acción
+20 0:19:6 Y el mercado en maximo historico... Análisis Semanal.
+21 0:9:14 Las Mejores OFERTAS del Prime Day de Amazon 2024!!!
+22 1:10:49 Como Suprimir las Preocupaciones y Disfrutar de la Vida Parte 1
+23 0:19:58 Físico de partículas explica que el Big Bang NO ES EXACTAMENTE COMO PENSABAS
+24 0:21:12 Científico explica claramente la REALIDAD DEL FENTANILO, sin mentiras ni exageraciones
+25 0:11:11 ¿Cómo evitar perder plata? Lo que no te enseñaron en el colegio sobre las finanzas personales
+26 0:40:48 La dramática predicción de Ludovica Squirru para Javier Milei en el 2025: “Un disruptor”
+27 0:11:21 RESUMEN del libro STEVE JOBS LECCIONES DE LIDERAZGO
+28 0:5:41 CRUZAR LA NOCHE, ALICIA BARBERIS | EL AROMA DE LOS LIBROS
+29 0:13:54 🧠 LOS 7 HÁBITOS DE LA GENTE ALTAMENTE EFECTIVA 💪🏻- Stephen R. Covey. 🖋️
+30 0:7:58 ✅ PALABRAS QUE VENDEN 💰 de Phil M Jones [RESUMEN] ¡MIRALO!
+31 0:8:1 MI OPINIÓN SOBRE EL LIBRO Los secretos de la mente millonaria
+32 0:11:36 Reseña del Libro - Véndele a la Mente Y No a la Gente
+33 0:16:32 Resumen del libro TUS ZONAS ERRÓNEAS 😈 [de WAYNE DYER]
+34 0:11:5 Internet del Dinero-Andreas Antonopoulos
+35 0:6:6 EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO
+36 0:8:1 EL ALEPH RESUMEN 📖 | Análisis y personajes de el aleph
+37 0:13:58 CRACKING THE CODING INTERVIEW ¿SIRVE PARA UNA ENTREVISTA?
+38 0:6:44 El atomic design⚛️ - ¿Qué es y porque deberías saberlo si eres desarrollador Frontend?💻🚀
+39 0:14:33 Propiedad extrema por Jocko Willink y Leif Babin Resumen en 15min
+40 0:9:56 DESPERTANDO AL GIGANTE INTERIOR-ANTHONY ROBBINS-RESUMEN ANIMADO
+41 0:19:59 Algorithms To Live By. Resumen del libro Algoritmos para vivir bien.
+42 0:12:30 El Programador Pragmático - Introducción
+43 0:14:24 Armando mi Jubilación con 200 dólares por mes #5
+44 0:23:47 El poder de las RELACIONES S3XU4LES según la Cabalá
+45 4:18:55 25 grandes personajes de la Historia
+46 0:4:57 16. Generar APK y Tareas - Curso REACT NATIVE
+47 0:16:43 Armando Mi Jubilación: Mis pobres CEDEARs...
+48 0:15:30 Cómo comprar en AMAZON desde Argentina con ENVÍO GRATIS! | GUÍA COMPLETA
+49 0:13:39 Comprar en AMAZON desde ARGENTINA con Envío GRATIS: Respondo TUS DUDAS
+50 0:32:46 GANE 30.000€ en 1 HORA BUSCANDO PRODUCTOS para MI tienda en AMAZON FBA / "MIS 4 MEJORES COMPRAS"
+51 0:34:24 ¡ANALIZANDO un VIRUS por dentro! 🔎🦠
+52 0:10:44 Aprovechando la API de ChatGPT: Creando un Lector de archivos Interactivo con Flowise y ApiChatGPT
+53 0:9:39 DDD Agregados vs Entidades: Explicación en Detalle
+54 1:16:36 CURSO DE C# .NET GRATIS (Intensivo)
+55 0:30:37 Lo bueno y lo feo de los MONITORES OLED
+56 0:20:31 NO UTILIZO NEXT JS
+57 0:35:2 Seguridad en APIs y el nuevo Top 10 - Maximiliano Soler
+58 1:33:13 RESUELVO PRUEBA TÉCNICA de €55K AL AÑO en Europa | React + TypeScript
+59 0:26:27 LUNES NEGRO... Y al final no pasó nada
+60 0:11:31 Tu casa Domótica: MIS RECOMENDACIONES
+61 1:49:49 No todo es programar | ¿Un poco de gaming? 👾
+62 2:5:51 The Commit Show #1 ft @midudev | ¿Qué significa ser senior? ¿Despidos masivos en Tech? ¿GPT-4?
+63 0:22:3 LA GUERRA A LOS FRAMEWORKS
+64 0:43:5 Curso GRATIS AMAZON ARBITRAJE ONLINE 2025 - Vender en Amazon FBA España (PASO A PASO PRINCIPIANTES)
+65 0:15:32 Ningun GAMER está aprovechando esto...
+66 0:27:33 La caída del Imperio romano
+67 0:8:26 💥 5 PUEBLOS de TURISMO GASTRONOMICO ✅️ BUENOS AIRES
+68 0:10:23 💥5 PUEBLOS para VISITAR ✅️ ESCAPADAS de FIN de SEMANA | BUENOS AIRES
+69 0:10:10 ✅️ ARGENTINA SOÑADA 4K | 7 Destinos que Debes Conocer
+70 0:9:15 Programa Software que se EJECUTE SOLO
+71 0:4:39 ¡Truco con GitHub Copilot! Ya NO IMPORTAN los Lenguajes de Programación
+72 0:9:35 Si no haces esto, NO los llames BAGELS
+73 0:16:30 ¿Qué es una CAPA en Arquitectura de Software? Explicación con código
+74 0:56:37 integración de Mercado Pago con Javascript - Checkout Pro - ACTUALIZADO 2024
+75 0:26:24 ¿Cómo salir de las malas rachas? - Ep #03 - NIMP🎙️✅
+76 0:10:4 ¡Caos Mundial por Error en Windows!
+77 0:28:9 Entrevista con Midudev
+78 0:51:27 La "IA" lo cambia TODO | Lo que deberías saber sobre la Inteligencia Artificial
+79 1:12:56 Webinar de Liderazgo | EducaciónBIZ
+80 1:48:56 Webinar de Storytelling | EducaciónBIZ
+81 0:11:47 MISTERIOS Ocultos en el CEMENTERIO de la RECOLETA - BUENOS AIRES
+82 0:22:39 ✅ ARGENTINA MARAVILLOSA 4K | 11 Lugares que debes conocer del País del Tango y el Mate
+83 1:21:50 Webinar de Liderazgo | EducaciónBIZ
+84 0:6:47 Este es el PEOR ERROR FINANCIERO que podes hacer
+85 0:4:46 ¿Comprar una parrilla o comer afuera?
+86 0:6:17 Como Lograr más en UNA SEMANA que en todo un Año
+87 1:42:39 Lo mejor y lo peor de 2023 - Serie Completa
+88 0:10:19 PRIMER COMPRA DEL AÑO 🛒
+89 0:11:18 Cómo comer saludable y que no sea un asco
+90 0:19:55 ME FUI A PERÚ CON UNA LISTA
+91 0:9:9 Por qué los PRETZELS tienen ese sabor extraño y adictivo
+92 0:19:18 Zohar clase 98 Teruma
+93 0:24:54 Sin salida
+94 0:19:52 ¡WhatsApp ya tiene Inteligencia Artificial: Meta AI #96
+95 0:32:14 SETUP para YOUTUBE, CREAR CONTENIDO Educativo Y STREAMING de Programación
+96 0:12:37 La claves del diseño UX
+97 0:15:1 Estas Afirmaciones mejorarán tu vida ✨ ¡Cada día será una bendición!🙏🏻
+98 0:19:14 Historia y mito del rey Arturo. ¿Quién fue? ¿Existió de verdad?
+99 0:10:27 💥¿Cómo pudieron explotar tantos dispositivos a la vez? (Israel vs. Hezbolá)
+100 0:19:33 La historia del Muro de Berlín (un mundo dividido)
+101 0:21:16 La claustrofobia en un submarino de la Segunda Guerra Mundial
+102 4:22:51 Geopolítica del Siglo XXI (bloques, conflictos, estrategias, guerras, poder...)
+103 0:12:58 El trágico final de María Antonieta
+104 0:49:39 Historia del Renacimiento
+105 0:41:20 ¿Cómo inicia y termina STAR? | Te Explico La Historia -origen magia, reinas y fraude butterfly-
+106 3:24:33 ¿Cómo inicia y termina Gravity Falls? | Te Explico La Historia (serie completa, diarios y comics)
+107 0:23:4 UN DÍA SIENDO CHEF DE MI AMIGO 👨‍🍳
+108 0:21:23 💰 Las 3 MEJORES CAMPAÑAS en Facebook Ads para VENDER (2025)
+109 0:36:26 🏠 FACEBOOK ADS para NEGOCIOS LOCALES (2025) ► El ÚNICO TUTORIAL que NECESITAS VER
+110 0:9:17 Así Cambiará el Marketing Digital este 2024 | 10 Estrategias Prácticas
+111 0:24:45 2000 personas compiten por cinco millones de dólares
+112 0:30:54 COMO HACER ANUNCIOS EN FACEBOOK ADS 2025 💰
+113 0:4:58 ¿Qué es Google Ads y Cómo Funciona? (Explicado En 5 MINUTOS ⏰)
+114 1:15:12 Tutorial Completo De Google Ads Para Principiantes (2025)
+115 0:20:20 Cómo hacer Publicidad en TikTok Ads 2025 ✅ Guía Paso a Paso para principiantes
+116 0:23:38 Cómo hacer ANUNCIOS en TikTok Ads 2024 | Tutorial Paso a Paso TikTok Ads 💰
+117 1:56:46 Tutorial Completo De TikTok Ads Para Principiantes (2025)
+118 0:30:23 SOLO PUEDO USAR LAS COSAS DE MI HERMANA *por un dia*
+119 0:11:41 ALEX PELAO Y LA PEOR ENTREVISTA DE SU VIDA - ENTRE DOS SUCULENTAS #5
+120 0:6:43 ¿Por qué sentís que estás atrasado? (Financieramente)
+121 0:8:20 Para los que no saben como invertir.
+122 1:5:45 paseo tranquilo por la montaña con axo y pol
+123 0:11:26 Se confirma LO MEJOR para los salarios de Empleados!!
+124 0:26:35 Tutorial React Native | Minimalistic To Do App | Publishing to Appstore
+125 0:7:9 Una TRABAJADORA SOCIAL revela los SECRETOS de su profesión | PROFESIONES
+126 1:28:46 "Todo Regresará a Dios" - El Poder de la Teshuvá en la Cabalá
+127 0:5:40 GUERRA en OpenAI
+128 0:25:7 Recibe MILLONES del banco | ¿Cómo funciona el crédito en USA?
+129 0:8:46 ENDEUDARSE para ser RICO... ¿Bueno o Malo? | Mauro Stendel
+130 1:1:41 ¿Cómo HACERTE MILLONARIO? Clase GRATIS | Mauro Stendel
+131 0:15:11 ¡Así se ven MILLONES de DOLARES en propiedades! Real estate
+132 0:19:57 6 años después visité Israel | Mauro Stendel
+133 0:17:0 ASÍ SE ROBAN 300.000 USD DE CLUBES ARGENTINOS
+134 2:15:34 Curso de HOSTING desde CERO (Completo)
+135 0:14:14 Creé MI PROPIO CHAT-GPT (mejorado) en minutos
+136 0:17:33 PROGRAMACIÓN AVANZADA: Introducción a REFLECTION, la herramienta MÁS POLÉMICA de la programación
+137 0:13:33 Bard vs ChatGPT: Cual es mejor para PROGRAMAR?
+138 0:17:25 ⚡️Historia de la energía y transición energética (todo lo que tienes que saber en 17 minutos)
+139 0:22:35 El Sacro Imperio Romano Germánico
+140 0:9:36 Conquistadores: héroes y villanos
+141 0:27:7 Sube todo, las Criptomonedas también - Análisis Semanal
+142 0:9:1 😱¿COMO analizar ACCIONES DESDE CERO?😱 [BASICO] ► Plataforma ► Temporalidades ► Bolsa ► JovenInversor
+143 0:23:4 INCREIBLE: ALUMNO FACTURA 15.000€ en UN MES haciendo AMAZON ARBITRAJE Y MARCA PRIVADA
+144 0:24:44 ¿ Cuanto DINERO Necesitas para Empezar en AMAZON ARBITRAJE? / Revelo todo lo que NECESITAS
+145 0:14:30 EL SOMBRERO ES NUEVO!
+146 0:40:13 Armo una PC para mi editor (y se la ENVIDIO)
+147 0:18:22 Nunca voy a superar esto
+148 0:33:31 VoidZero puede terminar mal
+149 0:15:41 Elon Musk se salta la ley en Brasil con Cloudflare
+150 0:1:20 Motivación para entrenar!! #cardio #fitnessmotivation #turbosteps #piernas
+151 0:13:58 Notion VS Obsidian (3 años después)
+152 0:18:43 DIEGO TOPA: Tarta de coco y dulce de leche - Paulina Sessions #11
+153 0:8:10 EL MARAVILLOSO MUNDO DE LAS RABAS / 6 formas diferentes: aprendelo TODO 😱
+154 0:48:6 EL RETO DE MRBEAST #7 | JORDI WILD
+155 0:9:36 15 TRUCOS AVANZADOS para Alexa (en 2023) que te ASEGURO te van a SERVIR MUCHÍSIMO
+156 0:5:22 🔔 ENVÍA NOTIFICACIONES a ALEXA desde NOTION con INTEGROMAT (Curso de la API de Notion desde Cero)
+157 0:8:42 Como integrar Chat GPT en Alexa 🤯 (TUTORIAL)
+158 0:16:10 21 Trucos De Cocina Que Aprendí En Restaurantes Michelin
+159 0:45:46 La DESAPARICIÓN de Loan
+160 0:9:23 Como TESTEAR pagos en MERCADO PAGO de manera efectiva
+161 0:17:59 ASI se invierte el AGUINALDO de diciembre 2024!
+162 0:3:2 Imagine Dragons - Wake Up (Official Music Video)
+163 0:14:52 La TRAMPA LEGAL más INGENIOSA (y turbia) de Japón
+164 0:26:52 24 HORAS EN UN HOTEL DE LUJO 🏨⭐
+165 0:25:37 UN DIA COMIENDO SOLO PRODUCTOS CONGELADOS
+166 0:23:54 Cómo ser disciplinado para aprender a programar y alcanzar tus objetivos
+167 0:17:52 PELIGRO EN RAMOS MEJIA
+168 0:7:46 5 Hábitos Que Me Ahorran +20 Horas a la Semana
+169 0:18:33 Cómo Empezar a Volar DRONES FPV en 2024 🚀
+170 0:11:52 Frascos Naranja X ¿Buena inversión?
+171 0:19:28 AL FIN ALGO NUEVO
+172 0:16:14 Cómo engañar a todo el mundo
+173 0:10:6 Bitcoin hace nuevo maximo historico🎉
+174 0:6:23 Amazon acaba con el trabajo remoto - trabajo presencial 100%
+175 2:40:16 The Wild Project #185 ft El Bananero | Alcohol y sustancias, Harry el Sucio Potter, Su depresión
+176 0:26:16 Han salido las Apple Vision Pro #86
+177 0:3:7 EL PROBLEMA DE INSTALAR FRAMEWORKS Y BIBLIOTECAS
+178 0:32:51 Análisis NO VERBAL TRUMP vs KAMALA HARRIS
+179 0:25:25 ANÁLISIS NO VERBAL MARLEY
+180 0:17:48 🚨CUIDADO - NICOLAS MADURO HACE GESTOS DE GUERRA!
+181 0:30:56 🚨 URGENTE ¿NICOLAS MADURO ESTÁ FINGIENDO? - ANÁLISIS NO VERBAL
+182 0:25:40 💥¿MADURO MIENTE? ANÁLISIS NO VERBAL
+183 0:24:9 ¿RoRo NOS MIENTE? Análisis NO VERBAL
+184 0:24:28 CASO LOAN - ANÁLISIS NO VERBAL
+185 0:13:11 HAY AMOR entre MILEI y MELONI? Análisis NO VERBAL
+186 0:16:37 Me intentó estafar y... (se fue estafado)
+187 0:12:8 Pude SER MILLONARIO pero... (en serio)
+188 0:32:51 NO COMPRES DÓLARES EN ARGENTINA SIN VER ESTE VIDEO
+189 0:19:23 ASÍ SE HACE UN ANALISIS DE MERCADO REAL
+190 0:13:28 COMO DEMOSTRAR QUE SOS LA MEJOR OPCIÓN
+191 0:13:5 ANTES de CREAR un ECOMMERCE…
+192 0:13:40 ¿Que C*ARAJO hago con MI SUELDO de PROGRAMADOR?
+193 0:14:13 Esta IA programa más rápido que yo 💀
+194 0:24:44 Por esto NO terminas los CURSOS...
+195 0:22:27 ASI HACKEARON AL GOBIERNO
+196 0:11:22 Que es Markdown y porque apenderlo: Aprende Markdown DESDE CERO y en 10 minutos
+197 0:15:50 Llegó el fin para los programadores? Es Devin el futuro?
+198 0:2:39 Por qué no están contratando a los nuevos desarrolladores?
+199 0:2:1 Los nuevos desarrolladores no califican como devs
+200 0:8:14 Ruta de aprendizaje para Desarrollador Backend - Cómo empezar desarrollo este 2024?
+201 0:8:30 Ruta de aprendizaje para Desarrollador frontend - Cómo empezar desarrollo este 2024?
+202 0:19:25 El Imperio británico, el imperio colonial más extenso de la historia
+203 0:12:14 Los SUMERIOS, la primera civilización de la historia
+204 0:38:44 Contra la Revolución francesa (con Fernando Díaz Villanueva y Alberto Garín)
+205 0:21:1 Historia y Geopolítica de ALEMANIA 🇩🇪
+206 0:15:59 El ascenso de Hitler al poder en Alemania
+207 0:12:58 Luchas de poder en Irán. ¿Qué ocurre tras la muerte del Presidente? ¿Y la sucesión del Ayatolá?
+208 0:1:39 La MITOLOGÍA GRIEGA como nunca antes te la habían contado
+209 0:16:32 El Imperio austrohúngaro
+210 0:27:17 1492: Reconquista y Descubrimiento de América
+211 0:15:7 IRÁN contra ISRAEL (el conflicto en 15 minutos)
+212 0:17:14 El conflicto entre CHINA y TAIWÁN
+213 0:23:39 Las invasiones bárbaras
+214 0:28:42 El Jesús histórico y el Jesús de la Biblia
+215 0:12:52 La Cheka: la temible agencia soviética
+216 0:13:36 La creación de la Unión Europea
+217 6:50:38 La Leyenda Negra española explicada (en 7 horas)
+218 0:19:30 ¿Por qué IRÁN y ARABIA SAUDÍ se odian?
+219 0:23:29 La Venezuela de Hugo Chávez
+220 0:19:17 Los Kennedy
+221 0:1:21 España contra su Leyenda Negra. Mitos, agravios y discursos.
+222 0:21:13 Felipe II, ¿ángel o demonio? La Leyenda Negra asociada al monarca español
+223 0:29:53 MIS INGRESOS PASIVOS 2021✅COMO CONSEGUIR 100USD MENSUALES - [Joven Inversor]
+224 0:24:27 Se EXTIENDE el BLANQUEO, EMPEZO el BULLRUN CRIPTO? - Análisis Semanal
+225 0:30:17 ¿Se terminó la fiesta? - Análisis Semanal
+226 0:20:5 SUPERAVIT EN MAYO, NVIDIA ES LA REINA, SP500 NUEVO MAXIMO - Análisis Semanal
+227 0:26:17 Aprende a Orar con estos 5 pasos y consigue la oración perfecta
+228 0:17:45 Te están intentando IMPLANTAR esto y solo ASÍ te librarás de ellos
+229 0:25:31 ¿Qué es el Amor? De dónde viene y porque no te ha funcionado
+230 0:15:58 Las 3 Palabras Hebreas más poderosas para PROTECCIÓN ¡Activa milagros inexplicables! EIN OD MILVADO
+231 0:16:32 ¡El Momento más poderoso de todo el día! (Todos duermen en él y lo desaprovechan)
+232 0:16:52 ¡Este es el mes en que tu vida puede cambiar! Descubre POR QUÉ
+233 0:20:20 Decir esto es hacer un PACTO con SATAN (Muchos lo hacen sin saberlo)
+234 0:22:44 La Práctica Espiritual más antigua de la historia ¡Puede cambiar tu vida!
+235 1:19:52 5 Secretos de la RIQUEZA JUDÍA ¡Aplícalos HOY mismo!
+236 0:20:55 URGENTE: Se viene un DILUVIO al mundo y solo ASÍ podrás salvarte
+237 0:22:29 Di esta Oración Hebrea de 5 palabras sobre el agua y dásela a un enfermo. | #kabalah #kabbalah
+238 0:13:3 4 mejores técnicas de la Ley de la Atracción - "El Secreto" miente
+239 0:11:56 Haz estas 3 cosas con la SAL y líbrate de toda maldición | #kabalah #kabbalah #cabala
+240 0:26:7 7 pasos para MANIFESTAR tus Sueños según la Cabalá
+241 0:17:9 ¡3 cosas que nunca debes hacer con tus uñas! Atrae MALDICIÓN
+242 0:13:23 Hacer ESTO en la mañana puede arruinar tu día! CUIDADO!
+243 0:19:13 SATANÁS: ¿Enemigo o Siervo de Dios? Descubre lo que dice la Cabalá
+244 0:23:36 Las 8 Claves del Éxito del Rey David [Misterios del SALMO 27]
+245 0:28:12 [MAL DE OJO] Cómo librarte de él con esta Guía Definitiva - SEGULA Definitiva
+246 0:20:22 El Mesías NO viene hasta que ocurra ESTO
+247 0:21:22 #LILITH: La Primera Mujer de ADAN - Así te Librarás de su Influencia
+248 0:11:56 4 Cosas que no sabías pero ahora gracias a mí sabrás
+249 0:15:44 Todas las reseñas son falsas
+250 0:11:48 6 Cosas que no sabías porque tampoco puedes saberlo todo
+251 0:11:30 No pasa una hora sin una mentira (3)
+252 0:7:22 Cómo Cumplir la NORMATIVA DE AMAZON FBA en la UE para Evitar BLOQUEOS En Tus Productos en Amazon🚫
+253 0:14:59 La Forma Más Fácil De GANAR 10.000€ Al Mes En Amazon FBA
+254 0:51:50 ➤ TUTORIAL KEEPA COMPLETO (2025) | Como Analizar Productos Para Vender en Amazon FBA
+255 0:35:23 ➤ Como Usar SellerAmp SAS | GUÍA COMPLETA PARA PRINCIPIANTES 2025 (PASO A PASO)
+256 0:29:58 La CRUDA VERDAD Sobre Vender en Amazon FBA | "Lo Que Nadie Te Cuenta" - Marca Privada en Amazon FBA
+257 0:9:10 5974€ en su PRIMER MES VENDIENDO con AMAZON ARBITRAJE - Cifra Record de ALBERTO
+258 0:23:25 INVIERTO 292€ Haciendo ARBITRAGE... 3 meses después ESTOS SON LOS RESULTADOS!!!
+259 0:27:40 CURSO GRATUITO ONLINE ARBITRAJE EN AMAZON | Domina ACTORIO
+260 0:16:39 INVIERTO 612,49€ haciendo ARBITRAJE en AMAZON con estos productos.
+261 0:16:54 Por Esto FRACASARÁS en AMAZON FBA en 2024 / NO HAGAS MARCA PRIVADA en AMAZON
+262 0:17:57 INVIERTO 352€ Haciendo ARBITRAGE en AMAZON Con Estos Productos Para Mi Tienda en AMAZON FBA
+263 1:55:43 Son peores cuando sí le GUSTAS - LIVE - Martes de Modo Guerra
+264 1:45:49 BASURA PARA EL CUERPO - Jueves de Compas
+265 2:28:35 TODOS fracasamos en el AMOR - LIVE - Martes de Modo Guerra
+266 1:45:6 ¿Por qué la MUJER MODERNA es confrontativa? - Jueves de Compas
+267 1:40:8 ROGANDO LE ABURRES MÁS - LIVE FACEBOOK
+268 0:16:45 Amazon elimina el trabajo en remoto
+269 0:8:32 El NUEVO editor de código de SuperMaven será una LOCURA
+270 0:9:53 Estofado de cerdo, ¿mejor que el de carne? Receta completa | Locos X el Asado
+271 0:14:21 Festejo mi cumple: Futbol, patadas, asado y aplausos - Puedo morir tranquilo
+272 0:10:51 El mejor Sandwich de Bondiola que probé: Receta paso a paso | Locos X el Asado
+273 0:21:38 Provoleta Argentina: La receta perfecta | Locos X el Asado
+274 0:16:7 El Choripan mas Caro del Mundo: ¿Vale la pena? | Locos X el Asado
+275 0:8:37 Trucha al Asador | Patagonia Viva
+276 0:8:0 Jabalí Asado | Patagonia Viva
+277 0:8:37 Cordero al Asador | Patagonia Viva
+278 1:58:10 Reunión Navideña de Frikis del Notion
+279 0:12:9 Las cosas van a cambiar...
+280 0:10:54 7 Casos en los que NO Deberías Usar Notion
+281 0:12:31 Cómo superar un Bloqueo Emocional
+282 0:38:15 VIVIR DE RENTAS - Con cuánta plata sos millonario en Argentina
+283 0:9:48 UN DÍA EN MI VIDA INMOBILIARIA: Embudos de conversión, fuentes de ingreso y más!
+284 0:31:0 ¿Cuál es el verdadero PREMIO de EMPRENDER? 🎯 La cruda realidad del EXITO
+285 1:29:19 Cómo generar ingresos pasivos en forma rápida, segura y eficiente | Jonatan Kon Oppel, Santi Magnin
+286 0:53:30 La verdad de la milanesa sobre los Créditos Hipotecarios UVA 2024
+287 0:38:32 CAMINO ÓPTIMO para ahorrar e invertir
+288 1:39:59 SER RICO POSTA: ¿Qué es? ¿Cuánto hay que ganar? ¿Cuánto dinero hay que tener? En Argentina y en EEUU
+289 0:11:19 4 RAZONES por las que estás DESTRUYENDO tu CARRERA
+290 0:11:37 5 COSAS que QUERRÍA haber APRENDIDO
+291 0:11:15 4 CARACTERÍSTICAS que te ayudarán a MEJORAR como DESARROLLADOR
+292 0:12:53 Así YOUTUBE experimenta CONTIGO
+293 0:8:2 Prueba Técnica de ENTREVISTA para JUNIOR... ¡sin IF's ni BUCLES!
+294 0:26:15 ¿Clases de HARVARD GRATIS? Analizando CS50
+295 0:25:22 Cómo y por qué he cambiado mi FÍSICO, mi VIDA y mis HÁBITOS
+296 0:24:19 ¡El PC de FINAL FANTASY XVI! (+260 horas de trabajo artesanal)
+297 0:29:10 ¿TE ESCUCHA TU MÓVIL?
+298 0:35:37 ¡El MEJOR Mac Pro vs el MEJOR PC GAMING!
+299 0:21:37 La cara oculta de la informática... Dentro de un DATACENTER
+300 0:38:10 Cómo Steve Jobs ARRUINÓ su vida (Y suplicó para volver a Apple)
+301 0:15:35 Dragon Ball Sparking! Zero es el Budokai Tenkaichi que llevas 17 años esperando
+302 0:12:33 Estilos Arquitectónicos de API (SOAP, REST, GraphQL y más)
+303 0:6:49 Por qué es importante la arquitectura de software
+304 0:9:48 Esto va a Salvar tu Trabajo como Programador
+305 0:8:34 No entraba en la bandeja!: Costillas de Cerdo a la Riojana // Recetas de Bodegón #01
+306 0:8:4 La MEJOR receta de calabaza que probé en el AÑO
+307 0:1:41 ¡Atención programadores! No uses este código de YouTube
+308 0:11:17 Por qué los Elegidos No pueden estar Rodeados de Mucha Gente
+309 0:21:50 El Bananero Se Pone Como Lokita Después de Probar la Salsa Más Picante del Mundo
+310 0:15:3 ¡¿Trabajo y Estudio?! TIPS usando PSICOLOGÍA + storytime
+311 0:35:29 MARIA BECERRA INCOMODO MOMENTO con ADAM SANDLER - ME QUIEREN FUNAR OTRA VEZ - ALFREDO CASERO
+312 1:43:32 6 modelos de negocio explicados por sus expertos millonarios
+313 0:9:48 Ahora hago así la focaccia (la más fácil del mundo)
+314 0:24:48 JUAN INGARAMO: Lomito cordobés - Paulina Session #10
+315 0:9:43 SANGUCHE DE MILANESA TUCUMANO (COMPLETO) ¿EL MEJOR SANGUCHE DEL MUNDO?
+316 0:9:19 NO VAS A CREER LO QUE LLEVA ESTA RECETA DE POLLO
+317 0:8:20 LO HAGO UNA VEZ Y ME DURA TODA LA SEMANA
+318 0:20:33 VISITO EL MEJOR RESTAURANTE DEL MUNDO (LITERAL, EL MEJOR): Esta es mi experiencia
+319 0:13:11 ÑOQUIS DE CALABAZA RELLENOS PASO A PASO
+320 0:12:48 CUANDO YA NO SABES QUÉ COCINAR
+321 0:9:16 No hago más el FALAFEL con garbanzos de lata: ASÍ ES LA RECETA ORIGINAL DEL FALAFEL
+322 0:11:47 Paté casero: receta súper económica y fácil para llevar a la casa de tu cuñada
+323 0:8:39 Las hago con Lentejas: muy fácil y completo (ensalada de Lentejas)
+324 0:8:19 10 recetas de Tarta: sencillo, rápido y fácil
+325 0:13:0 Tiene 7 años y cocina Arroz Chaufa - Cocinen Ustedes #6
+326 0:12:20 Así hago el Pollo al Ajillo con papas en 20 minutos (muy fácil)
+327 0:14:17 Mi receta de Arroz con Pollo paso a paso
+328 0:10:37 Por qué deberías hacer ASÍ tus milanesas de berenjenas (y milanesa de berenjena rellenas)
+329 0:10:47 Masterclass del Pollo al Horno: hasta la pechuga queda húmeda
+330 0:20:11 🔴TASHLIJ: Ritual Judío para abrir caminos, buena suerte, gracia divina, alejar enfermedades y muerte
+331 0:8:13 🔥 Antiguo Demonio de más de 2000 años | El Exorcismo de Rabí Akiva | Cómo operan los Demonios
+332 0:12:16 🔥 Poderosísimo amuleto cabalístico de Protección para alejar todo lo malo, brujería, enemigos etc...
+333 0:29:58 La disfunción del lenguaje en el Arbol de la Vida y la activación de lo simbólico como expresión
+334 0:32:7 Místicos Judíos: Los Esenios de Qumrán, Prácticas, Rituales y Creencias | Dr. Adolfo Roitman
+335 0:14:56 🔥 Las fases de la Luna para atraer el dinero, abundancia, salud, y alejar los enemigos y problemas
+336 0:22:7 Clase #5 Exorcismo Judío | Postración en la tumbas: Cómo despertar a los muertos - Kabbalah Secreta
+337 0:2:41 ¿Cómo se produce una posesión demoníaca? Evita que un espíritu entre dentro de ti | Exorcismo Judío
+338 0:12:9 🔥 Los últimos libros secretos de Kabbalah que he adquirido en mi viaje por Europa
+339 0:9:13 🔥 La Sombra en la Esquina: Los Espíritus que viven en tu casa ¿Cómo te afectan? ¿Quiénes son?
+340 0:11:23 🔥DEMONIOS que encarnan en la Tierra como seres humanos y están acabando con el mundo
+341 0:11:26 Mi tarta de jamón y queso es RE PRO (+ masa para tarta)
+342 0:11:24 Si te sobran verduras sueltas prepara estas brochetas sencillas: las salsas lo hacen todo
+343 0:8:12 TREMENDO LO QUE HACE LELE CRISTOBAL CON ALMENDRAS - 1 chef 1 ingrediente
+344 0:3:58 Todos me preguntan QUÉ LE PUSE: Mi NUEVA receta de chimichurri casero
+345 0:8:4 SÓLO CON UNA PAPA: 14 Sencillas Recetas de Papas que Querrás Aprender
+346 0:9:58 Encuentro la SALSA DEL NONO y Termino Haciendo Un OSOBUCO AL DISCO Increíble
+347 0:16:40 SÓLO 1 Ingrediente + Agua: 6 Tortillas ASOMBROSAS que Deberías Aprender a Hacer
+348 0:9:6 Dillom: Tacos - Paulina Session #01
+349 0:1:6 Crea un mapa mental de un documento en 1 minuto
+350 0:6:42 ¿Dónde aprender Programación sin pagar nada y conseguir una guía de estudio?
+351 0:10:0 Este Templo Antiguo de 1800 años se Transforma en una Máquina - Arqueología Prohibida
+352 0:12:58 5 Encuentros más Inquietantes con Extraterrestres y los Verdaderos Hombres de Negro
+353 0:10:5 Vida Después de la Muerte ¿Qué hay en el más allá?
+354 0:10:27 Lo que Ocurrió en Japón en 1803 Te Dejará sin Palabras ¿Qué era y quién estaba dentro?
+355 0:15:11 Existió Otra Especie Avanzada en la Tierra Antes de los Humanos - Hipótesis Siluriana
+356 0:21:38 Cómo Controlar Mentalmente el Campo Energético - Conocimiento Oculto
+357 0:8:1 El Abandono Cósmico ¿Qué es la Amnesia Espiritual?
+358 0:13:26 ¿Son Obras de Antiguas Civilizaciones Avanzadas o Huellas de Visitas Extraterrestres?
+359 0:11:17 LOS MAYORES ENCUBRIMIENTOS ARQUEOLÓGICOS DE LA HISTORIA
+360 0:15:5 Lo que No te Dijeron Jamás Sobre el Universo y Nuestro Poder de Creación
+361 0:15:49 El Extraterrestre que Vivía entre los Hombres
+362 0:10:47 Base Alienígena en Utah - Inexplicables Sucesos Paranormales en Rancho Skinwalker
+363 0:10:2 Jack Parsons, el Ingeniero Espacial que Fusionó Ciencia y Ocultismo
+364 0:16:28 Descubren un Sarcófago de 800 Millones de Años en Siberia - NO ES HUMANA
+365 0:10:2 El Lugar más Sagrado del Mundo - Conocimiento Antiguo Oculto
+366 0:6:1 ¿Estás considerando abandonar la programación?
+367 0:46:13 un poco de reddit para compensar el si te ríes pierdes del otro día
+368 0:15:43 Historiador detalla cómo fue el IMPERIO ROMANO realmente, sin mentiras ni exageraciones
+369 0:24:46 "La Universidad NO ENSEÑA a Programar". La opinión de estudiantes.
+370 0:36:57 21 Trabajos Online Para Ganar Dinero Desde Casa
+371 0:28:52 El Discurso MÁS IMPORTANTE de STEVE JOBS | Documental
+372 0:24:56 hoy pablo me ha pedido que juegue a TERRORO
+373 0:9:12 La programación está por despegar el 2025
+374 0:8:52 De adicta a la ropa a cuponmaniática | Cuponmanía | TLC Latinoamérica
+375 0:9:45 20 TRUCOS AVANZADOS si tienes ALEXA (con Echo dot en 2022)
+376 0:16:5 17 TRUCOS PARA ALEXA - ¡Domina tu AMAZON ECHO AL 100%!
+377 0:11:31 Cambiar de vida: pasito a pasito
+378 0:8:35 🤯🔫 Llega NOTION a INTEGROMAT y Me Destruye la Vida (Curso de la API de Notion desde Cero)
+379 1:47:21 15 Hábitos para Tener una Salud Mental del 1% (Borja Vilaseca)
+380 0:20:40 Planifica tu Menú Saludable para Toda la Semana | Ahorra Tiempo, Dinero y Pierde Grasa
+381 0:9:17 Compré los Objetos Más ABSURDOS de TikTok
+382 0:8:25 El DRAMA de GLOBANT
+383 0:17:19 Cómo conectar con tu propósito y levantarte cada mañana con ilusión | Sebastián Lora | TEDxArxiduc
+384 0:17:44 PASÉ 24H HACIENDO LA DIETA MILITAR
+385 0:12:42 SUPERMERCADO MÁS BARATO vs MÁS CARO DEL MUNDO
+386 0:34:32 Libra ESTO SE PONDRÁ INCREÍBLE! ADIÓS A UN "MAL", 10 DE OROS Y COPAS VAS A VIVIR, CAMBIO CON HECHOS
+387 0:7:3 EL JUEGO mas AMBICIOSO de AVATAR ESTA POR LLEGAR 🥵 | Avatar: La leyenda de Aang Juego Triple A
+388 0:8:28 El vitel toné ORIGINAL de Italia
+389 0:40:24 ALQUILÉ UN BOLICHE PARA MI CUMPLEAÑOS Y PASÓ LO PEOR...
+390 0:44:3 SORPRENDO a mis PASAJEROS de UBER con mi MUSTANG
+391 0:31:22 Libra SE CUMPLIRÁ TU GRAN DESEO! VIENE JUSTICIA Y TODO SE ACLARA, TU LE GUSTAS A ESTA PERSONA
+392 0:9:17 La HAMBURGUESA más jugosa que vas a probar EN TU VIDA
+393 0:9:24 Por qué los HUEVOS BENEDICTINOS son mis huevos favoritos
+394 0:18:59 ZOE GOTUSSO: las milanesas de su abuela - Paulina Session #06
+395 0:8:50 Arroz con calamares DESDE CERO y con la parte más ECONÓMICA del calamar
+396 0:13:12 LAS RIBS DE KANSAS
+397 0:14:8 10 juegazos que no sabías que ya están en móviles
+398 0:6:0 MEJORES AURICULARES GAMER CALIDAD/PRECIO 2024 😱 CORSAIR VOID
+399 0:6:11 ¿TABLET Y NOTEBOOK GAMER AL MISMO TIEMPO? 😱 TAB A11 PRO
+400 0:5:40 ARMAMOS LA NUEVA PC GAMER DE @soydairi ¿VALE LA PENA?
+401 0:6:54 ESTE ES EL GABINETE MAS CARO DE ASUS 🤑 ROG HYPERION
+402 0:18:6 UBISOFT SIN SALIDA
+403 0:27:35 CRISIS DE MEMORIA en las RTX 5080: QUÉ está PASANDO?
+404 0:28:0 GeForce RTX 5090 y RTX 5080 FILTRADAS 🔥 32 GB GDDR7 y 600W
+405 0:51:20 ¿Cómo prepararse para el mundo post Inteligencia Artificial? (Crescitec - Puno 2024)
+406 0:16:0 Todo sobre OpenAI o1: ¿Realmente puede razonar?
+407 0:27:13 ¿Cómo crear una nube privada desde casa? (Synology NAS)
+408 0:13:12 Los secretos del Event Sourcing, ¿por qué debes usarlo? | Julián Velandia | EDcamp Bogotá 2023
+409 0:28:53 Los inventos tecnológicos más importantes de la historia | Parte 2
+410 0:26:46 ¿Los programadores le temen a la IA? (encuesta StackOverflow 2024)
+411 0:7:24 ¿México en BRICS? | Embajador de Rusia en México.
+412 0:7:2 Embajador de Rusia ADVIERTE sobre ataques a larga distancia.
+413 0:3:38 Segundo atentado de Trump (Nadie habla de eso)
+414 0:18:26 SACÁ LOS ÑOQUIS DE AHI AMIGO 😂
+415 0:35:4 7 UBICACIONES SECRETAS DE GOOGLE MAPS REACCIÓN DE AURONPLAY. (VIDEO VIEJO COMO TÚ) 👴👴
+416 0:13:49 LLUVIA Y PASTAS en ALACENA
+417 1:4:4 MasterClass: 7 Habilidades para transitar la vida con tranquilidad, armonía y calma
+418 0:8:47 NUNCA había probado hacer MATAMBRE así
 ________________________________________________________________________________
-
-Tenemos 32 videos mayores a 30 minutos y menores a 60 minutos
-1 0:30:44 BATERÍAS: ¿Cómo funcionan y por qué son un GRAN PROBLEMA?
-1 0:31:7 La cruda verdad sobre cómo armar un Data Lake - Hugo Bellomusto - Maximiliano Méndez
-1 0:31:10 La IA que cambió los juegos para siempre... Cómo funciona DLSS
-1 0:31:43 🖥 ¿Cómo ser BACKEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
-1 0:31:49 ¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React
-1 0:32:38 💻 ¿Cómo ser FRONTEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
-1 0:35:4 Lo que NO te contaron sobre Ray Tracing
-1 0:35:20 200 verbos regulares e irregulares en inglés con pronunciación y significado en español
-1 0:35:59 Enriqueciendo nuestros AB tests con un enfoque bayesiano - Mauro Giormenti Moravec
-1 0:36:14 ❌ MANEJO DE ERRORES en RUST 🦀 (Lenguaje de Programación) | Rust desde cero.
-1 0:36:43 Prueba Este RETO PARA MANIFESTAR DINERO 7 DÍAS Y VERÁS RESULTADOS INCREÍBLES ¡Tu mente es poderosa!
-1 0:37:38 🔑 SESIÓN de USUARIO en REACT y en Local Storage ... y COOKIES 🍪? (Full Stack JavaScript Bootcamp)
-1 0:37:39 Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo
-1 0:38:45 Crear el Videojuego Pong en Javascript
-1 0:38:57 Resuelvo el PROBLEMA del VIAJANTE Utilizando Aleatoriedad 🤘
-1 0:39:10 asp.net core - MediatR (CQRS) Tutorial & Tips
-1 0:39:43 CREA Usuarios y AÑADE SEGURIDAD a tus CONTRASEÑAS 🔒 en MongoDB (FullStack JavaScript Bootcamp)
-1 0:42:50 📚 Curso desde cero de GraphQL - Parte 1: ¿Qué es GraphQL? Creando un servidor desde cero con queries
-1 0:45:28 Integración Continua: qué es y cómo empezar a usarla en tu proyecto
-1 0:46:25 Las palabras más importantes en inglés para principiantes
-1 0:47:37 👨‍🏫 Fragmentos y Suscripciones en GraphQL en una aplicación con React⚛️
-1 0:47:58 🔝DESCUBRE los 50 VERBOS MÁS USADOS en INGLÉS / APRENDE por fin los VERBOS más HABITUALES 🚀(2023)
-1 0:48:16 Crea una APP con PYTHON y CHATGPT desde cero
-1 0:51:53 🇪🇸 #3 - Cómo empezar con AWS? - Virtualización, contenedores, serverless (Podcast AWS en Español)
-1 0:52:9 FUNDAMENTOS de RUST 🦀 (lenguaje de programación) | Aprende Rust desde Cero en español
-1 0:52:57 ¿Cómo comenzar a Programar Frontend?
-1 0:54:24 midulive
-1 0:55:26 JSON Web Tokens 🔐 - Asegura tu Express API fácilmente (Full Stack JavaScript Bootcamp)
-1 0:56:17 Configura el linter ESLint y DEPLOY de tu API con Heroku 🚀 - Bootcamp FullStack JavaScript Gratuito
-1 0:57:23 🔴 TESTING de BACKEND con Express usando JEST y SUPERTEST ~ FullStack Bootcamp JavaScript
-1 0:57:51 Qué es Clean Architecture ? cómo aplicarlo a tu aplicación Front End ?
-1 0:58:21 EXPRESIONES REGULARES Desde Cero
-
+Repetidos
 ________________________________________________________________________________
-
-Tenemos 82 Videos mayores a una hora
-1 1:0:25 Arquitectura de Datos, ¿y eso qué es? 📊
-1 1:3:40 Aumenta tu productividad programando ⚡ Probamos plugin asistente con INTELIGENCIA ARTIFICIAL 🤯
-1 1:4:23 KOTLIN Desde Cero: Primeros Pasos en una hora
-1 1:5:5 Las tecnologías más usadas en el 2021 | la función CodelyTV 59
-1 1:5:11 GPT-4, El Futuro de JavaScript, Sueldos en Tech | Raw Radio #3 ft Miguel Ángel Durán (Midudev)
-1 1:5:28 ChatGPT Miente, Despidos en Tech, ¿Qwik Promete?, España, Dominicode | Raw Radio #7 ft Bezael Pérez
-1 1:7:25 CodelyTV - Redescubre la programación
-1 1:8:7 El arte de Explicar - Lee Lefever (¿Cómo explicarse mejor?) !!RESUMEN¡¡(APOYO A EMPRENDEDORES)
-1 1:8:21 hdeleon.net
-1 1:10:13 DART Desde Cero: Primeros Pasos en una hora
-1 1:10:13 Crea Aplicaciones de Escritorio con JavaScript y Electron
-1 1:10:17 Programamos una app con REMIX | #laFunción 7x12
-1 1:10:33 Revisión de proyectos de programación, noticias de tecnología y más #NullPointerExceptionLive
-1 1:10:49 Crea una WEB usando solo PYTHON
-1 1:11:10 GOLANG (GO) Desde Cero: Primeros Pasos
-1 1:11:59 ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design
-1 1:12:20 Mi primera vez con RUST | la función CodelyTV 71
-1 1:12:31 Solid.js Desde Cero ¿El sucesor de React? ⚛️
-1 1:12:38 ¿GPT-4 Remplazará Programadores?, Ser Freelance, Hate en Redes, Batman | Raw Radio #6 ft Brais Moure
-1 1:12:56 Webinar de Liderazgo | EducaciónBIZ
-1 1:13:3 BACKEND AVANZADO, The Commit Show, Auto-GPT, ¿Realidad Simulada? | Raw Radio #10 ft BettaTech
-1 1:14:59 SWIFT Desde Cero: Primeros Pasos en una hora
-1 1:15:22 ERES NEURODIVERSO y MULTIPOTENCIAL | 🎙Podcast Hablando.js con @paolatech
-1 1:16:7 2021 es el año de TypeScript y otras sorpresas del estado del desarrollo | la función CodelyTV 67
-1 1:16:58 Claves estoicas para superar las adversidades de la vida | Conferencia presencial | Borja Vilaseca
-1 1:17:7 ⚡ CÓMO DISEÑAR la Arquitectura de un Sistema | Pre-Lanzamiento de mi NUEVO CURSO
-1 1:17:46 8 patrones de diseño que deberías conocer, charla con Manuel Zapata
-1 1:18:30 Introducción al TESTING con PYTHON desde cero
-1 1:18:58 Stackoverflow ha sido comprado, noticias de tecnología #NullPointerExceptionLive
-1 1:19:1 Entrevista a Programadores de PcComponentes | la función CodelyTV 43
-1 1:19:2 ¿Comenzar por JavaScript o por React?, Minecraft, Burnout, GPT-4 | Raw Radio #9 ft Carlos Azaustre
-1 1:20:46 Paradigmas de programación | Invitado Nicolás Schürmann de @HolaMundoDev
-1 1:21:34 Nerdearla
-1 1:21:50 Webinar de Liderazgo | EducaciónBIZ
-1 1:25:45 🔴Preguntas y respuestas de Programación en VIVO #21, Mis primeras impresiones del lenguaje GO
-1 1:25:53 Arquitectura de MICROSERVICIOS | Conceptos | Ejemplo con Java y AWS
-1 1:25:57 Microservicios en plataformas híbridas, modelo de devops y operación
-1 1:25:58 CodelyTV, SOLID, GPT-4, Lenguajes de Programación, Arq. de Software | Raw Radio #4 ft Javier Ferrer
-1 1:26:44 Hagamos una web 3D con Three.js y React Three Fiber
-1 1:26:45 midudev
-1 1:28:48 🔴 ¿Existe el Programador FULL STACK? | Preguntas y respuestas de Programación en VIVO #25
-1 1:29:16 😲 DOMINA EL INGLÉS con 250 Frases de los 125 VERBOS IRREGULARES en INGLÉS / Habla INGLÉS en 90 min.
-1 1:29:26 Aprende Docker ahora! curso completo gratis desde cero!
-1 1:30:43 Clase 4: Combinatoria
-1 1:30:53 Clase 2: Inducción Completa
-1 1:30:58 APRENDE a usar GRAPHQL en tu APP de REACT con APOLLO CLIENT 🚀
-1 1:31:13 Clase 3: Combinatoria
-1 1:32:11 Clase 5: Combinatoria
-1 1:32:54 🖥️ Supercomputadoras🚀 todo lo que siempre quisiste saber 🚄
-1 1:33:1 Clase 6: Combinatoria
-1 1:33:13 Clase 1: Inducción Completa
-1 1:33:40 El Futuro del Frontend, Creación de Contenido, Vivir en Canadá | Raw Radio #2 ft Fernando Herrera
-1 1:34:59 Vivir en Nueva Zelanda, Cancelaciones en Internet | Raw Radio #1 ft Nicolás Schürmann
-1 1:38:9 Reven
-1 1:38:19 🔌 Conecta MongoDB con GraphQL paso a paso
-1 1:41:18 CONOCER TODO Sobre ti usando tu ADN, Biotecnología, Neurodiversidad | Raw Radio #24 ft Paola Garcia
-1 1:42:8 Aprendiendo NextJS, el framework de React con Server Side Rendering
-1 1:46:22 The Commit Show #5 ft @MatesMike | ¿P vs NP? ¿Matemáticas en la Informática?
-1 1:48:56 Webinar de Storytelling | EducaciónBIZ
-1 1:49:36 Webinar de Project Management | EducaciónBIZ
-1 1:49:49 No todo es programar | ¿Un poco de gaming? 👾
-1 1:54:59 Clean Architecture 👉Todo lo que necesitas saber
-1 1:56:23 #1 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
-1 1:56:27 midudev
-1 2:0:57 FLUTTER vs KOTLIN/SWIFT ¿Cuál es mejor para crear Aplicaciones?
-1 2:1:36 TRABAJA como PROGRAMADOR en el EXTRANJERO | Con @HolaMundoDev 🔴 HackerLIVE#15
-1 2:2:19 GitHub es el Instagram de los Programadores + Probando Stable Diffusion
-1 2:3:57 NO Necesitas Kubernetes, sólo te estás complicando la vida
-1 2:5:51 The Commit Show #1 ft @midudev | ¿Qué significa ser senior? ¿Despidos masivos en Tech? ¿GPT-4?
-1 2:17:11 🔴 Hablemos de .NET 6 y MAUI | Latino .NET Online
-1 2:21:57 4tomik
-1 2:22:53 Seminario de Inteligencia Emocional
-1 2:33:26 DEV WARS: Episodio I ✨ 8 Programadores, 2 Equipos, 5 Pruebas y mucha diversión
-1 2:38:9 Introducción a Entity Framework Core 7 - CURSO GRATUITO
-1 3:5:56 ¿Qué nos depara el nuevo año? Analizamos 2021 y planeamos 2022
-1 3:12:40 Cómo Empezar Una Agencia De Marketing Digital SMMA (Paso a Paso)
-1 3:14:48 #3 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
-1 3:17:8 TRABAJAR desde CASA 🏠 COMO ser FREELANCE y TELETRABAJAR | 🔴 HackerLIVE#7
-1 3:44:59 CURSO de Marketing Digital Completo (2024)
-1 3:58:1 AWS Certified Cloud Practitioner Training 2020 - Full Course
-1 6:24:40 Curso de Introducción a Algoritmia
-1 6:28:42 Curso GRATIS de Patrones de Arquitectura (Capas, microservicios y más) 💥
-
-________________________________________________________________________________
-
-1 0:5:46 Enum Types en GraphQL | 📚 Curso desde cero de GraphQL - Parte 3
-2 0:6:2 📳 Mutation para editar datos en servidor de GraphQL - 📚 Curso desde cero de GraphQL - Parte 4
-3 0:10:34 RUST DESDE CERO ⚙️ PRIMEROS PASOS con el lenguaje de PROGRAMACIÓN
-4 0:14:3 Introducción a GraphQL en español. ¿Qué es? ¿Para qué sirve? Sus ventajas. [Curso express GraphQL]
-5 0:16:43 Queries y GraphiQL con la API de Rick & Morty [Curso express GraphQL]
-6 0:16:46 Crea tu servidor GraphQL con Apollo Server [Curso express GraphQL]
-7 0:17:49 Patrón de Diseño DECORATOR | Explicado 🎨
-8 0:17:51 Conecta una API REST con GraphQL en Apollo Server [Curso express GraphQL]
-9 0:18:0 Cómo usar GraphQL en React ⚛️con Apollo Client [Curso express GraphQL]
-10 0:18:18 📚 Curso desde cero de GraphQL - Parte 2: Cambiando datos en el servidor con MUTATIONS
-11 0:22:12 Pruebas unitarias y Test-Driven Development | Ejemplo desde cero
-12 0:22:57 Resuelvo PRUEBA TÉCNICA para PROGRAMADOR JUNIOR
-13 0:23:30 Ejemplo de JavaScript Avanzado (ÚLTIMO VIDEO)
-14 0:25:10 Adapter | Integra aplicaciones con este patrón de diseño
-15 0:26:25 Observer | Notificando eventos en nuestras aplicaciones
-16 0:28:10 Strategy | Organiza tus algoritmos con este patrón de diseño
-17 0:30:44 BATERÍAS: ¿Cómo funcionan y por qué son un GRAN PROBLEMA?
-18 0:31:7 La cruda verdad sobre cómo armar un Data Lake - Hugo Bellomusto - Maximiliano Méndez
-19 0:31:10 La IA que cambió los juegos para siempre... Cómo funciona DLSS
-20 0:31:43 🖥 ¿Cómo ser BACKEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
-21 0:31:49 ¿Redux no te convence? Descubre Recoil y dale una vuelta a tu app #React
-22 0:32:38 💻 ¿Cómo ser FRONTEND DEVELOPER? Ruta para APRENDER DESARROLLO WEB en 2021
-23 0:35:4 Lo que NO te contaron sobre Ray Tracing
-24 0:35:20 200 verbos regulares e irregulares en inglés con pronunciación y significado en español
-25 0:35:59 Enriqueciendo nuestros AB tests con un enfoque bayesiano - Mauro Giormenti Moravec
-26 0:36:14 ❌ MANEJO DE ERRORES en RUST 🦀 (Lenguaje de Programación) | Rust desde cero.
-27 0:36:43 Prueba Este RETO PARA MANIFESTAR DINERO 7 DÍAS Y VERÁS RESULTADOS INCREÍBLES ¡Tu mente es poderosa!
-28 0:37:38 🔑 SESIÓN de USUARIO en REACT y en Local Storage ... y COOKIES 🍪? (Full Stack JavaScript Bootcamp)
-29 0:37:39 Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo
-30 0:38:45 Crear el Videojuego Pong en Javascript
-31 0:38:57 Resuelvo el PROBLEMA del VIAJANTE Utilizando Aleatoriedad 🤘
-32 0:39:10 asp.net core - MediatR (CQRS) Tutorial & Tips
-33 0:39:43 CREA Usuarios y AÑADE SEGURIDAD a tus CONTRASEÑAS 🔒 en MongoDB (FullStack JavaScript Bootcamp)
-34 0:42:50 📚 Curso desde cero de GraphQL - Parte 1: ¿Qué es GraphQL? Creando un servidor desde cero con queries
-35 0:45:28 Integración Continua: qué es y cómo empezar a usarla en tu proyecto
-36 0:46:25 Las palabras más importantes en inglés para principiantes
-37 0:47:37 👨‍🏫 Fragmentos y Suscripciones en GraphQL en una aplicación con React⚛️
-38 0:47:58 🔝DESCUBRE los 50 VERBOS MÁS USADOS en INGLÉS / APRENDE por fin los VERBOS más HABITUALES 🚀(2023)
-39 0:48:16 Crea una APP con PYTHON y CHATGPT desde cero
-40 0:51:53 🇪🇸 #3 - Cómo empezar con AWS? - Virtualización, contenedores, serverless (Podcast AWS en Español)
-41 0:52:9 FUNDAMENTOS de RUST 🦀 (lenguaje de programación) | Aprende Rust desde Cero en español
-42 0:52:57 ¿Cómo comenzar a Programar Frontend?
-43 0:54:24 midulive
-44 0:55:26 JSON Web Tokens 🔐 - Asegura tu Express API fácilmente (Full Stack JavaScript Bootcamp)
-45 0:56:17 Configura el linter ESLint y DEPLOY de tu API con Heroku 🚀 - Bootcamp FullStack JavaScript Gratuito
-46 0:57:23 🔴 TESTING de BACKEND con Express usando JEST y SUPERTEST ~ FullStack Bootcamp JavaScript
-47 0:57:51 Qué es Clean Architecture ? cómo aplicarlo a tu aplicación Front End ?
-48 0:58:21 EXPRESIONES REGULARES Desde Cero
-49 1:0:25 Arquitectura de Datos, ¿y eso qué es? 📊
-50 1:3:40 Aumenta tu productividad programando ⚡ Probamos plugin asistente con INTELIGENCIA ARTIFICIAL 🤯
-51 1:4:23 KOTLIN Desde Cero: Primeros Pasos en una hora
-52 1:5:5 Las tecnologías más usadas en el 2021 | la función CodelyTV 59
-53 1:5:11 GPT-4, El Futuro de JavaScript, Sueldos en Tech | Raw Radio #3 ft Miguel Ángel Durán (Midudev)
-54 1:5:28 ChatGPT Miente, Despidos en Tech, ¿Qwik Promete?, España, Dominicode | Raw Radio #7 ft Bezael Pérez
-55 1:7:25 CodelyTV - Redescubre la programación
-56 1:8:7 El arte de Explicar - Lee Lefever (¿Cómo explicarse mejor?) !!RESUMEN¡¡(APOYO A EMPRENDEDORES)
-57 1:8:21 hdeleon.net
-58 1:10:13 DART Desde Cero: Primeros Pasos en una hora
-59 1:10:13 Crea Aplicaciones de Escritorio con JavaScript y Electron
-60 1:10:17 Programamos una app con REMIX | #laFunción 7x12
-61 1:10:33 Revisión de proyectos de programación, noticias de tecnología y más #NullPointerExceptionLive
-62 1:10:49 Crea una WEB usando solo PYTHON
-63 1:11:10 GOLANG (GO) Desde Cero: Primeros Pasos
-64 1:11:59 ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design
-65 1:12:20 Mi primera vez con RUST | la función CodelyTV 71
-66 1:12:31 Solid.js Desde Cero ¿El sucesor de React? ⚛️
-67 1:12:38 ¿GPT-4 Remplazará Programadores?, Ser Freelance, Hate en Redes, Batman | Raw Radio #6 ft Brais Moure
-68 1:12:56 Webinar de Liderazgo | EducaciónBIZ
-69 1:13:3 BACKEND AVANZADO, The Commit Show, Auto-GPT, ¿Realidad Simulada? | Raw Radio #10 ft BettaTech
-70 1:14:59 SWIFT Desde Cero: Primeros Pasos en una hora
-71 1:15:22 ERES NEURODIVERSO y MULTIPOTENCIAL | 🎙Podcast Hablando.js con @paolatech
-72 1:16:7 2021 es el año de TypeScript y otras sorpresas del estado del desarrollo | la función CodelyTV 67
-73 1:16:58 Claves estoicas para superar las adversidades de la vida | Conferencia presencial | Borja Vilaseca
-74 1:17:7 ⚡ CÓMO DISEÑAR la Arquitectura de un Sistema | Pre-Lanzamiento de mi NUEVO CURSO
-75 1:17:46 8 patrones de diseño que deberías conocer, charla con Manuel Zapata
-76 1:18:30 Introducción al TESTING con PYTHON desde cero
-77 1:18:58 Stackoverflow ha sido comprado, noticias de tecnología #NullPointerExceptionLive
-78 1:19:1 Entrevista a Programadores de PcComponentes | la función CodelyTV 43
-79 1:19:2 ¿Comenzar por JavaScript o por React?, Minecraft, Burnout, GPT-4 | Raw Radio #9 ft Carlos Azaustre
-80 1:20:46 Paradigmas de programación | Invitado Nicolás Schürmann de @HolaMundoDev
-81 1:21:34 Nerdearla
-82 1:21:50 Webinar de Liderazgo | EducaciónBIZ
-83 1:25:45 🔴Preguntas y respuestas de Programación en VIVO #21, Mis primeras impresiones del lenguaje GO
-84 1:25:53 Arquitectura de MICROSERVICIOS | Conceptos | Ejemplo con Java y AWS
-85 1:25:57 Microservicios en plataformas híbridas, modelo de devops y operación
-86 1:25:58 CodelyTV, SOLID, GPT-4, Lenguajes de Programación, Arq. de Software | Raw Radio #4 ft Javier Ferrer
-87 1:26:44 Hagamos una web 3D con Three.js y React Three Fiber
-88 1:26:45 midudev
-89 1:28:48 🔴 ¿Existe el Programador FULL STACK? | Preguntas y respuestas de Programación en VIVO #25
-90 1:29:16 😲 DOMINA EL INGLÉS con 250 Frases de los 125 VERBOS IRREGULARES en INGLÉS / Habla INGLÉS en 90 min.
-91 1:29:26 Aprende Docker ahora! curso completo gratis desde cero!
-92 1:30:43 Clase 4: Combinatoria
-93 1:30:53 Clase 2: Inducción Completa
-94 1:30:58 APRENDE a usar GRAPHQL en tu APP de REACT con APOLLO CLIENT 🚀
-95 1:31:13 Clase 3: Combinatoria
-96 1:32:11 Clase 5: Combinatoria
-97 1:32:54 🖥️ Supercomputadoras🚀 todo lo que siempre quisiste saber 🚄
-98 1:33:1 Clase 6: Combinatoria
-99 1:33:13 Clase 1: Inducción Completa
-100 1:33:40 El Futuro del Frontend, Creación de Contenido, Vivir en Canadá | Raw Radio #2 ft Fernando Herrera
-101 1:34:59 Vivir en Nueva Zelanda, Cancelaciones en Internet | Raw Radio #1 ft Nicolás Schürmann
-102 1:38:9 Reven
-103 1:38:19 🔌 Conecta MongoDB con GraphQL paso a paso
-104 1:41:18 CONOCER TODO Sobre ti usando tu ADN, Biotecnología, Neurodiversidad | Raw Radio #24 ft Paola Garcia
-105 1:42:8 Aprendiendo NextJS, el framework de React con Server Side Rendering
-106 1:46:22 The Commit Show #5 ft @MatesMike | ¿P vs NP? ¿Matemáticas en la Informática?
-107 1:48:56 Webinar de Storytelling | EducaciónBIZ
-108 1:49:36 Webinar de Project Management | EducaciónBIZ
-109 1:49:49 No todo es programar | ¿Un poco de gaming? 👾
-110 1:54:59 Clean Architecture 👉Todo lo que necesitas saber
-111 1:56:23 #1 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
-112 1:56:27 midudev
-113 2:0:57 FLUTTER vs KOTLIN/SWIFT ¿Cuál es mejor para crear Aplicaciones?
-114 2:1:36 TRABAJA como PROGRAMADOR en el EXTRANJERO | Con @HolaMundoDev 🔴 HackerLIVE#15
-115 2:2:19 GitHub es el Instagram de los Programadores + Probando Stable Diffusion
-116 2:3:57 NO Necesitas Kubernetes, sólo te estás complicando la vida
-117 2:5:51 The Commit Show #1 ft @midudev | ¿Qué significa ser senior? ¿Despidos masivos en Tech? ¿GPT-4?
-118 2:17:11 🔴 Hablemos de .NET 6 y MAUI | Latino .NET Online
-119 2:21:57 4tomik
-120 2:22:53 Seminario de Inteligencia Emocional
-121 2:33:26 DEV WARS: Episodio I ✨ 8 Programadores, 2 Equipos, 5 Pruebas y mucha diversión
-122 2:38:9 Introducción a Entity Framework Core 7 - CURSO GRATUITO
-123 3:5:56 ¿Qué nos depara el nuevo año? Analizamos 2021 y planeamos 2022
-124 3:12:40 Cómo Empezar Una Agencia De Marketing Digital SMMA (Paso a Paso)
-125 3:14:48 #3 Aprendiendo RUST (el lenguaje) con la COMUNIDAD
-126 3:17:8 TRABAJAR desde CASA 🏠 COMO ser FREELANCE y TELETRABAJAR | 🔴 HackerLIVE#7
-127 3:44:59 CURSO de Marketing Digital Completo (2024)
-128 3:58:1 AWS Certified Cloud Practitioner Training 2020 - Full Course
-129 6:24:40 Curso de Introducción a Algoritmia
-130 6:28:42 Curso GRATIS de Patrones de Arquitectura (Capas, microservicios y más) 💥
-
-________________________________________________________________________________
-
